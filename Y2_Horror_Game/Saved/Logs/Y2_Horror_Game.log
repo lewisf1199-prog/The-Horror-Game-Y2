@@ -1390,3 +1390,366 @@ Sampler Limit: 32
 [2026.11.14-01.45.15:899][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.11.14-01.45.16:001][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
 [2026.11.14-01.45.24:801][829]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.11.14-01.45.55:146][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.11.14-01.45.55:158][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto2
+[2026.11.14-01.45.55:158][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1_Auto26F64C0BA4C934094904460A386C360A5.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Levels/Level_1_Auto2.umap'
+[2026.11.14-01.45.55:159][465]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.030
+[2026.11.14-01.45.55:159][465]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2026.11.14-01.45.55:160][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Materials/Wood_Planks_throbglfw_4K] ([1] browsable assets)...
+[2026.11.14-01.45.55:211][465]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Wood_Planks/High/Materials/Wood_Planks_throbglfw_4K.Wood_Planks_throbglfw_4K]
+[2026.11.14-01.45.55:211][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Materials/Wood_Planks_throbglfw_4K]
+[2026.11.14-01.45.55:220][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Materials/Wood_Planks_throbglfw_4K_Auto2
+[2026.11.14-01.45.55:220][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_Auto27DE8A2414C1852670F3ED581875EA17B.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Materials/Wood_Planks_throbglfw_4K_Auto2.uasset'
+[2026.11.14-01.45.55:222][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_AO] ([1] browsable assets)...
+[2026.11.14-01.45.55:223][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_AO.Wood_Planks_throbglfw_4K_AO]
+[2026.11.14-01.45.55:223][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_AO]
+[2026.11.14-01.45.55:231][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_AO_Auto2
+[2026.11.14-01.45.55:231][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_AO_Auto324DE78D4D57E0C1B7AAE599CCF750C8.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_AO_Auto2.uasset'
+[2026.11.14-01.45.55:232][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor] ([1] browsable assets)...
+[2026.11.14-01.45.55:233][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor.Wood_Planks_throbglfw_4K_BaseColor]
+[2026.11.14-01.45.55:233][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor]
+[2026.11.14-01.45.55:245][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor_Auto2
+[2026.11.14-01.45.55:245][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_BaseCol886BDB5C48D21692E73F448E417DC802.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor_Auto2.uasset'
+[2026.11.14-01.45.55:245][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Bump] ([1] browsable assets)...
+[2026.11.14-01.45.55:247][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Bump.Wood_Planks_throbglfw_4K_Bump]
+[2026.11.14-01.45.55:247][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Bump]
+[2026.11.14-01.45.55:255][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Bump_Auto2
+[2026.11.14-01.45.55:255][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_Bump_Au27DE8055456472A47C026588DB194745.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Bump_Auto2.uasset'
+[2026.11.14-01.45.55:256][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Displacement] ([1] browsable assets)...
+[2026.11.14-01.45.55:257][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Displacement.Wood_Planks_throbglfw_4K_Displacement]
+[2026.11.14-01.45.55:257][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Displacement]
+[2026.11.14-01.45.55:263][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Displacement_Auto2
+[2026.11.14-01.45.55:263][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_Displac2117698F41B6D7C9AB3427A7B455915F.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Displacement_Auto2.uasset'
+[2026.11.14-01.45.55:264][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss] ([1] browsable assets)...
+[2026.11.14-01.45.55:265][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss.Wood_Planks_throbglfw_4K_Gloss]
+[2026.11.14-01.45.55:265][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss]
+[2026.11.14-01.45.55:275][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss_Auto2
+[2026.11.14-01.45.55:275][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_Gloss_A8531DCBA4F75BD6816E326860D534C5C.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss_Auto2.uasset'
+[2026.11.14-01.45.55:275][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Roughness] ([1] browsable assets)...
+[2026.11.14-01.45.55:277][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Roughness.Wood_Planks_throbglfw_4K_Roughness]
+[2026.11.14-01.45.55:277][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Roughness]
+[2026.11.14-01.45.55:285][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Roughness_Auto2
+[2026.11.14-01.45.55:285][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_RoughneBEF4C427455B760892E53F9B2ED53CAD.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Roughness_Auto2.uasset'
+[2026.11.14-01.45.55:287][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Specular] ([1] browsable assets)...
+[2026.11.14-01.45.55:289][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Specular.Wood_Planks_throbglfw_4K_Specular]
+[2026.11.14-01.45.55:289][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Specular]
+[2026.11.14-01.45.55:296][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Specular_Auto2
+[2026.11.14-01.45.55:296][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_SpeculaB9BA2A7346CEB43FA5A00FB0AF6D3661.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Specular_Auto2.uasset'
+[2026.11.14-01.45.55:297][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Normal] ([1] browsable assets)...
+[2026.11.14-01.45.55:298][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Normal.Wood_Planks_throbglfw_4K_Normal]
+[2026.11.14-01.45.55:298][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Normal]
+[2026.11.14-01.45.55:313][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Normal_Auto2
+[2026.11.14-01.45.55:313][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_Normal_B7CA3DB6493AD2DB035A999456DBBFC3.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Normal_Auto2.uasset'
+[2026.11.14-01.45.55:314][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail] ([1] browsable assets)...
+[2026.11.14-01.45.55:315][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail.thumbnail]
+[2026.11.14-01.45.55:315][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail]
+[2026.11.14-01.45.55:321][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail_Auto2
+[2026.11.14-01.45.55:321][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/thumbnail_Auto233EA0A0842ADD439FFF44D8543DEC34D.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail_Auto2.uasset'
+[2026.11.14-01.45.55:322][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/Wood_Planks_throbglfw_4K_Cavity] ([1] browsable assets)...
+[2026.11.14-01.45.55:323][465]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/Wood_Planks_throbglfw_4K_Cavity.Wood_Planks_throbglfw_4K_Cavity]
+[2026.11.14-01.45.55:323][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/Wood_Planks_throbglfw_4K_Cavity]
+[2026.11.14-01.45.55:333][465]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/Wood_Planks_throbglfw_4K_Cavity_Auto2
+[2026.11.14-01.45.55:333][465]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Planks_throbglfw_4K_Cavity_0C30B0E4414D1C9A9A8267AEAD7B6302.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/Wood_Planks_throbglfw_4K_Cavity_Auto2.uasset'
+[2026.11.14-01.45.55:333][465]LogFileHelpers: Auto-saving content packages took 0.174
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: ================================================
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Total job queries 458, among them cache hits 38 (8.30%), DDC hits 342 (74.67%), Duplicates 68 (14.85%)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Tracking 352 distinct input hashes that result in 253 distinct outputs (71.88%)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: RAM used: 3.38 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Average time worker was idle: 0.47 s
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 1.25 s
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 1.27
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Shader code size: total 71.637 KiB, numShaders 10, average 7.163 KiB, min 4.602 KiB, max 10.531 KiB
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.08 s
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Average processing rate: 4.81 jobs/sec
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Total thread time: 4.125 s
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Total thread preprocess time: 5.103 s
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Percentage time preprocessing: 123.73%
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Effective parallelization: 1.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.248230
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.74 sec, max 0.79 sec, min 0.69 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.48 sec, min 0.37 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.32 sec, min 0.27 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.29 sec, max 0.32 sec, min 0.26 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.04% of total time (compiled    2 times, average 0.74 sec, max 0.79 sec, min 0.69 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.55% of total time (compiled    2 times, average 0.42 sec, max 0.48 sec, min 0.37 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.05% of total time (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.33% of total time (compiled    2 times, average 0.30 sec, max 0.32 sec, min 0.27 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.04% of total time (compiled    2 times, average 0.29 sec, max 0.32 sec, min 0.26 sec)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: === Material stats ===
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Materials Translated:    153
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Material Translation Only: 0.04 s (46%)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: Material Cache Hits: 27 (18%)
+[2026.11.14-01.47.12:194][784]LogShaderCompilers: Display: ================================================
+[2026.11.14-01.47.21:835][850]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-01.47.21:843][850]LogTexture: Display: Building textures: /Game/MSPresets/MSTextures/Albedo.Albedo (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.11.14-01.47.38:703][508]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial
+[2026.11.14-01.47.38:706][508]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.11.14-01.47.39:123][508]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.14-01.47.39:123][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.11.14-01.47.39:123][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.14-01.47.39:123][508]MaterialEditorStats: Shader Count: 0
+[2026.11.14-01.47.39:123][508]MaterialEditorStats: Preshaders: 32  (50 param fetches, 176 ops)
+[2026.11.14-01.47.39:206][510]MaterialEditorStats: Base pass shader: 264 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.11.14-01.47.39:206][510]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.14-01.47.39:206][510]MaterialEditorStats: Texture samplers: 3/16
+[2026.11.14-01.47.39:206][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.11.14-01.47.39:206][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.14-01.47.39:206][510]MaterialEditorStats: Shader Count: 5
+[2026.11.14-01.47.39:206][510]MaterialEditorStats: Preshaders: 32  (50 param fetches, 176 ops)
+[2026.11.14-01.47.42:478][833]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2026.11.14-01.50.12:497][581]LogShaderCompilers: Display: ================================================
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Total job queries 499, among them cache hits 48 (9.62%), DDC hits 355 (71.14%), Duplicates 74 (14.83%)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Tracking 377 distinct input hashes that result in 271 distinct outputs (71.88%)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: RAM used: 3.50 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Shaders Compiled: 22
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Average time worker was idle: 59.70 s
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 1.25 s
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Job life time (pending + execution): average 0.63 s, max 1.27
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Shader code size: total 156.75 KiB, numShaders 22, average 7.125 KiB, min 4.375 KiB, max 11.512 KiB
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.66 s
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Average processing rate: 6.02 jobs/sec
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Total thread time: 8.63 s
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Total thread preprocess time: 5.571 s
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Percentage time preprocessing: 64.55%
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.295021
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.73 sec, max 0.79 sec, min 0.69 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.40 sec, max 0.48 sec, min 0.35 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.29 sec, max 0.32 sec, min 0.27 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.28 sec, max 0.32 sec, min 0.26 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 37.03% of total time (compiled    8 times, average 0.40 sec, max 0.48 sec, min 0.35 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.54% of total time (compiled    3 times, average 0.73 sec, max 0.79 sec, min 0.69 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.06% of total time (compiled    5 times, average 0.29 sec, max 0.32 sec, min 0.27 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.62% of total time (compiled    3 times, average 0.31 sec, max 0.33 sec, min 0.29 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.74% of total time (compiled    3 times, average 0.28 sec, max 0.32 sec, min 0.26 sec)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: === Material stats ===
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Materials Translated:    165
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Material Translation Only: 0.04 s (48%)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2026.11.14-01.50.12:498][581]LogShaderCompilers: Display: ================================================
+[2026.11.14-01.51.01:976][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5813.741699
+[2026.11.14-01.51.02:976][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-01.51.02:976][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5814.408203, Update Interval: 345.323639
+[2026.11.14-01.52.12:469][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.11.14-01.52.12:624][258]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.11.14-01.52.12:635][258]LogSlate: Took 0.009084 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.11.14-01.52.13:753][258]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.14-01.52.13:801][258]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MSPresets/MSTextures/Albedo_Mat.Albedo_Mat
+	Asset Type: Material
+[2026.11.14-01.52.14:055][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.11.14-01.52.14:067][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.11.14-01.52.14:077][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.11.14-01.52.15:745][414]LogMaterialEditor: Saving and Compiling material MS_DefaultMaterial
+[2026.11.14-01.52.15:747][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.14-01.52.15:810][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial] ([1] browsable assets)...
+[2026.11.14-01.52.15:810][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial]
+[2026.11.14-01.52.15:820][414]LogSavePackage: Moving output files for package: /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial
+[2026.11.14-01.52.15:821][414]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/MS_DefaultMaterial20ADD8664DC99CF6BD76FEA743EC2613.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset'
+[2026.11.14-01.52.15:833][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.808 ms (total: 343.845 ms)
+[2026.11.14-01.52.15:886][414]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.14-01.52.15:886][414]LogContentValidation: Enabled validators:
+[2026.11.14-01.52.15:886][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.14-01.52.15:886][414]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.14-01.52.15:886][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.14-01.52.15:886][414]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.14-01.52.15:886][414]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.14-01.52.15:886][414]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.14-01.52.15:886][414]AssetCheck: /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial Validating asset
+[2026.11.14-01.52.15:903][414]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.14-01.55.55:430][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.11.14-01.55.55:445][998]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto3
+[2026.11.14-01.55.55:445][998]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1_Auto31E70557E4E7D9CB7B29FFBA6CB0E3D9C.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Levels/Level_1_Auto3.umap'
+[2026.11.14-01.55.55:447][998]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.033
+[2026.11.14-01.55.55:447][998]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.11.14-01.57.40:985][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6212.772949
+[2026.11.14-01.57.41:985][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-01.57.41:985][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6213.439453, Update Interval: 349.157990
+[2026.11.14-01.57.49:199][623]LogContentBrowser: Deferred new asset file creation: MS_DefaultMaterial_Inst
+[2026.11.14-01.57.49:221][623]LogContentBrowser: Creating deferred item: MS_DefaultMaterial_Inst
+[2026.11.14-01.57.49:243][624]LogContentBrowser: Renaming the item being created (Deferred Item: MS_DefaultMaterial_Inst).
+[2026.11.14-01.57.57:104][520]LogContentBrowser: Attempting asset rename: MS_DefaultMaterial_Inst -> Wood_Floor
+[2026.11.14-01.57.57:104][520]LogContentBrowser: End creating deferred item MS_DefaultMaterial_Inst
+[2026.11.14-01.57.58:511][661]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MSPresets/MS_DefaultMaterial/Wood_Floor.Wood_Floor
+[2026.11.14-01.57.58:514][661]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: ================================================
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Total job queries 578, among them cache hits 56 (9.69%), DDC hits 386 (66.78%), Duplicates 74 (12.80%)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Tracking 448 distinct input hashes that result in 328 distinct outputs (73.21%)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: RAM used: 3.90 MiB of 1.60 GiB budget. Usage: 0.24%
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Shaders Compiled: 62
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Jobs assigned 62, completed 62 (100%)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Average time worker was idle: 95.21 s
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.54 s
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Job execution time: average 0.59 s, max 1.35 s
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Job life time (pending + execution): average 0.64 s, max 1.45
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Shader code size: total 530.516 KiB, numShaders 67, average 7.918 KiB, min 1.727 KiB, max 14.234 KiB
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.47 s
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Jobs were issued in 62 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Average processing rate: 4.97 jobs/sec
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Total thread time: 28.798 s
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Total thread preprocess time: 6.432 s
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Percentage time preprocessing: 22.33%
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.288622
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 0.98 sec, max 1.08 sec, min 0.88 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.71 sec, max 0.79 sec, min 0.60 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.54 sec, max 0.60 sec, min 0.50 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.52 sec, max 0.54 sec, min 0.51 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   22 times, average 0.38 sec, max 0.48 sec, min 0.31 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.33% of total time (compiled   22 times, average 0.38 sec, max 0.48 sec, min 0.31 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.34% of total time (compiled    7 times, average 0.71 sec, max 0.79 sec, min 0.60 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.98% of total time (compiled    5 times, average 0.98 sec, max 1.08 sec, min 0.88 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.39% of total time (compiled   13 times, average 0.27 sec, max 0.32 sec, min 0.23 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display:                                                  FVelocityPS - 5.61% of total time (compiled    3 times, average 0.54 sec, max 0.60 sec, min 0.50 sec)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: === Material stats ===
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Materials Translated:    165
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Material Translation Only: 0.04 s (48%)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2026.11.14-01.59.12:575][463]LogShaderCompilers: Display: ================================================
+[2026.11.14-02.01.35:044][547]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-02.01.35:053][547]LogSlate: Took 0.000564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.11.14-02.01.41:511][195]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-02.01.41:516][195]LogTexture: Display: Building textures: /Game/MSPresets/MSTextures/Normal.Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.11.14-02.01.54:304][622]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-02.01.54:309][622]LogTexture: Display: Building textures: /Game/MSPresets/MSTextures/Roughness.Roughness (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.11.14-02.02.14:445][819]LogStreaming: Display: FlushAsyncLoading(405): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-02.02.14:500][819]LogTexture: Display: Building textures: /Game/MSPresets/MSTextures/noise_normal.noise_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.11.14-02.03.19:020][ 23]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-02.03.19:030][ 23]LogTexture: Display: Building textures: /Game/MSPresets/MSTextures/AlbedoVT.AlbedoVT (TFO_AutoDXT VT, 512x512 x1x1x1) (Required Memory Estimate: 32.169271 MB), EncodeSpeed: Fast
+[2026.11.14-02.04.00:886][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6592.588867
+[2026.11.14-02.04.01:885][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-02.04.01:885][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6593.254395, Update Interval: 354.764862
+[2026.11.14-02.05.51:586][327]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-02.05.51:629][327]LogTexture: Display: Building textures: /Game/MSPresets/MSTextures/noise_mask.noise_mask (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.11.14-02.06.09:565][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.14-02.06.09:676][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.11.14-02.06.09:688][211]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.14-02.06.09:688][211]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1A3A1C15D490EEAA86AB6FF9B788AC959.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.14-02.06.09:695][211]LogFileHelpers: Saving map 'Level_1' took 0.065
+[2026.11.14-02.06.09:703][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.552 ms (total: 481.397 ms)
+[2026.11.14-02.06.09:762][211]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.14-02.06.09:762][211]LogContentValidation: Enabled validators:
+[2026.11.14-02.06.09:762][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.14-02.06.09:762][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.14-02.06.09:762][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.14-02.06.09:762][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.14-02.06.09:762][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.14-02.06.09:762][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.14-02.06.09:762][211]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.14-02.06.11:364][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.14-02.06.11:414][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MSPresets/MS_DefaultMaterial/Wood_Floor] ([1] browsable assets)...
+[2026.11.14-02.06.11:457][395]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MSPresets/MS_DefaultMaterial/Wood_Floor.Wood_Floor]
+[2026.11.14-02.06.11:457][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/MSPresets/MS_DefaultMaterial/Wood_Floor]
+[2026.11.14-02.06.11:471][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.11.14-02.06.11:594][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.14-02.06.11:602][395]LogSavePackage: Moving output files for package: /Game/MSPresets/MS_DefaultMaterial/Wood_Floor
+[2026.11.14-02.06.11:602][395]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Wood_Floor10CB912A4430A7BE9E607AACD4F6B7D3.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/MSPresets/MS_DefaultMaterial/Wood_Floor.uasset'
+[2026.11.14-02.06.11:611][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.267 ms (total: 728.665 ms)
+[2026.11.14-02.06.11:665][395]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.14-02.06.11:665][395]LogContentValidation: Enabled validators:
+[2026.11.14-02.06.11:665][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.14-02.06.11:665][395]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.14-02.06.11:665][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.14-02.06.11:665][395]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.14-02.06.11:665][395]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.14-02.06.11:665][395]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.14-02.06.11:665][395]AssetCheck: /Game/MSPresets/MS_DefaultMaterial/Wood_Floor Validating asset
+[2026.11.14-02.06.11:679][395]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.14-02.06.51:429][792]LogFabLauncher: Debug payload: [{"id":"2f3201b4-93a0-4c86-a154-ee31e35b2781","path":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/gltf/high/wood_planks_throbglfw_4k_extracted","meshes":[{"file":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/gltf/high/wood_planks_throbglfw_4k_extracted/throbglfw_tier_1.gltf","name":"","material_index":0,"lods":[]}],"materials":[],"native_files":[],"additional_textures":[],"metadata":{"launcher":{"version":"0.0.1","listening_port":24563},"megascans":{"assetCategories":{"surface":{"wood":{"plank":{}}}},"averageColor":"#6E675B","categories":["surface","wood","planks"],"comp_version":1,"description":"","displacementBias":0.89374299999999995,"displacementCalibrationAccuracy":0.99165400000000004,"displacementScale":0.41838700000000001,"environment":{"biome":"undefined","region":"undefined"},"highest_available_res":8192,"id":"throbglfw","json":{"contentLength":12340,"uri":"throbglfw.json"},"maps":[{"averageColor":"#F8F8F8","bitDepth":32,"colorSpace":"sRGB","contentLength":45252381,"maxIntensity":255,"mimeType":"image/x-exr","minIntensity":6,"name":"AO","physicalSize":"2x2","resolution":"8192x8192","type":"ao","uri":"throbglfw_8K_AO.exr"},{"averageColor":"#F8F8F8","bitDepth":8,"colorSpace":"sRGB","contentLength":6627316,"maxIntensity":255,"mimeType":"image/jpeg","minIntensity":6,"name":"AO","physicalSize":"2x2","resolution":"8192x8192","type":"ao","uri":"throbglfw_8K_AO.jpg"},{"averageColor":"#6E675B","bitDepth":16,"colorSpace":"sRGB","contentLength":528328355,"maxIntensity":151,"mimeType":"image/x-exr","minIntensity":0,"name":"Basecolor","physicalSize":"2x2","resolution":"8192x8192","type":"basecolor","uri":"throbglfw_8K_Basecolor.exr"},{"averageColor":"#6E675B","bitDepth":8,"colorSpace":"sRGB","contentLength":45246150,"maxIntensity":151,"mimeType":"image/jpeg","minIntensity":0,"name":"Basecolor","physicalSize":"2x2","resolution":"8192x8192","type":"basecolor","uri":"throbglfw_8K_Basecolor.jpg"},{"averageColor":"#808080","bitDepth":32,"colorSpace":"Linear","contentLength":176549866,"maxIntensity":255,"mimeType":"image/x-exr","minIntensity":0,"name":"Bump","physicalSize":"2x2","resolution":"8192x8192","type":"bump","uri":"throbglfw_8K_Bump.exr"},{"averageColor":"#808080","bitDepth":8,"colorSpace":"Linear","contentLength":8671909,"maxIntensity":255,"mimeType":"image/jpeg","minIntensity":0,"name":"Bump","physicalSize":"2x2","resolution":"8192x8192","type":"bump","uri":"throbglfw_8K_Bump.jpg"},{"averageColor":"#FFFFFF","bitDepth":32,"colorSpace":"sRGB","contentLength":202904098,"maxIntensity":255,"mimeType":"image/x-exr","minIntensity":255,"name":"Cavity","physicalSize":"2x2","resolution":"8192x8192","type":"cavity","uri":"throbglfw_8K_Cavity.exr"},{"averageColor":"#FFFFFF","bitDepth":8,"colorSpace":"sRGB","contentLength":29625924,"maxIntensity":255,"mimeType":"image/jpeg","minIntensity":255,"name":"Cavity","physicalSize":"2x2","resolution":"8192x8192","type":"cavity","uri":"throbglfw_8K_Cavity.jpg"},{"averageColor":"#838383","bitDepth":32,"colorSpace":"Linear","contentLength":262144071,"maxIntensity":141,"mimeType":"image/x-exr","minIntensity":43,"name":"Displacement","physicalSize":"2x2","resolution":"8192x8192","type":"displacement","uri":"throbglfw_8K_Displacement.exr"},{"averageColor":"#838383","bitDepth":8,"colorSpace":"Linear","contentLength":3103164,"maxIntensity":141,"mimeType":"image/jpeg","minIntensity":43,"name":"Displacement","physicalSize":"2x2","resolution":"8192x8192","type":"displacement","uri":"throbglfw_8K_Displacement.jpg"},{"averageColor":"#1E1E1E","bitDepth":32,"colorSpace":"Linear","contentLength":195702688,"maxIntensity":42,"mimeType":"image/x-exr","minIntensity":0,"name":"Gloss","physicalSize":"2x2","resolution":"8192x8192","type":"gloss","uri":"throbglfw_8K_Gloss.exr"},{"averageColor":"#1E1E1E","bitDepth":8,"colorSpace":"Linear","contentLength":34068390,"maxIntensity":42,"mimeType":"image/jpeg","minIntensity":0,"name":"Gloss","physicalSize":"2x2","resolution":"8192x8192","type":"gloss","uri":"throbglfw_8K_Gloss.jpg"},{"averageColor":"#8182FE","bitDepth":16,"colorSpace":"Linear","contentLength":554955882,"maxIntensity":175,"mimeType":"image/x-exr","minIntensity":102,"name":"Normal","physicalSize":"2x2","resolution":"8192x8192","type":"normal","uri":"throbglfw_8K_Normal.exr"},{"averageColor":"#8182FE","bitDepth":8,"colorSpace":"Linear","contentLength":45920864,"maxIntensity":175,"mimeType":"image/jpeg","minIntensity":102,"name":"Normal","physicalSize":"2x2","resolution":"8192x8192","type":"normal","uri":"throbglfw_8K_Normal.jpg"},{"averageColor":"#E1E1E1","bitDepth":32,"colorSpace":"Linear","contentLength":172466503,"maxIntensity":255,"mimeType":"image/x-exr","minIntensity":213,"name":"Roughness","physicalSize":"2x2","resolution":"8192x8192","type":"roughness","uri":"throbglfw_8K_Roughness.exr"},{"averageColor":"#E1E1E1","bitDepth":8,"colorSpace":"Linear","contentLength":32288794,"maxIntensity":255,"mimeType":"image/jpeg","minIntensity":213,"name":"Roughness","physicalSize":"2x2","resolution":"8192x8192","type":"roughness","uri":"throbglfw_8K_Roughness.jpg"},{"averageColor":"#383838","bitDepth":16,"colorSpace":"sRGB","contentLength":594783276,"maxIntensity":56,"mimeType":"image/x-exr","minIntensity":56,"name":"Specular","physicalSize":"2x2","resolution":"8192x8192","type":"specular","uri":"throbglfw_8K_Specular.exr"},{"averageColor":"#383838","bitDepth":8,"colorSpace":"sRGB","contentLength":16430157,"maxIntensity":56,"mimeType":"image/jpeg","minIntensity":56,"name":"Specular","physicalSize":"2x2","resolution":"8192x8192","type":"specular","uri":"throbglfw_8K_Specular.jpg"}],"meta":[{"key":"scanArea","name":"Scan Area","value":"2x2 m"},{"key":"height","name":"Height","value":"0.077 m"},{"key":"tileable","name":"Tileable","value":true},{"key":"texelDensity","name":"Texel Density","value":"4096 px/m"},{"key":"calibration","name":"Calibration","value":"GretagMacbeth ColorChecker Color Rendition Chart"},{"key":"scanner","name":"Scanner","value":"MKX"}],"models":[],"name":"Wood Planks","pack":{"_id":"wooden-planks","name":"Wooden Planks"},"physicalSize":null,"points":2,"previews":{"images":[{"contentLength":247423,"resolution":"360x360","tags":["thumb"],"uri":"throbglfw_Grid_360.png"},{"contentLength":333397,"resolution":"420x420","tags":["thumb"],"uri":"throbglfw_Grid_420.png"},{"contentLength":983310,"resolution":"720x720","tags":["thumb","retina"],"uri":"throbglfw_Grid_720.png"},{"contentLength":1338153,"resolution":"840x840","tags":["thumb","retina"],"uri":"throbglfw_Grid_840.png"},{"contentLength":2422399,"resolution":"1440x768","tags":["preview","clay"],"uri":"throbglfw_PopupClay_1440.png"},{"contentLength":4592376,"resolution":"1920x1080","tags":["preview","clay"],"uri":"throbglfw_PopupClay_1920.png"},{"contentLength":9938317,"resolution":"2880x1536","tags":["preview","clay","retina"],"uri":"throbglfw_PopupClay_2880.png"},{"contentLength":19222852,"resolution":"3840x2160","tags":["preview","clay","retina"],"uri":"throbglfw_PopupClay_3840.png"},{"contentLength":2756193,"resolution":"1440x768","tags":["preview","tiled"],"uri":"throbglfw_PopupTiled_1440.png"},{"contentLength":5146276,"resolution":"1920x1080","tags":["preview","tiled"],"uri":"throbglfw_PopupTiled_1920.png"},{"contentLength":11085564,"resolution":"2880x1536","tags":["preview","tiled","retina"],"uri":"throbglfw_PopupTiled_2880.png"},{"contentLength":21297064,"resolution":"3840x2160","tags":["preview","tiled","retina"],"uri":"throbglfw_PopupTiled_3840.png"},{"contentLength":2763315,"resolution":"1440x768","tags":["preview"],"uri":"throbglfw_Popup_1440.png"},{"contentLength":5266339,"resolution":"1920x1080","tags":["preview"],"uri":"throbglfw_Popup_1920.png"},{"contentLength":11483066,"resolution":"2880x1536","tags":["preview","retina"],"uri":"throbglfw_Popup_2880.png"},{"contentLength":22425831,"resolution":"3840x2160","tags":["preview","retina"],"uri":"throbglfw_Popup_3840.png"}],"relativeSize":"1x1","scaleReferences":[]},"process_date":"2024-04-17 09:23:08","properties":[],"referencePreviews":{"maps":[],"models":[]},"references":[],"revised":false,"revision":0,"semanticTags":{"3d_mesh":[],"architectural_style":{},"asset_type":"surface","color":["gray","brown"],"contains":["wood","wooden","planks","wooden planks"],"descriptive":["rough"," worn"," chipped"],"environment":["urban","industrial","rural"],"industry":["archviz","games","VFX"],"latin_name":[],"locations":{"Global":{"Global":{}}},"maxSize":2,"minSize":2,"name":"Wood Planks","orientation":["floor"],"resolution":8192,"season":[],"state":["old"],"subject_matter":"manmade","theme":["floor"," dock"," pier"]},"tags":["surface","gothenburg","archviz","grey","gray","brown"],"texelDensity":4096,"texture_type":"basic","ue_plugin_archives":[{"contentLength":220737039,"gltfVersion":"2.0","tier":0,"type":"gltf","uri":"ue_plugin_archives/tier_0/throbglfw_tier_0.zip","version":1},{"contentLength":73155720,"gltfVersion":"2.0","tier":1,"type":"gltf","uri":"ue_plugin_archives/tier_1/throbglfw_tier_1.zip","version":1},{"contentLength":18862662,"gltfVersion":"2.0","tier":2,"type":"gltf","uri":"ue_plugin_archives/tier_2/throbglfw_tier_2.zip","version":1},{"contentLength":1441285,"gltfVersion":"2.0","tier":3,"type":"gltf","uri":"ue_plugin_archives/tier_3/throbglfw_tier_3.zip","version":1}],"version":2},"fab":{"assetNamespace":"fab","listing":{"averageRating":5,"createdAt":"","description":"<p><strong>Texel density:</strong> 4096 px/m</p><p><strong>Scan Area:</strong> 2x2 m</p><p><strong>Maps:</strong> Cavity AO Gloss Specular Normal Roughness Bump Basecolor Displacement</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>","isAiForbidden":false,"isAiGenerated":false,"lastUpdatedAt":"","listingType":"material","media":"https://media.fab.com/image_previews/gallery_images/85a20a43-fd8a-4592-a5e3-c51c09ac17ad/ea1e8f3c-b6f6-47fe-b781-88286c6f2ce9.jpeg","publishedAt":"2026-11-06T09:54:43.206061Z","reviewCount":1,"thumbnail":"https://media.fab.com/image_previews/gallery_images/0d0962ee-3c9d-4444-af41-98521c1564f6/6524639b-c700-4d6f-a056-a47b5e8a56a0.jpeg","title":"Wood Planks","uid":"2f3201b4-93a0-4c86-a154-ee31e35b2781","updatedAt":"","user":{"coverImageUrl":"https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg","profileImageUrl":"https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png","sellerName":"Quixel Megascans","uid":"45ea3429-f62c-4f17-aa15-5bb9dfcd0079"},"tags":[{"name":"Plank","slug":"plank","uid":"06f9b3d6-993d-48d2-9e06-2d8fe5eb68b3"},{"name":"Chipped","slug":"chipped","uid":"584846fa-a876-49ac-b5b1-713514027c69"},{"name":"Pier","slug":"pier","uid":"872f2ff4-fc22-44ee-a6ab-1539316cca2c"},{"name":"Floor","slug":"floor","uid":"8c1056f0-1c5c-42cc-8d3a-48ed68ff6285"},{"name":"Worn","slug":"worn","uid":"98cd7d65-d9bb-4efc-9f13-2d3d6f29629d"},{"name":"Wooden","slug":"wooden","uid":"9f55f27e-d3d7-4892-abbd-0a73b7ff3663"},{"name":"Rough","slug":"rough","uid":"abd824a5-384f-43b7-8e90-b4a5207bb0b3"},{"name":"Wood","slug":"wood","uid":"bcd38165-4b32-484d-bce7-c6cdaf827f77"},{"name":"Dock","slug":"dock","uid":"e0670c87-722e-4f92-9d2a-792316fb039d"}],"category":{"name":"Wood","path":"building-human-made/wood","slug":"building-human-made--wood","uid":"dfcfad77-52e2-4b27-9538-ca87e790032d"},"assetFormats":[],"_PluginMetas":{"apiDataVersion":"","entitlementUid":"","cacheSize":0,"downloaded":[]}},"target":"UE_5.6","quality":"high","format":"gltf","fileId":"","platformIncluded":"","distributionPointBaseUrls":[],"distributionMethod":"","entitlementUid":"","invertedNormal":false,"isConverted":false,"isQuixel":true}}}]
+[2026.11.14-02.06.51:434][792]LogStreaming: Display: FlushAsyncLoading(408): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-02.06.51:966][792]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.11.14-02.06.51:967][792]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/gltf/high/wood_planks_throbglfw_4k_extracted/throbglfw_tier_1.gltf]
+[2026.11.14-02.06.52:471][795]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.11.14-02.06.52:692][795]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2026.11.14-02.06.53:126][797]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_ORM.T_throbglfw_4K_ORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.11.14-02.06.53:136][797]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_N.T_throbglfw_4K_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-02.06.53:525][798]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_B.T_throbglfw_4K_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.11.14-02.06.53:569][798]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_H.T_throbglfw_4K_H (TFO_BC4, 4096x4096 x1x1x1) (Required Memory Estimate: 987.666651 MB), EncodeSpeed: Fast
+[2026.11.14-02.06.53:985][799]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...robglfw_4k_extracted/throbglfw_tier_1.gltf]
+[2026.11.14-02.06.53:985][799]LogFabLauncher: Status data sent: {"status":"success", "id":"2f3201b4-93a0-4c86-a154-ee31e35b2781", "path":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/gltf/high/wood_planks_throbglfw_4k_extracted", "plugin_version": "0.5.0", "message": "Successfully imported Megascans asset", "app_name" : "Unreal Engine", "app_version": "5.6"}
+[2026.11.14-02.08.01:802][557]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail.thumbnail
+[2026.11.14-02.08.02:106][557]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.11.14-02.08.02:108][557]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.11.14-02.08.02:108][557]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.11.14-02.08.02:108][557]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.11.14-02.08.11:065][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.14-02.08.11:155][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.14-02.08.11:165][595]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.14-02.08.11:166][595]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_14C092261484B6914F3046BA40E346E7C.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.14-02.08.11:172][595]LogFileHelpers: Saving map 'Level_1' took 0.065
+[2026.11.14-02.08.11:183][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.383 ms (total: 846.049 ms)
+[2026.11.14-02.08.11:243][595]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.14-02.08.11:243][595]LogContentValidation: Enabled validators:
+[2026.11.14-02.08.11:243][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.14-02.08.11:243][595]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.14-02.08.11:243][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.14-02.08.11:243][595]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.14-02.08.11:243][595]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.14-02.08.11:243][595]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.14-02.08.11:243][595]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.14-02.08.17:984][314]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Megascans/Wood_Planks/High/Materials/Wood_Planks_throbglfw_4K.Wood_Planks_throbglfw_4K
+[2026.11.14-02.08.17:985][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.11.14-02.08.47:651][533]LogContentBrowser: Deferred new asset file creation: Wood_Planks_throbglfw_4K_Inst
+[2026.11.14-02.08.47:659][533]LogContentBrowser: Creating deferred item: Wood_Planks_throbglfw_4K_Inst
+[2026.11.14-02.08.47:668][534]LogContentBrowser: Renaming the item being created (Deferred Item: Wood_Planks_throbglfw_4K_Inst).
+[2026.11.14-02.09.02:614][316]LogContentBrowser: Attempting asset rename: Wood_Planks_throbglfw_4K_Inst -> wood_floor_2
+[2026.11.14-02.09.02:614][316]LogContentBrowser: End creating deferred item Wood_Planks_throbglfw_4K_Inst
+[2026.11.14-02.09.05:530][641]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Megascans/Wood_Planks/High/Materials/wood_floor_2.wood_floor_2
+[2026.11.14-02.09.05:541][641]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.11.14-02.09.17:338][905]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss.Wood_Planks_throbglfw_4K_Gloss
+[2026.11.14-02.09.23:500][532]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor.Wood_Planks_throbglfw_4K_BaseColor
+[2026.11.14-02.10.28:165][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.14-02.10.28:326][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.14-02.10.28:340][790]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.14-02.10.28:341][790]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1A4BACE9F4A5D15DD6E1045A530ACB719.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.14-02.10.28:347][790]LogFileHelpers: Saving map 'Level_1' took 0.126
+[2026.11.14-02.10.28:355][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.370 ms (total: 1.03 sec)
+[2026.11.14-02.10.28:430][790]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.14-02.10.28:430][790]LogContentValidation: Enabled validators:
+[2026.11.14-02.10.28:430][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.14-02.10.28:430][790]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.14-02.10.28:430][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.14-02.10.28:430][790]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.14-02.10.28:430][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.14-02.10.28:430][790]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.14-02.10.28:430][790]AssetCheck: /Game/Levels/Level_1 Validating asset
