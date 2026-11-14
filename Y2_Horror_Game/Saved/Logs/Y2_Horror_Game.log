@@ -1180,3 +1180,70 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.14-00.14.13:020][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1468595578
 [2026.11.14-00.14.13:021][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.730223, Update Interval: 338.116394
 [2026.11.14-00.16.04:988][349]LogDerivedDataCache: C:/Users/lewis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.14-00.19.51:143][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 342.861572
+[2026.11.14-00.19.51:301][411]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-00.19.51:301][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 343.011505, Update Interval: 312.378296
+[2026.11.14-00.25.06:559][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 658.276978
+[2026.11.14-00.25.07:559][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-00.25.07:559][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 658.943420, Update Interval: 317.712341
+[2026.11.14-00.30.32:244][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 983.962158
+[2026.11.14-00.30.33:244][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-00.30.33:244][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 984.628784, Update Interval: 333.121124
+[2026.11.14-00.33.31:620][ 39]LogSlate: Took 0.005840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.11.14-00.33.39:098][841]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.14-00.33.39:104][841]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.14-00.33.39:110][842]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.14-00.33.44:416][476]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2026.11.14-00.33.44:416][476]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.14-00.36.02:707][993]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.11.14-00.36.02:713][993]LogContentBrowser: Creating deferred item: NewWorld
+[2026.11.14-00.36.02:759][995]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.11.14-00.36.08:914][730]LogContentBrowser: Attempting asset rename: NewWorld -> Level_1
+[2026.11.14-00.36.08:915][730]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.14-00.36.08:921][730]LogContentBrowser: End creating deferred item NewWorld
+[2026.11.14-00.36.14:244][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1325.963379
+[2026.11.14-00.36.14:394][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-00.36.14:394][368]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1326.104980, Update Interval: 309.869690
+[2026.11.14-00.36.28:675][ 25]Cmd: EDIT COPY
+[2026.11.14-00.36.31:082][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.11.14-00.36.36:627][279]LogSlate: Window 'Save Content' being destroyed
+[2026.11.14-00.36.36:638][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.14-00.36.36:710][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.11.14-00.36.36:724][279]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.14-00.36.36:724][279]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1A9BFA63143DCAB699E4D62823B2321D7.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.14-00.36.36:729][279]LogFileHelpers: Saving map 'Level_1' took 0.034
+[2026.11.14-00.36.36:794][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.857 ms
+[2026.11.14-00.36.36:794][279]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2026.11.14-00.36.36:795][279]Cmd: MAP LOAD FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.14-00.36.36:810][279]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.11.14-00.36.36:810][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.14-00.36.36:810][279]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.11.14-00.36.36:832][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.14-00.36.36:838][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.11.14-00.36.36:840][279]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.14-00.36.36:840][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.14-00.36.36:855][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.14-00.36.36:866][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.14-00.36.36:867][279]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-00.36.36:868][279]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2026.11.14-00.36.36:868][279]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.14-00.36.36:890][279]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.14-00.36.36:905][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.11.14-00.36.36:910][279]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.14-00.36.36:911][279]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.036ms to complete.
+[2026.11.14-00.36.36:978][279]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.14-00.36.36:978][279]LogContentValidation: Enabled validators:
+[2026.11.14-00.36.36:978][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.14-00.36.36:978][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.14-00.36.36:978][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.14-00.36.36:978][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.14-00.36.36:978][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.14-00.36.36:978][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.14-00.36.36:979][279]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.14-00.36.37:009][279]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.14-00.36.37:044][281]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.14-00.36.37:295][281]LogSlate: External Image Picker: DecompressImage failed
+[2026.11.14-00.36.39:462][518]Cmd: EDIT PASTE
+[2026.11.14-00.36.39:480][518]LogNavigationPoint: PostEditMove Clear paths rebuilt
