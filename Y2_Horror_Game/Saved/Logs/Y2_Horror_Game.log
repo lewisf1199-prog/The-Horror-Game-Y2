@@ -1247,3 +1247,32 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.14-00.36.37:295][281]LogSlate: External Image Picker: DecompressImage failed
 [2026.11.14-00.36.39:462][518]Cmd: EDIT PASTE
 [2026.11.14-00.36.39:480][518]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.11.14-00.41.51:345][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1663.066284
+[2026.11.14-00.41.52:345][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-00.41.52:345][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1663.733887, Update Interval: 306.624969
+[2026.11.14-00.46.31:430][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.11.14-00.46.31:445][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto1
+[2026.11.14-00.46.31:445][193]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1_Auto105F744B241DFB79816D549B37E75C51D.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Levels/Level_1_Auto1.umap'
+[2026.11.14-00.46.31:446][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.032
+[2026.11.14-00.46.31:446][193]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2026.11.14-00.47.52:699][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2024.421021
+[2026.11.14-00.47.53:699][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-00.47.53:699][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2025.088379, Update Interval: 301.726746
+[2026.11.14-00.48.33:699][560]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.11.14-00.48.33:699][560]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.11.14-00.48.33:699][560]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Developers/lewis/Collections/' because it could not be accessed. Aborting watch request...
+[2026.11.14-00.51.34:849][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.14-00.51.34:927][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.11.14-00.51.34:937][786]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.14-00.51.34:938][786]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1090DF8F5472D7EDCEA109B9BFF1DA5D7.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.14-00.51.34:944][786]LogFileHelpers: Saving map 'Level_1' took 0.045
+[2026.11.14-00.51.34:951][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.180 ms (total: 258.037 ms)
+[2026.11.14-00.51.35:016][786]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.14-00.51.35:016][786]LogContentValidation: Enabled validators:
+[2026.11.14-00.51.35:016][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.14-00.51.35:016][786]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.14-00.51.35:016][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.14-00.51.35:016][786]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.14-00.51.35:016][786]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.14-00.51.35:016][786]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.14-00.51.35:017][786]AssetCheck: /Game/Levels/Level_1 Validating asset
