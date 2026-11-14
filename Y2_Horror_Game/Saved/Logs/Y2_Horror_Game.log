@@ -1298,3 +1298,95 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.14-01.31.44:617][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4656.342285
 [2026.11.14-01.31.45:615][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.14-01.31.45:616][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4657.007812, Update Interval: 358.513123
+[2026.11.14-01.38.18:010][347]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-01.38.18:240][353]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.11.14-01.38.18:432][360]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.11.14-01.38.35:204][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5066.938477
+[2026.11.14-01.38.36:203][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-01.38.36:203][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5067.605957, Update Interval: 332.516846
+[2026.11.14-01.43.04:544][ 95]LogSlate: Took 0.006018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.11.14-01.44.21:525][359]LogFabLauncher: Debug payload: [{"id":"2f3201b4-93a0-4c86-a154-ee31e35b2781","path":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high","meshes":[],"materials":[{"name":"Wood_Planks_throbglfw_4K","file":"","flipnmapgreenchannel":true,"textures":{"occlusion":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_AO.jpg","albedo":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_BaseColor.jpg","bump":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Bump.jpg","displacement":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Displacement.jpg","glossiness":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Gloss.jpg","roughness":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Roughness.jpg","specular":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Specular.jpg","normal":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Normal.jpg"}}],"native_files":[],"additional_textures":["C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/thumbnail.jpeg","C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Cavity.jpg"],"metadata":{"launcher":{"version":"0.0.1","listening_port":24563},"fab":{"assetNamespace":"fab","listing":{"averageRating":5,"createdAt":"","description":"<p><strong>Texel density:</strong> 4096 px/m</p><p><strong>Scan Area:</strong> 2x2 m</p><p><strong>Maps:</strong> Cavity AO Gloss Specular Normal Roughness Bump Basecolor Displacement</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>","isAiForbidden":false,"isAiGenerated":false,"lastUpdatedAt":"","listingType":"material","media":"https://media.fab.com/image_previews/gallery_images/85a20a43-fd8a-4592-a5e3-c51c09ac17ad/ea1e8f3c-b6f6-47fe-b781-88286c6f2ce9.jpeg","publishedAt":"2026-11-06T09:54:43.206061Z","reviewCount":1,"thumbnail":"https://media.fab.com/image_previews/gallery_images/0d0962ee-3c9d-4444-af41-98521c1564f6/6524639b-c700-4d6f-a056-a47b5e8a56a0.jpeg","title":"Wood Planks","uid":"2f3201b4-93a0-4c86-a154-ee31e35b2781","updatedAt":"","user":{"coverImageUrl":"https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg","profileImageUrl":"https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png","sellerName":"Quixel Megascans","uid":"45ea3429-f62c-4f17-aa15-5bb9dfcd0079"},"tags":[{"name":"Plank","slug":"plank","uid":"06f9b3d6-993d-48d2-9e06-2d8fe5eb68b3"},{"name":"Chipped","slug":"chipped","uid":"584846fa-a876-49ac-b5b1-713514027c69"},{"name":"Pier","slug":"pier","uid":"872f2ff4-fc22-44ee-a6ab-1539316cca2c"},{"name":"Floor","slug":"floor","uid":"8c1056f0-1c5c-42cc-8d3a-48ed68ff6285"},{"name":"Worn","slug":"worn","uid":"98cd7d65-d9bb-4efc-9f13-2d3d6f29629d"},{"name":"Wooden","slug":"wooden","uid":"9f55f27e-d3d7-4892-abbd-0a73b7ff3663"},{"name":"Rough","slug":"rough","uid":"abd824a5-384f-43b7-8e90-b4a5207bb0b3"},{"name":"Wood","slug":"wood","uid":"bcd38165-4b32-484d-bce7-c6cdaf827f77"},{"name":"Dock","slug":"dock","uid":"e0670c87-722e-4f92-9d2a-792316fb039d"}],"category":{"name":"Wood","path":"building-human-made/wood","slug":"building-human-made--wood","uid":"dfcfad77-52e2-4b27-9538-ca87e790032d"},"assetFormats":[],"_PluginMetas":{"apiDataVersion":"","entitlementUid":"","cacheSize":0,"downloaded":[]}},"target":"UE_5.6","quality":"high","format":"texture-set","fileId":"","platformIncluded":"","distributionPointBaseUrls":[],"distributionMethod":"","entitlementUid":"","invertedNormal":false,"isConverted":false,"isQuixel":true}}}]
+[2026.11.14-01.44.21:526][359]LogJson: Warning: Field megascans was not found.
+[2026.11.14-01.44.21:527][359]LogJson: Warning: Json Value of type 'Null' used as a 'Object'.
+[2026.11.14-01.44.21:673][359]LogJson: Warning: Field tags was not found.
+[2026.11.14-01.44.21:673][359]LogJson: Warning: Json Value of type 'Null' used as a 'Array'.
+[2026.11.14-01.44.21:673][359]LogJson: Warning: Field categories was not found.
+[2026.11.14-01.44.21:673][359]LogJson: Warning: Json Value of type 'Null' used as a 'Array'.
+[2026.11.14-01.44.21:715][359]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-01.44.21:829][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_AO.jpg)
+[2026.11.14-01.44.21:873][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.21:875][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.21:974][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_AO.Wood_Planks_throbglfw_4K_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.22:080][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_BaseColor.jpg)
+[2026.11.14-01.44.22:229][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.22:231][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.22:491][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor.Wood_Planks_throbglfw_4K_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.22:584][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Bump.jpg)
+[2026.11.14-01.44.22:664][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.22:666][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.22:787][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Bump.Wood_Planks_throbglfw_4K_Bump (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.22:865][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Displacement.jpg)
+[2026.11.14-01.44.22:920][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.22:923][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.23:015][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Displacement.Wood_Planks_throbglfw_4K_Displacement (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.23:098][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Gloss.jpg)
+[2026.11.14-01.44.23:188][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.23:190][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.23:361][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss.Wood_Planks_throbglfw_4K_Gloss (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.23:462][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Roughness.jpg)
+[2026.11.14-01.44.23:568][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.23:570][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.23:737][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Roughness.Wood_Planks_throbglfw_4K_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.23:824][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Specular.jpg)
+[2026.11.14-01.44.23:918][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.23:920][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.24:062][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Specular.Wood_Planks_throbglfw_4K_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.24:186][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Normal.jpg)
+[2026.11.14-01.44.24:358][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.24:360][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.24:520][359]LogEditorFactories: Display: Auto-detected normal map
+[2026.11.14-01.44.24:683][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Normal.Wood_Planks_throbglfw_4K_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.24:783][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/thumbnail.jpeg)
+[2026.11.14-01.44.24:798][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.24:799][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.24:835][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail.thumbnail (BGRA8, 3413x1920 x1x1x1) (Required Memory Estimate: 225.978027 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.24:897][359]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Wood_Planks-2f3201b4/texture-set/high/wood_planks_throbglfw_4k_extracted/Wood_Planks_throbglfw_4K_Cavity.jpg)
+[2026.11.14-01.44.24:984][359]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2026.11.14-01.44.24:985][359]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.14-01.44.25:163][359]LogTexture: Display: Building textures: /Game/Fab/Megascans/Wood_Planks/High/Additional_Textures/Wood_Planks_throbglfw_4K_Cavity.Wood_Planks_throbglfw_4K_Cavity (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.14-01.44.43:853][345]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.11.14-01.45.04:470][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5456.218750
+[2026.11.14-01.45.04:612][646]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.14-01.45.04:612][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5456.353516, Update Interval: 304.259155
+[2026.11.14-01.45.07:134][918]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial
+[2026.11.14-01.45.07:163][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.11.14-01.45.07:170][918]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.14-01.45.07:806][918]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.14-01.45.07:806][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.11.14-01.45.07:806][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.14-01.45.07:806][918]MaterialEditorStats: Shader Count: 0
+[2026.11.14-01.45.07:806][918]MaterialEditorStats: Preshaders: 32  (50 param fetches, 176 ops)
+[2026.11.14-01.45.07:817][918]LogSlate: Took 0.000723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.11.14-01.45.07:945][920]MaterialEditorStats: Base pass shader: 264 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.11.14-01.45.07:945][920]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.14-01.45.07:945][920]MaterialEditorStats: Texture samplers: 3/16
+[2026.11.14-01.45.07:945][920]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.11.14-01.45.07:945][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.14-01.45.07:945][920]MaterialEditorStats: Shader Count: 5
+[2026.11.14-01.45.07:945][920]MaterialEditorStats: Preshaders: 32  (50 param fetches, 176 ops)
+[2026.11.14-01.45.15:870][840]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2026.11.14-01.45.15:877][840]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2026.11.14-01.45.15:898][840]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.11.14-01.45.15:899][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.14-01.45.16:001][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.11.14-01.45.24:801][829]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
