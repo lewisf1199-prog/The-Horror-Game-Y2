@@ -4484,3 +4484,992 @@ Sampler Limit: 32
 [2026.11.16-01.48.26:109][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8851.599609
 [2026.11.16-01.48.27:109][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.16-01.48.27:109][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8852.267578, Update Interval: 325.926697
+[2026.11.16-01.49.51:746][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-01.49.51:835][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.16-01.49.51:853][418]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-01.49.51:854][418]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_115A9E9EE40A2136565C3E58A278FC5DC.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-01.49.51:862][418]LogFileHelpers: Saving map 'Level_1' took 0.063
+[2026.11.16-01.49.51:869][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.126 ms (total: 2.97 sec)
+[2026.11.16-01.49.51:934][418]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-01.49.51:934][418]LogContentValidation: Enabled validators:
+[2026.11.16-01.49.51:934][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-01.49.51:934][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-01.49.51:934][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-01.49.51:934][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-01.49.51:934][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-01.49.51:934][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-01.49.51:934][418]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-01.52.43:926][473]LogFabLauncher: Debug payload: [{"id":"8e0eed31-cfde-4771-b869-777326687825","path":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Retro_CRT_Television_-_90s_Style-8e0eed31/fbx","meshes":[{"file":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Retro_CRT_Television_-_90s_Style-8e0eed31/fbx/retro_tv.fbx","name":"","material_index":-1,"lods":[]}],"materials":[],"native_files":[],"additional_textures":["C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Retro_CRT_Television_-_90s_Style-8e0eed31/fbx/thumbnail.png"],"metadata":{"launcher":{"version":"0.0.1","listening_port":24563},"fab":{"assetNamespace":"fab","listing":{"averageRating":5,"createdAt":"","description":"<p><strong>Retro CRT Television - 90s Style - Game Ready</strong></p><p>Bring a touch of nostalgia and grit to your digital environments with this high-fidelity <strong>Retro CRT Television</strong>. Meticulously crafted to capture the essence of 1990s electronics, this asset features realistic wear and tear, including surface scratches and authentic handprint smudges that react dynamically to lighting.</p><p>Whether you are building a cluttered Indian apartment, a gritty survival horror level, or a retro-themed garage, this unit is designed to fit seamlessly into any modern game engine.</p><p></p><p><strong>Key Features:</strong></p><ul><li><p><strong>Modeling:</strong> Modeled in <strong>Blender</strong> with a focus on optimized geometry and realistic proportions.</p></li><li><p><strong>PBR Texturing:</strong> Textured in <strong>Substance Painter, </strong>all the<strong> texture maps </strong>are given in <strong>separate Zip file</strong>.</p></li><li><p><strong>High Resolution:</strong> Includes full <strong>4K Texture Sets</strong> (Base Color, Roughness, Normal, Metallic, AO and Packed ORM) for crisp detail even in close-up shots.</p></li><li><p><strong>Game Ready:</strong> Fully optimized for real-time performance. Tested and rendered in <strong>Unreal Engine 5</strong> to ensure it’s ready for your project out of the box.</p></li><li><p><strong>Storytelling Detail:</strong> Features custom \"usage\" layers like fingerprints and dust to add a \"lived-in\" feel to your scenes.</p></li></ul><p></p><p><strong>Technical Specifications:</strong></p><ul><li><p><strong>Modeling:</strong> Blender</p></li><li><p><strong>Texturing:</strong> Substance Painter (PBR)</p></li><li><p><strong>Resolution:</strong> 4096 x 4096</p></li><li><p><strong>Rendered In:</strong> Unreal Engine</p></li><li><p><strong>Format:</strong> Optimized FBX/OBJ with associated texture maps.</p></li></ul><p></p><p></p><p><strong>Developed by Lokesh Sharma of Mad Interactive Studio</strong>. Providing <em>Quality 3D assets for immersive gaming experiences.</em></p>","isAiForbidden":true,"isAiGenerated":false,"lastUpdatedAt":"","listingType":"3d-model","media":"https://media.fab.com/image_previews/gallery_images/8fed4320-c3dd-44ad-b8d1-93c5403f5560/55c7ecb5-2254-446e-a130-29253912cc6f.png","publishedAt":"2026-05-19T12:23:44.760330Z","reviewCount":2,"thumbnail":"https://media.fab.com/image_previews/gallery_images/d300f62c-b2f3-4641-9588-56acfab55ddf/d1b751d1-5731-46ce-91a7-47c05fc7ca7f.png","title":"Retro CRT Television - 90s Style","uid":"8e0eed31-cfde-4771-b869-777326687825","updatedAt":"","user":{"coverImageUrl":"https://cdn1.epicgames.com/fab/seller/o-td3ac65q3g8dg97zpulmfk3rs5whyv/backgroundImage/blob-1920x540-8ca141afd45db03cfea3005ad6dc7814.jpg","profileImageUrl":"https://cdn1.epicgames.com/fab/seller/o-td3ac65q3g8dg97zpulmfk3rs5whyv/profileImage/blob-500x500-6957867ba2c51bfc04d9d8fd601545a9.jpg","sellerName":"Mad Interactive Studio","uid":"b1276399-856a-4d06-b70c-ceb7e29b7089"},"tags":[{"name":"Horror","slug":"horror","uid":"e2b772ec-e68e-400a-89da-4ed6863c2d08"},{"name":"Antique","slug":"antique","uid":"05c128da-c923-4f5d-b84b-fde612ae6bd4"},{"name":"Pbr","slug":"pbr","uid":"080edd3b-d10a-4f32-ace2-30f5baa480dc"},{"name":"Television","slug":"television","uid":"0a16a1a4-e32c-4ab2-b2dc-6ed1945eaf68"},{"name":"Retro","slug":"retro","uid":"01b64ec5-7261-4c99-a280-a34680f1af03"},{"name":"Electronic","slug":"electronic","uid":"0e019ea9-6332-4ae3-80b0-8cb0f9364a97"},{"name":"Blender","slug":"blender","uid":"141666cf-0a09-4718-85fa-f0d54884a525"},{"name":"Emissive","slug":"emissive","uid":"21743a43-edf1-4e85-ba4e-697852e94117"},{"name":"Static","slug":"static","uid":"4eb1ceda-89ba-484a-94cc-b07384b352fc"},{"name":"Plastic","slug":"plastic","uid":"51c4ad44-f74d-4552-bcd5-1e3b631f4107"},{"name":"Texture","slug":"texture","uid":"5b593e6b-86a7-405d-9f92-91ebd6f2a472"},{"name":"Gameready","slug":"gameready","uid":"6a250196-0821-43cb-b9cd-3975f235b88d"},{"name":"Photorealistic","slug":"photorealistic","uid":"7485c72b-1f18-499f-8c65-0fdf1e2a21d0"},{"name":"Glass","slug":"glass","uid":"7735e020-15bd-4279-9114-f55d6f5b4396"},{"name":"Vintage","slug":"vintage","uid":"8a4d973f-aaa6-411d-b342-e09e1f212f63"},{"name":"Realistic","slug":"realistic","uid":"93b0d3f1-a96c-4d68-9d44-69a313519e32"},{"name":"Reflective","slug":"reflective","uid":"97467ca5-b0a1-458f-8983-706590f8375e"},{"name":"Old","slug":"old","uid":"975b1521-db01-43ed-a939-c2c2da5027b1"},{"name":"Interior","slug":"interior","uid":"9c40f9f3-f44a-4fba-8221-80d7ef90592a"},{"name":"Crt","slug":"crt","uid":"a65df6b5-bb7c-4e40-a863-55deb0457bc0"},{"name":"Grunge","slug":"grunge","uid":"ac954825-7cee-4d92-b13f-ee07f0b1eee0"},{"name":"Prop","slug":"prop","uid":"c4f4f70b-31aa-41e7-b857-70631ffdeb3f"},{"name":"Tv","slug":"tv","uid":"d3c373a9-d04b-46f4-8ba6-dea779092fa0"},{"name":"Metallic","slug":"metallic","uid":"d5b82134-c49f-443e-8b37-7847c2bd3605"},{"name":"Texturepacked","slug":"texturepacked","uid":"0a1d7b6b-c64c-4d76-936e-58e889f83c28"}],"category":{"name":"Consumer","path":"electronics-technology/consumer","slug":"electronics-technology--consumer","uid":"92be22d2-514e-4ed2-a566-f0d4888d3c76"},"assetFormats":[],"_PluginMetas":{"apiDataVersion":"","entitlementUid":"","cacheSize":0,"downloaded":[]}},"target":"UE_5.6","quality":"","format":"fbx","fileId":"","platformIncluded":"","distributionPointBaseUrls":[],"distributionMethod":"","entitlementUid":"","invertedNormal":false,"isConverted":false,"isQuixel":false}}}]
+[2026.11.16-01.52.43:927][473]LogJson: Warning: Field megascans was not found.
+[2026.11.16-01.52.43:927][473]LogJson: Warning: Json Value of type 'Null' used as a 'Object'.
+[2026.11.16-01.52.43:986][473]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-01.52.43:987][473]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.11.16-01.52.43:987][473]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Retro_CRT_Television_-_90s_Style-8e0eed31/fbx/retro_tv.fbx]
+[2026.11.16-01.52.44:049][473]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Retro_CRT_Television_-_90s_Style-8e0eed31/fbx/thumbnail.png)
+[2026.11.16-01.52.44:071][473]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2026.11.16-01.52.44:076][473]LogTexture: Display: Building textures: /Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail.thumbnail (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 186.443359 MB), EncodeSpeed: Fast
+[2026.11.16-01.52.44:599][475]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-01.52.44:942][476]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-01.52.45:277][478]LogStaticMesh: Display: Building static mesh retro_tv (Required Memory Estimate: 4.733606 MB)...
+[2026.11.16-01.52.45:302][478]LogStaticMesh: Built static mesh [0.03s] /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv
+[2026.11.16-01.52.45:609][478]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...s_Style-8e0eed31/fbx/retro_tv.fbx]
+[2026.11.16-01.52.45:609][478]LogFabLauncher: Status data sent: {"status":"success", "id":"8e0eed31-cfde-4771-b869-777326687825", "path":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Retro_CRT_Television_-_90s_Style-8e0eed31/fbx", "plugin_version": "0.5.0", "message": "Import finished", "app_name" : "Unreal Engine", "app_version": "5.6"}
+[2026.11.16-01.53.05:079][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv
+[2026.11.16-01.53.05:079][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv
+[2026.11.16-01.53.05:079][248]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_68
+[2026.11.16-01.53.06:282][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.11.16-01.53.06:290][389]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.11.16-01.53.06:295][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv
+[2026.11.16-01.53.06:295][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv
+[2026.11.16-01.53.06:296][389]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_69
+[2026.11.16-01.53.31:767][229]Cmd: TRANSACTION UNDO
+[2026.11.16-01.53.31:767][229]LogEditorTransaction: Undo Place Objects
+[2026.11.16-01.53.31:985][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.11.16-01.53.32:170][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.11.16-01.53.40:009][957]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Retro_CRT_Television_-_90s_Style/TV.TV
+[2026.11.16-01.53.40:010][957]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.11.16-01.53.55:923][657]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail.thumbnail
+[2026.11.16-01.54.29:578][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9215.053711
+[2026.11.16-01.54.30:579][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.54.30:579][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9215.721680, Update Interval: 351.813110
+[2026.11.16-01.55.53:840][815]LogContentBrowser: Deferred new asset file creation: TV_Inst
+[2026.11.16-01.55.53:846][815]LogContentBrowser: Creating deferred item: TV_Inst
+[2026.11.16-01.55.53:854][816]LogContentBrowser: Renaming the item being created (Deferred Item: TV_Inst).
+[2026.11.16-01.55.55:582][ 24]LogContentBrowser: Attempting asset rename: TV_Inst -> TV_Inst
+[2026.11.16-01.55.55:583][ 24]LogContentBrowser: End creating deferred item TV_Inst
+[2026.11.16-01.55.56:347][106]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Retro_CRT_Television_-_90s_Style/TV_Inst.TV_Inst
+[2026.11.16-01.55.56:348][106]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.11.16-01.56.03:532][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.16-01.56.04:745][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-01.56.04:771][827]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-01.56.04:771][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.56.04:839][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.11.16-01.56.58:165][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.11.16-01.57.01:771][153]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.16-01.57.01:800][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-01.57.01:813][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.11.16-01.57.01:825][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Total job queries 4,175, among them cache hits 865 (20.72%), DDC hits 1,240 (29.70%), Duplicates 670 (16.05%)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Tracking 2,640 distinct input hashes that result in 1,360 distinct outputs (51.52%)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: RAM used: 14.23 MiB of 1.60 GiB budget. Usage: 0.87%
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Shaders Compiled: 1,400
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Jobs assigned 1,400, completed 1,400 (100%)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Average time worker was idle: 44.38 s
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Time job spent in pending queue: average 42.45 s, longest 104.72 s
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.75 s
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Job life time (pending + execution): average 43.09 s, max 105.03
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Shader code size: total 16.983 MiB, numShaders 1,425, average 12.204 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 127.13 s
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.19%
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Jobs were issued in 1,400 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Average processing rate: 11.01 jobs/sec
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Total thread time: 800.604 s
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Total thread preprocess time: 42.701 s
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Percentage time preprocessing: 5.33%
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Effective parallelization: 6.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.787181
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 66.70% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.53% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.16% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 2.32% of total time (compiled   30 times, average 0.62 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.97% of total time (compiled   49 times, average 0.32 sec, max 0.61 sec, min 0.19 sec)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Materials Translated:    243
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Material Translation Only: 0.05 s (49%)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.11.16-01.57.01:829][153]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.57.10:167][ 66]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv
+[2026.11.16-01.57.10:172][ 66]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.11.16-01.59.52:818][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.11.16-01.59.52:837][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto5
+[2026.11.16-01.59.52:837][461]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1_Auto5EDC9B44B497082A17873B8896F73AE25.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Levels/Level_1_Auto5.umap'
+[2026.11.16-01.59.52:838][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.052
+[2026.11.16-01.59.52:839][461]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2026.11.16-01.59.52:839][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail] ([1] browsable assets)...
+[2026.11.16-01.59.52:841][461]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail.thumbnail]
+[2026.11.16-01.59.52:841][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail]
+[2026.11.16-01.59.52:850][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail_Auto5
+[2026.11.16-01.59.52:850][461]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/thumbnail_Auto59E8629F744B9BC58E2FD6FBFA7411E42.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail_Auto5.uasset'
+[2026.11.16-01.59.52:851][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Retro_CRT_Television_-_90s_Style/TV] ([1] browsable assets)...
+[2026.11.16-01.59.52:898][461]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Retro_CRT_Television_-_90s_Style/TV.TV]
+[2026.11.16-01.59.52:898][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Retro_CRT_Television_-_90s_Style/TV]
+[2026.11.16-01.59.52:912][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-01.59.52:928][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.11.16-01.59.52:938][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Retro_CRT_Television_-_90s_Style/TV_Auto5
+[2026.11.16-01.59.52:938][461]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Auto56235EC8F42727F50B47C6A92B3AE77E0.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Retro_CRT_Television_-_90s_Style/TV_Auto5.uasset'
+[2026.11.16-01.59.52:939][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv] ([1] browsable assets)...
+[2026.11.16-01.59.52:957][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.retro_tv]
+[2026.11.16-01.59.52:957][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv]
+[2026.11.16-01.59.52:967][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv_Auto5
+[2026.11.16-01.59.52:967][461]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/retro_tv_Auto58314FC6046D98C94095B57B9D958F43C.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv_Auto5.uasset'
+[2026.11.16-01.59.52:968][461]LogFileHelpers: Auto-saving content packages took 0.129
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Total job queries 4,290, among them cache hits 889 (20.72%), DDC hits 1,272 (29.65%), Duplicates 670 (15.62%)
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Tracking 2,731 distinct input hashes that result in 1,424 distinct outputs (52.14%)
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: RAM used: 14.65 MiB of 1.60 GiB budget. Usage: 0.89%
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Shaders Compiled: 1,459
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Jobs assigned 1,459, completed 1,459 (100%)
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Average time worker was idle: 42.95 s
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Time job spent in pending queue: average 40.74 s, longest 104.72 s
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.75 s
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Job life time (pending + execution): average 41.38 s, max 105.03
+[2026.11.16-02.00.02:065][489]LogShaderCompilers: Display: Shader code size: total 17.535 MiB, numShaders 1,496, average 12.002 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 140.00 s
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.15%
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Jobs were issued in 1,459 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Average processing rate: 10.42 jobs/sec
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Total thread time: 835.224 s
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Total thread preprocess time: 44.028 s
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Percentage time preprocessing: 5.27%
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Effective parallelization: 5.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.745739
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.88 sec, max 1.06 sec, min 0.78 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 63.94% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.30% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 3.27% of total time (compiled   42 times, average 0.65 sec, max 1.13 sec, min 0.46 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.03% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.86% of total time (compiled   69 times, average 0.35 sec, max 0.88 sec, min 0.19 sec)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Materials Translated:    243
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Material Translation Only: 0.05 s (49%)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.11.16-02.00.02:066][489]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.01.20:076][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9625.727539
+[2026.11.16-02.01.21:076][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-02.01.21:076][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9626.393555, Update Interval: 304.834137
+[2026.11.16-02.04.10:936][ 78]Cmd: DELETE
+[2026.11.16-02.04.10:936][ 78]Cmd: ACTOR DELETE
+[2026.11.16-02.04.10:939][ 78]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-02.04.10:955][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.11.16-02.04.10:959][ 78]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.11.16-02.05.05:076][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-02.05.05:166][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.11.16-02.05.05:186][362]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-02.05.05:186][362]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_190881FE44179B43FE54DEB86847F86E0.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-02.05.05:195][362]LogFileHelpers: Saving map 'Level_1' took 0.062
+[2026.11.16-02.05.05:203][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.708 ms (total: 3.10 sec)
+[2026.11.16-02.05.05:267][362]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-02.05.05:267][362]LogContentValidation: Enabled validators:
+[2026.11.16-02.05.05:267][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-02.05.05:267][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-02.05.05:267][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-02.05.05:267][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-02.05.05:267][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-02.05.05:267][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-02.05.05:267][362]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-02.05.11:339][ 36]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-02.05.11:339][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-02.05.11:368][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.11.16-02.05.14:184][359]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-02.05.14:184][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-02.05.14:210][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-02.07.16:214][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.11.16-02.07.16:220][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-02.07.16:262][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail] ([1] browsable assets)...
+[2026.11.16-02.07.16:262][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail]
+[2026.11.16-02.07.16:284][419]LogSavePackage: Moving output files for package: /Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail
+[2026.11.16-02.07.16:284][419]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/thumbnailC3CF776F496E8C3141C0EAADAEE0FC85.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail.uasset'
+[2026.11.16-02.07.16:287][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Retro_CRT_Television_-_90s_Style/TV] ([1] browsable assets)...
+[2026.11.16-02.07.16:287][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Retro_CRT_Television_-_90s_Style/TV]
+[2026.11.16-02.07.16:292][419]LogSavePackage: Moving output files for package: /Game/Fab/Retro_CRT_Television_-_90s_Style/TV
+[2026.11.16-02.07.16:292][419]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV55FAF2BE46C2F56F6287BF9A3395979C.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Retro_CRT_Television_-_90s_Style/TV.uasset'
+[2026.11.16-02.07.16:294][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv] ([1] browsable assets)...
+[2026.11.16-02.07.16:294][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv]
+[2026.11.16-02.07.16:301][419]LogSavePackage: Moving output files for package: /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv
+[2026.11.16-02.07.16:301][419]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/retro_tvC7617DBC4AFE7FDD5925BE95E37C4033.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Retro_CRT_Television_-_90s_Style/retro_tv.uasset'
+[2026.11.16-02.07.16:312][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.677 ms (total: 3.19 sec)
+[2026.11.16-02.07.16:371][419]LogContentValidation: Display: Starting to validate 3 assets
+[2026.11.16-02.07.16:371][419]LogContentValidation: Enabled validators:
+[2026.11.16-02.07.16:371][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-02.07.16:371][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-02.07.16:371][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-02.07.16:371][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-02.07.16:371][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-02.07.16:371][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-02.07.16:372][419]AssetCheck: /Game/Fab/Retro_CRT_Television_-_90s_Style/Additional_Textures/thumbnail Validating asset
+[2026.11.16-02.07.16:372][419]AssetCheck: /Game/Fab/Retro_CRT_Television_-_90s_Style/TV Validating asset
+[2026.11.16-02.07.16:372][419]AssetCheck: /Game/Fab/Retro_CRT_Television_-_90s_Style/retro_tv Validating asset
+[2026.11.16-02.07.16:383][419]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.16-02.07.24:060][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9989.726562
+[2026.11.16-02.07.24:201][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-02.07.24:202][349]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9989.859375, Update Interval: 357.214874
+[2026.11.16-02.07.26:041][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.11.16-02.07.27:715][566]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.16-02.07.27:771][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-02.07.27:786][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-02.07.27:797][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-02.14.15:940][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10401.602539
+[2026.11.16-02.14.16:940][341]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-02.14.16:940][341]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10402.268555, Update Interval: 316.666779
+[2026.11.16-02.20.30:628][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10776.238281
+[2026.11.16-02.20.31:630][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-02.20.31:630][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10776.905273, Update Interval: 307.395844
+[2026.11.16-02.22.50:993][884]LogDerivedDataCache: C:/Users/lewis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.16-02.26.13:266][472]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.16-02.26.13:272][472]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.16-02.26.13:280][473]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.16-02.26.20:295][314]LogContentBrowser: Attempting asset rename: NewFolder -> Retro_TV
+[2026.11.16-02.26.20:295][314]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.16-02.26.27:523][941]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-02.26.27:643][941]LogInterchangeEngine: [Pending] Importing
+[2026.11.16-02.26.27:643][941]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/lewis/Downloads/crt_tv_texture/CRT-TV_Texture/TV_Body_BaseColor.png]
+[2026.11.16-02.26.27:644][941]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.16-02.26.27:644][941]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/lewis/Downloads/crt_tv_texture/CRT-TV_Texture/TV_Body_Emissive.png]
+[2026.11.16-02.26.27:645][941]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.16-02.26.27:645][941]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/lewis/Downloads/crt_tv_texture/CRT-TV_Texture/TV_Body_Metallic.png]
+[2026.11.16-02.26.27:646][941]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.16-02.26.27:646][941]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/lewis/Downloads/crt_tv_texture/CRT-TV_Texture/TV_Body_Normal.png]
+[2026.11.16-02.26.27:647][941]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.16-02.26.27:647][941]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/lewis/Downloads/crt_tv_texture/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.png]
+[2026.11.16-02.26.27:647][941]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.11.16-02.26.27:648][941]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/lewis/Downloads/crt_tv_texture/CRT-TV_Texture/TV_Body_Roughness.png]
+[2026.11.16-02.26.28:235][943]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-02.26.28:238][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11133.805664
+[2026.11.16-02.26.28:538][944]LogTexture: Display: Building textures: /Game/Retro_TV/CRT-TV_Texture/TV_Body_Metallic.TV_Body_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2026.11.16-02.26.28:546][944]LogTexture: Display: Building textures: /Game/Retro_TV/CRT-TV_Texture/TV_Body_BaseColor.TV_Body_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.11.16-02.26.28:547][944]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.11.16-02.26.28:552][944]LogTexture: Display: Building textures: /Game/Retro_TV/CRT-TV_Texture/TV_Body_Emissive.TV_Body_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.11.16-02.26.28:569][945]LogTexture: Display: Building textures: /Game/Retro_TV/CRT-TV_Texture/TV_Body_Roughness.TV_Body_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2026.11.16-02.26.28:638][945]LogTexture: Display: Building textures: /Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.TV_Body_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.11.16-02.26.28:642][945]LogTexture: Display: Building textures: /Game/Retro_TV/CRT-TV_Texture/TV_Body_Normal.TV_Body_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-02.26.29:238][946]LogInterchangeEngine: Display: Interchange import completed [C:/Users/lewis/Downl...xture/CRT-TV_Texture/TV_Body_Metallic.png]
+[2026.11.16-02.26.29:238][946]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.11.16-02.26.29:238][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-02.26.29:238][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11134.484375, Update Interval: 335.113373
+[2026.11.16-02.26.29:543][947]LogInterchangeEngine: Display: Interchange import completed [C:/Users/lewis/Downl...xture/CRT-TV_Texture/TV_Body_BaseColor.png]
+[2026.11.16-02.26.29:543][947]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.11.16-02.26.29:544][947]LogInterchangeEngine: Display: Interchange import completed [C:/Users/lewis/Downl...xture/CRT-TV_Texture/TV_Body_Emissive.png]
+[2026.11.16-02.26.29:544][947]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.11.16-02.26.29:545][947]LogInterchangeEngine: Display: Interchange import completed [C:/Users/lewis/Downl...xture/CRT-TV_Texture/TV_Body_Normal.png]
+[2026.11.16-02.26.29:545][947]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.11.16-02.26.29:545][947]LogInterchangeEngine: Display: Interchange import completed [C:/Users/lewis/Downl...xture/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.png]
+[2026.11.16-02.26.29:545][947]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.11.16-02.26.29:545][947]LogInterchangeEngine: Display: Interchange import completed [C:/Users/lewis/Downl...xture/CRT-TV_Texture/TV_Body_Roughness.png]
+[2026.11.16-02.26.29:561][947]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.16-02.26.29:561][947]LogInterchangeEngine: [Success] Import Done
+[2026.11.16-02.26.40:436][317]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-02.26.40:492][317]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/lewis/Downloads/retro_tv.fbx]
+[2026.11.16-02.26.42:536][317]LogSlate: Window 'Import Content' being destroyed
+[2026.11.16-02.26.42:568][317]LogInterchangeEngine: [Pending] Importing
+[2026.11.16-02.26.42:738][318]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-02.26.42:803][319]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-02.26.42:875][321]LogStaticMesh: Display: Building static mesh retro_tv (Required Memory Estimate: 4.733606 MB)...
+[2026.11.16-02.26.42:886][321]LogStaticMesh: Adjacency [0.00s], tris: 3034, UVs 1
+[2026.11.16-02.26.42:893][321]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.11.16-02.26.42:893][321]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-02.26.42:989][322]LogStaticMesh: Reduce [0.10s]
+[2026.11.16-02.26.43:018][323]LogStaticMesh: Fallback [0.03s], num tris: 591
+[2026.11.16-02.26.43:031][323]LogStaticMesh: Fallback [0.01s], num tris: 329
+[2026.11.16-02.26.43:032][323]LogStaticMesh: ConstrainClusters:
+[2026.11.16-02.26.43:032][323]LogStaticMesh:   Input: 48 Clusters, 6056 Triangles and 7140 Vertices
+[2026.11.16-02.26.43:032][323]LogStaticMesh:   Output without splits: 48 Clusters, 6056 Triangles and 7146 Vertices
+[2026.11.16-02.26.43:032][323]LogStaticMesh:   Output with splits: 48 Clusters, 6056 Triangles and 7146 Vertices
+[2026.11.16-02.26.43:032][323]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 48, Slow Path Clusters: 0, 1 Material: 48, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-02.26.43:033][323]LogStaticMesh: WritePages:
+[2026.11.16-02.26.43:033][323]LogStaticMesh:   Root: GPU size: 30904 bytes. 1 Pages. 30904.000 bytes per page (94.312% utilization).
+[2026.11.16-02.26.43:033][323]LogStaticMesh:   Streaming: GPU size: 51356 bytes. 1 Pages (1 with relative encoding). 51356.000 bytes per page (39.182% utilization).
+[2026.11.16-02.26.43:033][323]LogStaticMesh:   Page data disk size: 72392 bytes. Fixup data size: 288 bytes.
+[2026.11.16-02.26.43:033][323]LogStaticMesh:   Total GPU size: 82260 bytes, Total disk size: 72680 bytes.
+[2026.11.16-02.26.43:033][323]LogStaticMesh: Encode [0.00s]
+[2026.11.16-02.26.43:033][323]LogStaticMesh: NaniteBuild [0.15s]
+[2026.11.16-02.26.43:056][324]LogStaticMesh: Built static mesh [0.18s] /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv
+[2026.11.16-02.26.44:126][430]LogInterchangeEngine: Display: Interchange import completed [C:/Users/lewis/Downloads/retro_tv.fbx]
+[2026.11.16-02.26.44:131][430]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.11.16-02.26.44:131][430]LogInterchangeEngine: [Success] Import Done
+[2026.11.16-02.26.44:175][432]LogMaterial: Display: Material /Game/Retro_TV/CRT-TV_Texture/TV.TV needed to have new flag set bUsedWithNanite !
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Total job queries 4,314, among them cache hits 895 (20.75%), DDC hits 1,274 (29.53%), Duplicates 673 (15.60%)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Tracking 2,746 distinct input hashes that result in 1,435 distinct outputs (52.26%)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: RAM used: 14.78 MiB of 1.60 GiB budget. Usage: 0.90%
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Shaders Compiled: 1,472
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Jobs assigned 1,472, completed 1,472 (100%)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Average time worker was idle: 52.23 s
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Time job spent in pending queue: average 40.38 s, longest 104.72 s
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 2.75 s
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Job life time (pending + execution): average 41.03 s, max 105.03
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Shader code size: total 17.698 MiB, numShaders 1,509, average 12.01 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 143.28 s
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.15%
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Jobs were issued in 1,472 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Average processing rate: 10.27 jobs/sec
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Total thread time: 848.728 s
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Total thread preprocess time: 44.357 s
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Percentage time preprocessing: 5.23%
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Effective parallelization: 5.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.740462
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.74 sec, max 2.03 sec, min 1.44 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.72 sec, max 2.00 sec, min 1.43 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.44 sec, max 1.54 sec, min 1.35 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.88 sec, max 1.06 sec, min 0.78 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 62.92% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.22% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 3.48% of total time (compiled   44 times, average 0.67 sec, max 1.45 sec, min 0.46 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                               FHWRasterizeVS - 2.98% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.87% of total time (compiled   70 times, average 0.35 sec, max 0.88 sec, min 0.19 sec)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Materials Translated:    245
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.11.16-02.27.02:798][930]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.27.31:060][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.11.16-02.27.31:066][304]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.024
+[2026.11.16-02.27.31:067][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_BaseColor] ([1] browsable assets)...
+[2026.11.16-02.27.31:069][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_BaseColor.TV_Body_BaseColor]
+[2026.11.16-02.27.31:069][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_BaseColor]
+[2026.11.16-02.27.31:119][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_BaseColor_Auto6
+[2026.11.16-02.27.31:120][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Body_BaseColor_Auto6B8BF91DC49ECC4ECC7EC16AEF8CEAD7F.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_BaseColor_Auto6.uasset'
+[2026.11.16-02.27.31:121][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Emissive] ([1] browsable assets)...
+[2026.11.16-02.27.31:122][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_Emissive.TV_Body_Emissive]
+[2026.11.16-02.27.31:122][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Emissive]
+[2026.11.16-02.27.31:177][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Emissive_Auto6
+[2026.11.16-02.27.31:177][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Body_Emissive_Auto6C04573B74D1FE963528D479EDF787328.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Emissive_Auto6.uasset'
+[2026.11.16-02.27.31:178][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Metallic] ([1] browsable assets)...
+[2026.11.16-02.27.31:179][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_Metallic.TV_Body_Metallic]
+[2026.11.16-02.27.31:179][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Metallic]
+[2026.11.16-02.27.31:191][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Metallic_Auto6
+[2026.11.16-02.27.31:192][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Body_Metallic_Auto6DFB626C345450DA50265BF9A76C42449.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Metallic_Auto6.uasset'
+[2026.11.16-02.27.31:192][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Normal] ([1] browsable assets)...
+[2026.11.16-02.27.31:193][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_Normal.TV_Body_Normal]
+[2026.11.16-02.27.31:193][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Normal]
+[2026.11.16-02.27.31:244][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Normal_Auto6
+[2026.11.16-02.27.31:244][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Body_Normal_Auto639DF1EE9406D4A12D9B3BE9D6164873B.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Normal_Auto6.uasset'
+[2026.11.16-02.27.31:246][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.11.16-02.27.31:248][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.TV_Body_OcclusionRoughnessMetallic]
+[2026.11.16-02.27.31:248][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic]
+[2026.11.16-02.27.31:298][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic_Auto6
+[2026.11.16-02.27.31:298][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Body_OcclusionRoughnessMetall924FD5C54E5831387D7215A1D10DFDA5.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic_Auto6.uasset'
+[2026.11.16-02.27.31:299][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Roughness] ([1] browsable assets)...
+[2026.11.16-02.27.31:301][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_Roughness.TV_Body_Roughness]
+[2026.11.16-02.27.31:301][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_Roughness]
+[2026.11.16-02.27.31:313][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Roughness_Auto6
+[2026.11.16-02.27.31:313][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Body_Roughness_Auto6D19B39CD45784F1EEEF3778992148FC5.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Body_Roughness_Auto6.uasset'
+[2026.11.16-02.27.31:314][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV] ([1] browsable assets)...
+[2026.11.16-02.27.31:361][304]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Retro_TV/CRT-TV_Texture/TV.TV]
+[2026.11.16-02.27.31:361][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV]
+[2026.11.16-02.27.31:369][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Auto6
+[2026.11.16-02.27.31:369][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Auto6FC9538FD4904E621039DD5812C30C2AE.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/TV_Auto6.uasset'
+[2026.11.16-02.27.31:369][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/retro_tv] ([1] browsable assets)...
+[2026.11.16-02.27.31:376][304]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv]
+[2026.11.16-02.27.31:376][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/retro_tv]
+[2026.11.16-02.27.31:384][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Retro_TV/CRT-TV_Texture/retro_tv_Auto6
+[2026.11.16-02.27.31:384][304]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/retro_tv_Auto6BA8E433945821DC3763B27AE9F60B260.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Retro_TV/CRT-TV_Texture/retro_tv_Auto6.uasset'
+[2026.11.16-02.27.31:385][304]LogFileHelpers: Auto-saving content packages took 0.319
+[2026.11.16-02.29.29:690][298]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.TV_Body_OcclusionRoughnessMetallic
+[2026.11.16-02.29.59:386][803]LogTexture: Display: Building textures: /Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.TV_Body_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Final
+[2026.11.16-02.30.03:627][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-02.30.03:687][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.11.16-02.30.03:689][288]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.TV_Body_OcclusionRoughnessMetallic]
+[2026.11.16-02.30.03:689][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic]
+[2026.11.16-02.30.03:791][288]LogSavePackage: Moving output files for package: /Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic
+[2026.11.16-02.30.03:791][288]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV_Body_OcclusionRoughnessMetall11878E874E09945FD32C76B237A39DE2.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic.uasset'
+[2026.11.16-02.30.03:800][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.817 ms (total: 3.36 sec)
+[2026.11.16-02.30.03:869][288]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-02.30.03:869][288]LogContentValidation: Enabled validators:
+[2026.11.16-02.30.03:869][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-02.30.03:869][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-02.30.03:869][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-02.30.03:869][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-02.30.03:869][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-02.30.03:869][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-02.30.03:869][288]AssetCheck: /Game/Retro_TV/CRT-TV_Texture/TV_Body_OcclusionRoughnessMetallic Validating asset
+[2026.11.16-02.30.03:882][288]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.16-02.30.16:720][747]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Retro_TV/CRT-TV_Texture/TV.TV
+[2026.11.16-02.30.16:722][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.11.16-02.30.17:145][747]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.30.17:145][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.17:145][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.17:145][747]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.30.17:145][747]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.30.17:205][749]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.30.17:205][749]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.30.17:205][749]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.30.17:205][749]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.17:205][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.17:205][749]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.30.17:205][749]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.30.40:772][504]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.30.40:772][504]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.40:772][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.40:772][504]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.30.40:772][504]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.30.40:878][506]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.30.40:878][506]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.30.40:878][506]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.30.40:878][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.40:878][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.40:878][506]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.30.40:878][506]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.30.47:195][188]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.30.47:195][188]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.47:195][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.47:195][188]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.30.47:195][188]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.30.47:306][190]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.30.47:306][190]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.30.47:306][190]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.30.47:306][190]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.47:306][190]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.47:306][190]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.30.47:306][190]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.30.55:252][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.30.55:252][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.55:252][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.55:252][ 83]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.30.55:252][ 83]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.30.55:353][ 85]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.30.55:353][ 85]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.30.55:353][ 85]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.30.55:353][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.30.55:353][ 85]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.30.55:353][ 85]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.30.55:353][ 85]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.31.13:642][199]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.31.13:642][199]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.31.13:642][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.31.13:642][199]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.31.13:642][199]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.31.13:750][201]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.31.13:750][201]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.31.13:750][201]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.31.13:750][201]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.31.13:750][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.31.13:750][201]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.31.13:750][201]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.11.16-02.32.40:534][174]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.16-02.32.46:202][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11511.788086
+[2026.11.16-02.32.47:203][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-02.32.47:203][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11512.455078, Update Interval: 357.029938
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Total job queries 4,419, among them cache hits 994 (22.49%), DDC hits 1,274 (28.83%), Duplicates 676 (15.30%)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Tracking 2,749 distinct input hashes that result in 1,438 distinct outputs (52.31%)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: RAM used: 14.79 MiB of 1.60 GiB budget. Usage: 0.90%
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Shaders Compiled: 1,475
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Jobs assigned 1,475, completed 1,475 (100%)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Average time worker was idle: 52.55 s
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Time job spent in pending queue: average 40.30 s, longest 104.72 s
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 2.75 s
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Job life time (pending + execution): average 40.94 s, max 105.03
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Shader code size: total 17.716 MiB, numShaders 1,512, average 11.998 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 143.97 s
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.14%
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Jobs were issued in 1,475 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Average processing rate: 10.25 jobs/sec
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Total thread time: 849.571 s
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Total thread preprocess time: 45.502 s
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Percentage time preprocessing: 5.36%
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Effective parallelization: 5.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.737634
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.74 sec, max 2.03 sec, min 1.44 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.72 sec, max 2.00 sec, min 1.43 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.44 sec, max 1.54 sec, min 1.35 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.88 sec, max 1.06 sec, min 0.78 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 62.86% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.21% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 3.48% of total time (compiled   44 times, average 0.67 sec, max 1.45 sec, min 0.46 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                               FHWRasterizeVS - 2.98% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.93% of total time (compiled   72 times, average 0.35 sec, max 0.88 sec, min 0.19 sec)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Materials Translated:    291
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Material Translation Only: 0.05 s (49%)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: Material Cache Hits: 29 (10%)
+[2026.11.16-02.33.03:116][926]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.33.47:716][394]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.33.47:717][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.11.16-02.33.47:717][394]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.33.47:717][394]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.33.47:758][396]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.33.47:759][396]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.33.47:759][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.11.16-02.33.47:759][396]MaterialEditorStats: Shader Count: 2
+[2026.11.16-02.33.47:759][396]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.33.48:282][459]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.11.16-02.33.48:283][459]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.33.48:283][459]MaterialEditorStats: Texture samplers: 1/16
+[2026.11.16-02.33.48:283][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.11.16-02.33.48:283][459]MaterialEditorStats: Shader Count: 4
+[2026.11.16-02.33.48:283][459]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.34.13:687][475]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.34.13:687][475]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.34.13:687][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.34.13:687][475]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.34.13:687][475]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.34.13:731][477]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.34.13:731][477]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.34.13:731][477]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.34.13:731][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.34.13:731][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.34.13:731][477]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.34.13:731][477]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.34.32:875][668]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.34.32:875][668]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.34.32:875][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.34.32:875][668]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.34.32:875][668]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.34.32:943][670]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.34.32:943][670]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.34.32:943][670]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.34.32:943][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.34.32:943][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.34.32:943][670]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.34.32:943][670]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.34.36:022][ 28]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.34.36:022][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.34.36:022][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.34.36:022][ 28]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.34.36:022][ 28]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.34.36:075][ 30]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.11.16-02.34.36:075][ 30]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.34.36:075][ 30]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.34.36:075][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.11.16-02.34.36:075][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.34.36:075][ 30]MaterialEditorStats: Shader Count: 5
+[2026.11.16-02.34.36:075][ 30]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.35.52:170][145]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.35.52:170][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.11.16-02.35.52:170][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.35.52:170][145]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.35.52:170][145]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.35.52:193][147]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.35.52:193][147]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.35.52:193][147]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.11.16-02.35.52:193][147]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.35.52:193][147]MaterialEditorStats: Shader Count: 2
+[2026.11.16-02.35.52:193][147]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.35.52:701][207]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.35.52:701][207]MaterialEditorStats: Texture samplers: 2/16
+[2026.11.16-02.35.52:701][207]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.11.16-02.35.52:701][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.35.52:701][207]MaterialEditorStats: Shader Count: 3
+[2026.11.16-02.35.52:701][207]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.35.52:801][219]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.11.16-02.35.52:801][219]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.35.52:801][219]MaterialEditorStats: Texture samplers: 3/16
+[2026.11.16-02.35.52:801][219]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.11.16-02.35.52:801][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.35.52:801][219]MaterialEditorStats: Shader Count: 4
+[2026.11.16-02.35.52:802][219]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Total job queries 4,468, among them cache hits 1,037 (23.21%), DDC hits 1,274 (28.51%), Duplicates 676 (15.13%)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Tracking 2,755 distinct input hashes that result in 1,444 distinct outputs (52.41%)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: RAM used: 14.83 MiB of 1.60 GiB budget. Usage: 0.91%
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Shaders Compiled: 1,481
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Jobs assigned 1,481, completed 1,481 (100%)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Average time worker was idle: 53.02 s
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Time job spent in pending queue: average 40.13 s, longest 104.72 s
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 2.75 s
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Job life time (pending + execution): average 40.78 s, max 105.03
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Shader code size: total 17.763 MiB, numShaders 1,518, average 11.982 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 145.73 s
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.14%
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Jobs were issued in 1,481 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Average processing rate: 10.16 jobs/sec
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Total thread time: 852.118 s
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Total thread preprocess time: 46.012 s
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Percentage time preprocessing: 5.40%
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Effective parallelization: 5.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.730892
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.74 sec, max 2.03 sec, min 1.44 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.72 sec, max 2.00 sec, min 1.43 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.44 sec, max 1.54 sec, min 1.35 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.88 sec, max 1.06 sec, min 0.78 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 62.67% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.20% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 3.62% of total time (compiled   46 times, average 0.67 sec, max 1.45 sec, min 0.46 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.01% of total time (compiled   74 times, average 0.35 sec, max 0.88 sec, min 0.19 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display:                                               FHWRasterizeVS - 2.97% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Materials Translated:    304
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Material Translation Only: 0.05 s (49%)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: Material Cache Hits: 29 (10%)
+[2026.11.16-02.36.03:120][448]LogShaderCompilers: Display: ================================================
+[2026.11.16-02.36.04:866][642]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.04:866][642]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.11.16-02.36.04:866][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.04:866][642]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.36.04:866][642]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.04:905][644]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.04:905][644]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.04:905][644]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.11.16-02.36.04:905][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.04:905][644]MaterialEditorStats: Shader Count: 2
+[2026.11.16-02.36.04:905][644]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.05:238][684]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.05:238][684]MaterialEditorStats: Texture samplers: 3/16
+[2026.11.16-02.36.05:238][684]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.11.16-02.36.05:238][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.05:238][684]MaterialEditorStats: Shader Count: 3
+[2026.11.16-02.36.05:238][684]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.05:339][696]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.11.16-02.36.05:339][696]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.05:339][696]MaterialEditorStats: Texture samplers: 4/16
+[2026.11.16-02.36.05:339][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.11.16-02.36.05:339][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.05:339][696]MaterialEditorStats: Shader Count: 4
+[2026.11.16-02.36.05:339][696]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.24:958][  4]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.24:958][  4]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.24:959][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.24:959][  4]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.36.24:959][  4]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.25:002][  6]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.25:002][  6]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.25:002][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.25:002][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.25:002][  6]MaterialEditorStats: Shader Count: 2
+[2026.11.16-02.36.25:002][  6]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.25:302][ 39]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.25:302][ 39]MaterialEditorStats: Texture samplers: 3/16
+[2026.11.16-02.36.25:302][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.25:302][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.25:302][ 39]MaterialEditorStats: Shader Count: 3
+[2026.11.16-02.36.25:302][ 39]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.25:398][ 49]MaterialEditorStats: Base pass shader: 194 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.11.16-02.36.25:398][ 49]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.25:398][ 49]MaterialEditorStats: Texture samplers: 5/16
+[2026.11.16-02.36.25:398][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.25:398][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.25:398][ 49]MaterialEditorStats: Shader Count: 4
+[2026.11.16-02.36.25:398][ 49]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.42:122][977]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.42:122][977]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.42:122][977]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.42:122][977]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.36.42:122][977]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.42:165][979]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.42:165][979]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.42:165][979]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.42:165][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.42:165][979]MaterialEditorStats: Shader Count: 2
+[2026.11.16-02.36.42:165][979]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.42:483][ 17]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.42:483][ 17]MaterialEditorStats: Texture samplers: 3/16
+[2026.11.16-02.36.42:483][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.42:483][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.42:483][ 17]MaterialEditorStats: Shader Count: 3
+[2026.11.16-02.36.42:483][ 17]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.42:583][ 29]MaterialEditorStats: Base pass shader: 195 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.11.16-02.36.42:583][ 29]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.42:583][ 29]MaterialEditorStats: Texture samplers: 5/16
+[2026.11.16-02.36.42:583][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.42:583][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.42:583][ 29]MaterialEditorStats: Shader Count: 4
+[2026.11.16-02.36.42:583][ 29]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.45:420][344]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.45:420][344]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.45:420][344]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.45:420][344]MaterialEditorStats: Shader Count: 0
+[2026.11.16-02.36.45:420][344]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.45:450][346]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.45:450][346]MaterialEditorStats: Texture samplers: 0/16
+[2026.11.16-02.36.45:450][346]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.45:450][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.45:451][346]MaterialEditorStats: Shader Count: 2
+[2026.11.16-02.36.45:451][346]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.45:841][392]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.45:841][392]MaterialEditorStats: Texture samplers: 4/16
+[2026.11.16-02.36.45:841][392]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.45:841][392]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.45:841][392]MaterialEditorStats: Shader Count: 3
+[2026.11.16-02.36.45:841][392]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.45:941][404]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.11.16-02.36.45:941][404]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.45:941][404]MaterialEditorStats: Texture samplers: 5/16
+[2026.11.16-02.36.45:941][404]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.45:941][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.45:941][404]MaterialEditorStats: Shader Count: 4
+[2026.11.16-02.36.45:941][404]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.52:813][222]LogMaterialEditor: Saving and Compiling material TV
+[2026.11.16-02.36.52:940][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.11.16-02.36.54:753][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.11.16-02.36.54:764][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-02.36.54:816][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Retro_TV/CRT-TV_Texture/TV] ([1] browsable assets)...
+[2026.11.16-02.36.54:823][222]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Retro_TV/CRT-TV_Texture/TV.TV]
+[2026.11.16-02.36.54:823][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Retro_TV/CRT-TV_Texture/TV]
+[2026.11.16-02.36.54:823][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Retro_TV/CRT-TV_Texture/TV" FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Retro_TV/CRT-TV_Texture/TV.uasset" SILENT=true
+[2026.11.16-02.36.54:831][222]LogSavePackage: Moving output files for package: /Game/Retro_TV/CRT-TV_Texture/TV
+[2026.11.16-02.36.54:831][222]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/TV1BE99C4948F6137F9ACBA89CEACDAE3B.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Retro_TV/CRT-TV_Texture/TV.uasset'
+[2026.11.16-02.36.54:838][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.925 ms (total: 3.44 sec)
+[2026.11.16-02.36.54:901][222]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-02.36.54:901][222]LogContentValidation: Enabled validators:
+[2026.11.16-02.36.54:901][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-02.36.54:901][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-02.36.54:901][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-02.36.54:901][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-02.36.54:901][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-02.36.54:901][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-02.36.54:901][222]AssetCheck: /Game/Retro_TV/CRT-TV_Texture/TV Validating asset
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: Nanite Compute Shader: 854 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: Texture samplers: 5/16
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: Shader Count: 19
+[2026.11.16-02.36.54:910][222]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.11.16-02.36.54:917][222]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.16-02.37.12:242][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv
+[2026.11.16-02.37.12:242][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv
+[2026.11.16-02.37.12:242][221]LogActorFactory: Actor Factory spawned StaticMesh /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_70
+[2026.11.16-02.37.12:844][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.11.16-02.37.12:847][281]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.11.16-02.37.12:851][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv
+[2026.11.16-02.37.12:851][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv
+[2026.11.16-02.37.12:853][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/Retro_TV/CRT-TV_Texture/retro_tv.retro_tv as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_71
+[2026.11.16-02.37.46:663][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-02.37.46:683][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto7
+[2026.11.16-02.37.46:683][407]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1_Auto77A4AB3A0435AA6DAEA1667B4ADCCEF98.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Levels/Level_1_Auto7.umap'
+[2026.11.16-02.37.46:685][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.035
+[2026.11.16-02.37.46:685][407]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
