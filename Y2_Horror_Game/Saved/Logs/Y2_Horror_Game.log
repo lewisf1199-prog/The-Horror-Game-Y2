@@ -7824,3 +7824,60 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-12.33.18:696][575]LogStreaming: Display: FlushAsyncLoading(741): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.33.18:727][575]LogStaticMesh: Display: Building static mesh SM_Table_Side_B3 (Required Memory Estimate: 11.11181 MB)...
+[2026.11.16-12.33.18:842][577]LogStaticMesh: Built static mesh [0.12s] /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Props/SM_Table_Side_B3.SM_Table_Side_B3
+[2026.11.16-12.33.18:849][577]LogTexture: Display: Building texture TwoD: /Game/LucapyAssets/OldLivingRoom/Textures/Props/T_SideTable_B_BaseColor.T_SideTable_B_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 306.083323 MB), EncodeSpeed: Fast
+[2026.11.16-12.33.18:853][577]LogTexture: Display: Building texture TwoD: /Game/LucapyAssets/OldLivingRoom/Textures/Props/T_SideTable_B_OcclusionRoughnessMetallic.T_SideTable_B_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 306.083323 MB), EncodeSpeed: Fast
+[2026.11.16-12.33.18:879][577]LogTexture: Display: Building texture TwoD: /Game/LucapyAssets/OldLivingRoom/Textures/Props/T_SideTable_B_Normal.T_SideTable_B_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Fast
+[2026.11.16-12.33.18:960][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Props/SM_Table_Side_B3.SM_Table_Side_B3
+[2026.11.16-12.33.18:960][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Props/SM_Table_Side_B3.SM_Table_Side_B3
+[2026.11.16-12.33.18:961][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Props/SM_Table_Side_B3.SM_Table_Side_B3 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_138
+[2026.11.16-12.33.20:282][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.11.16-12.33.20:289][672]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.11.16-12.33.20:298][672]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Props/SM_Table_Side_B3.SM_Table_Side_B3
+[2026.11.16-12.33.20:298][672]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Props/SM_Table_Side_B3.SM_Table_Side_B3
+[2026.11.16-12.33.20:300][672]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Props/SM_Table_Side_B3.SM_Table_Side_B3 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_139
+[2026.11.16-12.33.21:172][746]Cmd: DELETE
+[2026.11.16-12.33.21:172][746]Cmd: ACTOR DELETE
+[2026.11.16-12.33.21:175][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-12.33.21:201][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.11.16-12.33.21:206][746]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.11.16-12.36.57:540][134]LogDerivedDataCache: C:/Users/2franl85/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10877 files in 11952 folders with total size 993 MiB.
+[2026.11.16-12.38.27:829][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-12.38.27:883][499]LogFileHelpers: Saving Map: /Game/Levels/Level_1
+[2026.11.16-12.38.27:884][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level_1] ([1] browsable assets)...
+[2026.11.16-12.38.27:884][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level_1]
+[2026.11.16-12.38.27:925][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.11.16-12.38.27:955][499]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-12.38.27:955][499]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_10AE19196404CB714F563D986A2451744.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-12.38.27:973][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.076 ms (total: 3.57 sec)
+[2026.11.16-12.38.28:034][499]LogContentValidation: Enabled validators:
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-12.38.28:034][499]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-12.38.28:034][499]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-12.38.28:034][499]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-12.38.28:034][499]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-12.38.28:034][499]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-12.38.28:034][499]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-12.38.39:637][643]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7440.055176
+[2026.11.16-12.38.39:818][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-12.38.39:819][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7440.225586, Update Interval: 344.040039
+[2026.11.16-12.45.17:221][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7837.642090
+[2026.11.16-12.45.17:375][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-12.45.17:375][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7837.783203, Update Interval: 301.547302
