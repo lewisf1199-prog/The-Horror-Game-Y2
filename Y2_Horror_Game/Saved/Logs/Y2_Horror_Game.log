@@ -3227,3 +3227,1260 @@ Sampler Limit: 32
 [2026.11.16-00.39.58:741][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.11.16-00.39.58:742][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2026.11.16-00.39.58:799][160]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.11.16-00.42.30:715][993]LogStreaming: Display: FlushAsyncLoading(455): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.42.30:762][993]LogStaticMesh: Display: Building static mesh SM_Sofa_A_3Seats (Required Memory Estimate: 34.941067 MB)...
+[2026.11.16-00.42.31:020][ 11]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A0_OcclusionRoughnessMetallic.T_Sofa_Leather_A0_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.42.31:129][ 20]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A0_BaseColor.T_Sofa_Leather_A0_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.42.31:137][ 21]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B0_OcclusionRoughnessMetallic.T_Sofa_Fabric_B0_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.42.31:239][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats
+[2026.11.16-00.42.31:240][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats
+[2026.11.16-00.42.31:240][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_33
+[2026.11.16-00.42.31:256][ 31]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats) ...
+[2026.11.16-00.42.31:298][ 31]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B0_BaseColor.T_Sofa_Fabric_B0_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.42.31:360][ 31]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A0_Normal.T_Sofa_Leather_A0_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.42.31:405][ 31]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B0_Normal.T_Sofa_Fabric_B0_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.42.31:829][ 31]LogStaticMesh: Built static mesh [1.07s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats
+[2026.11.16-00.42.31:900][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.11.16-00.42.31:907][ 31]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.11.16-00.42.31:982][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats
+[2026.11.16-00.42.31:982][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats
+[2026.11.16-00.42.31:982][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_34
+[2026.11.16-00.42.32:698][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-00.42.32:699][113]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.11.16-00.42.32:703][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats
+[2026.11.16-00.42.32:703][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats
+[2026.11.16-00.42.32:704][113]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_3Seats.SM_Sofa_A_3Seats as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_35
+[2026.11.16-00.42.34:399][292]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-00.42.34:406][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-00.42.34:444][292]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.42.34:448][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003374s)
+[2026.11.16-00.42.34:448][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.003415s)
+[2026.11.16-00.42.34:462][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-00.42.34:466][292]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.42.34:467][292]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2026.11.16-00.42.34:468][292]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.11.16-00.42.34:468][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-00.42.34:468][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-00.42.34:468][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-00.42.34:468][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-00.42.34:468][292]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-00.42.34:468][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-00.42.34:468][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-00.42.34:468][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-00.42.34:468][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-00.42.34:468][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-00.42.34:468][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-00.42.34:470][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-00.42.34:489][292]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-00.42.34:489][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-00.42.34:489][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-00.42.34:489][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-00.42.34:489][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.11.16-00.42.34:489][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.11.16-00.42.34:491][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.11.16-00.42.34:491][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.11.16-00.42.34:491][292]LogInit: FAudioDevice initialized with ID 6.
+[2026.11.16-00.42.34:492][292]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_1'.
+[2026.11.16-00.42.34:492][292]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.11.16-00.42.34:495][292]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-00.42.34:497][292]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-00.42.34
+[2026.11.16-00.42.34:497][292]LogWorld: Bringing up level for play took: 0.001216
+[2026.11.16-00.42.34:498][292]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.11.16-00.42.34:503][292]PIE: Server logged in
+[2026.11.16-00.42.34:505][292]PIE: Play in editor total start time 0.099 seconds.
+[2026.11.16-00.42.34:546][293]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-00.42.40:245][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.42.40:245][964]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.42.40:245][964]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.42.40:245][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.42.40:246][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-00.42.40:249][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.42.40:263][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.42.40:263][964]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.11.16-00.42.40:263][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.11.16-00.42.40:266][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.11.16-00.42.40:272][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.11.16-00.42.40:328][965]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.11.16-00.42.49:007][992]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-00.42.49:013][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-00.42.49:034][992]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.42.49:037][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002911s)
+[2026.11.16-00.42.49:037][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.002962s)
+[2026.11.16-00.42.49:051][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.11.16-00.42.49:053][992]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.42.49:055][992]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2026.11.16-00.42.49:055][992]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.11.16-00.42.49:055][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-00.42.49:055][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-00.42.49:055][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-00.42.49:055][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-00.42.49:055][992]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-00.42.49:055][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-00.42.49:055][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-00.42.49:055][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-00.42.49:055][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-00.42.49:055][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-00.42.49:055][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-00.42.49:058][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-00.42.49:074][992]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-00.42.49:074][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-00.42.49:074][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-00.42.49:074][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-00.42.49:074][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.11.16-00.42.49:074][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.11.16-00.42.49:077][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.11.16-00.42.49:077][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.11.16-00.42.49:077][992]LogInit: FAudioDevice initialized with ID 7.
+[2026.11.16-00.42.49:077][992]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_1'.
+[2026.11.16-00.42.49:077][992]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.11.16-00.42.49:080][992]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-00.42.49:081][992]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-00.42.49
+[2026.11.16-00.42.49:081][992]LogWorld: Bringing up level for play took: 0.001032
+[2026.11.16-00.42.49:083][992]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.11.16-00.42.49:088][992]PIE: Server logged in
+[2026.11.16-00.42.49:089][992]PIE: Play in editor total start time 0.076 seconds.
+[2026.11.16-00.42.49:130][993]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-00.42.51:365][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.42.51:365][249]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.42.51:365][249]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.42.51:365][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.42.51:366][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-00.42.51:369][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.42.51:383][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.42.51:384][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.11.16-00.42.51:384][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.11.16-00.42.51:385][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.11.16-00.42.51:390][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.16-00.42.51:449][250]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.11.16-00.42.57:146][919]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-00.42.57:152][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-00.42.57:184][919]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.42.57:187][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002656s)
+[2026.11.16-00.42.57:187][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.002684s)
+[2026.11.16-00.42.57:201][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.11.16-00.42.57:203][919]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.42.57:205][919]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2026.11.16-00.42.57:205][919]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.11.16-00.42.57:205][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-00.42.57:205][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-00.42.57:205][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-00.42.57:205][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-00.42.57:205][919]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-00.42.57:205][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-00.42.57:205][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-00.42.57:205][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-00.42.57:205][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-00.42.57:205][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-00.42.57:205][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-00.42.57:207][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-00.42.57:224][919]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-00.42.57:224][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-00.42.57:224][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-00.42.57:224][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-00.42.57:224][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.11.16-00.42.57:224][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.11.16-00.42.57:227][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.11.16-00.42.57:227][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.11.16-00.42.57:227][919]LogInit: FAudioDevice initialized with ID 8.
+[2026.11.16-00.42.57:227][919]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_1'.
+[2026.11.16-00.42.57:227][919]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.16-00.42.57:230][919]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-00.42.57:231][919]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-00.42.57
+[2026.11.16-00.42.57:231][919]LogWorld: Bringing up level for play took: 0.001059
+[2026.11.16-00.42.57:233][919]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.11.16-00.42.57:238][919]PIE: Server logged in
+[2026.11.16-00.42.57:239][919]PIE: Play in editor total start time 0.087 seconds.
+[2026.11.16-00.42.57:280][920]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-00.43.04:295][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.43.04:295][748]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.43.04:295][748]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.43.04:295][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.43.04:297][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-00.43.04:299][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.43.04:314][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.43.04:314][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.16-00.43.04:314][748]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.11.16-00.43.04:316][748]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.11.16-00.43.04:322][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.11.16-00.43.04:377][749]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.11.16-00.43.21:425][627]LogStreaming: Display: FlushAsyncLoading(456): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.43.21:427][627]LogStaticMesh: Display: Building static mesh SM_Sofa_A_1Seat (Required Memory Estimate: 21.450644 MB)...
+[2026.11.16-00.43.21:578][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat.SM_Sofa_A_1Seat
+[2026.11.16-00.43.21:578][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat.SM_Sofa_A_1Seat
+[2026.11.16-00.43.21:578][634]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat.SM_Sofa_A_1Seat as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_36
+[2026.11.16-00.43.21:594][634]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat) ...
+[2026.11.16-00.43.21:729][634]LogStaticMesh: Built static mesh [0.30s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat.SM_Sofa_A_1Seat
+[2026.11.16-00.43.22:902][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-00.43.22:906][765]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.11.16-00.43.22:910][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat.SM_Sofa_A_1Seat
+[2026.11.16-00.43.22:910][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat.SM_Sofa_A_1Seat
+[2026.11.16-00.43.22:911][765]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_1Seat.SM_Sofa_A_1Seat as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_37
+[2026.11.16-00.43.31:065][729]Cmd: EDIT COPY
+[2026.11.16-00.43.31:623][796]Cmd: EDIT PASTE
+[2026.11.16-00.43.38:670][569]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.43.38:677][569]LogStaticMesh: Display: Building static mesh SM_Sofa_B_Exd (Required Memory Estimate: 5.399336 MB)...
+[2026.11.16-00.43.38:733][569]LogStaticMesh: Built static mesh [0.06s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_Exd.SM_Sofa_B_Exd
+[2026.11.16-00.43.39:060][598]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_Exd.SM_Sofa_B_Exd
+[2026.11.16-00.43.39:060][598]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_Exd.SM_Sofa_B_Exd
+[2026.11.16-00.43.39:060][598]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_Exd.SM_Sofa_B_Exd as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_39
+[2026.11.16-00.43.39:816][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-00.43.39:821][686]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.11.16-00.43.39:825][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_Exd.SM_Sofa_B_Exd
+[2026.11.16-00.43.39:825][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_Exd.SM_Sofa_B_Exd
+[2026.11.16-00.43.39:826][686]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_Exd.SM_Sofa_B_Exd as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_40
+[2026.11.16-00.43.46:312][450]Cmd: TRANSACTION UNDO
+[2026.11.16-00.43.46:313][450]LogEditorTransaction: Undo Move Elements
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: ================================================
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Total job queries 2,818, among them cache hits 360 (12.78%), DDC hits 422 (14.98%), Duplicates 667 (23.67%)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Tracking 1,791 distinct input hashes that result in 1,122 distinct outputs (62.65%)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: RAM used: 11.32 MiB of 1.60 GiB budget. Usage: 0.69%
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Shaders Compiled: 1,369
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Jobs assigned 1,369, completed 1,369 (100%)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Average time worker was idle: 11.81 s
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Time job spent in pending queue: average 43.41 s, longest 104.72 s
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.75 s
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Job life time (pending + execution): average 44.05 s, max 105.03
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Shader code size: total 16.69 MiB, numShaders 1,392, average 12.278 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 119.76 s
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.66%
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Jobs were issued in 1,369 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Average processing rate: 11.43 jobs/sec
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Total thread time: 786.316 s
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Total thread preprocess time: 28.157 s
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Percentage time preprocessing: 3.58%
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Effective parallelization: 6.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.820730
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   23 times, average 0.62 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 67.91% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.63% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.22% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 1.82% of total time (compiled   23 times, average 0.62 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.58% of total time (compiled   39 times, average 0.32 sec, max 0.61 sec, min 0.19 sec)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Materials Translated:    235
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.11.16-00.45.00:016][996]LogShaderCompilers: Display: ================================================
+[2026.11.16-00.45.19:578][324]LogStreaming: Display: FlushAsyncLoading(458): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.45.19:600][324]LogStaticMesh: Display: Building static mesh SM_Sofa_A_Exd (Required Memory Estimate: 7.85763 MB)...
+[2026.11.16-00.45.19:678][324]LogStaticMesh: Built static mesh [0.08s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_Exd.SM_Sofa_A_Exd
+[2026.11.16-00.45.19:730][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_Exd.SM_Sofa_A_Exd
+[2026.11.16-00.45.19:730][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_Exd.SM_Sofa_A_Exd
+[2026.11.16-00.45.19:731][326]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_Exd.SM_Sofa_A_Exd as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_41
+[2026.11.16-00.45.19:854][331]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A0_OcclusionRoughnessMetallic.T_Sofa_Fabric_A0_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.19:983][340]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A0_BaseColor.T_Sofa_Fabric_A0_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.20:249][367]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A0_Normal.T_Sofa_Fabric_A0_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.20:499][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.16-00.45.20:505][392]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.11.16-00.45.20:512][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_Exd.SM_Sofa_A_Exd
+[2026.11.16-00.45.20:512][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_Exd.SM_Sofa_A_Exd
+[2026.11.16-00.45.20:514][392]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_Exd.SM_Sofa_A_Exd as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_42
+[2026.11.16-00.45.22:569][618]Cmd: DELETE
+[2026.11.16-00.45.22:569][618]Cmd: ACTOR DELETE
+[2026.11.16-00.45.22:572][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-00.45.22:587][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-00.45.22:591][618]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.11.16-00.45.37:679][303]LogStreaming: Display: FlushAsyncLoading(459): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.45.37:716][303]LogStaticMesh: Display: Building static mesh SM_Carpet (Required Memory Estimate: 0.374067 MB)...
+[2026.11.16-00.45.37:727][303]LogStaticMesh: Built static mesh [0.01s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Carpet.SM_Carpet
+[2026.11.16-00.45.37:776][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Carpet.SM_Carpet
+[2026.11.16-00.45.37:776][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Carpet.SM_Carpet
+[2026.11.16-00.45.37:776][303]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Carpet.SM_Carpet as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_43
+[2026.11.16-00.45.37:816][303]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Carpet/T_Carpet_A0_OcclusionRoughnessMetallic.T_Carpet_A0_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x2048 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.37:835][303]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Carpet/T_Carpet_A1_OcclusionRoughnessMetallic.T_Carpet_A1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x2048 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.37:947][312]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Carpet/T_Carpet_A0_BaseColor.T_Carpet_A0_BaseColor (TFO_AutoDXT, 4096x2048 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.37:975][314]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Carpet/T_Carpet_A1_BaseColor.T_Carpet_A1_BaseColor (TFO_AutoDXT, 4096x2048 x1x1x1) (Required Memory Estimate: 576.999968 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.38:022][317]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Carpet/T_Carpet_A1_Normal.T_Carpet_A1_Normal (TFO_BC5, 4096x2048 x1x1x1) (Required Memory Estimate: 606.499975 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.38:056][319]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Carpet/T_Carpet_A0_Normal.T_Carpet_A0_Normal (TFO_BC5, 4096x2048 x1x1x1) (Required Memory Estimate: 606.499975 MB), EncodeSpeed: Fast
+[2026.11.16-00.45.38:379][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.11.16-00.45.38:384][353]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.11.16-00.45.38:390][353]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Carpet.SM_Carpet
+[2026.11.16-00.45.38:390][353]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Carpet.SM_Carpet
+[2026.11.16-00.45.38:391][353]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Carpet.SM_Carpet as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_44
+[2026.11.16-00.46.14:156][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-00.46.14:251][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.11.16-00.46.14:271][ 96]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-00.46.14:271][ 96]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_16F2E41E343A361BA3458BA9380DBD068.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-00.46.14:280][ 96]LogFileHelpers: Saving map 'Level_1' took 0.065
+[2026.11.16-00.46.14:289][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.826 ms (total: 1.21 sec)
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: Enabled validators:
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-00.46.14:349][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-00.46.14:349][ 96]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-00.46.36:173][711]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5141.806152
+[2026.11.16-00.46.36:321][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-00.46.36:321][730]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5141.946289, Update Interval: 335.745117
+[2026.11.16-00.46.59:345][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.11.16-00.47.00:542][572]LogSlate: Window 'Save Content' being destroyed
+[2026.11.16-00.47.00:552][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-00.47.00:613][572]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Interactable/Door/BP_DoorFrame] ([2] browsable assets)...
+[2026.11.16-00.47.00:613][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/Door/BP_DoorFrame]
+[2026.11.16-00.47.00:647][572]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame
+[2026.11.16-00.47.00:648][572]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/BP_DoorFrame672224AC4066E91EB0FA188F0EA17956.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Interactable/Door/BP_DoorFrame.uasset'
+[2026.11.16-00.47.00:650][572]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/SM_SM_ChamferCube] ([1] browsable assets)...
+[2026.11.16-00.47.00:650][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/SM_SM_ChamferCube]
+[2026.11.16-00.47.00:659][572]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_SM_ChamferCube
+[2026.11.16-00.47.00:659][572]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SM_SM_ChamferCube38CB57F04966E3666A5AF9BFE14D3CF6.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset'
+[2026.11.16-00.47.00:728][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.985 ms (total: 1.39 sec)
+[2026.11.16-00.47.00:728][572]LogStreaming: Display: FlushAsyncLoading(460): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.47.00:847][572]LogStaticMesh: Display: Building static mesh SM_Sofa_A_2Seats (Required Memory Estimate: 27.764334 MB)...
+[2026.11.16-00.47.00:847][572]LogStaticMesh: Display: Building static mesh SM_Sofa_Cushion (Required Memory Estimate: 1.134906 MB)...
+[2026.11.16-00.47.00:855][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Level/Showcase_BuiltData.Showcase_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.00:857][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Level/Showcase_BuiltData.Showcase_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.00:862][572]LogStaticMesh: Display: Building static mesh SM_Sofa_B_1Seat (Required Memory Estimate: 20.556959 MB)...
+[2026.11.16-00.47.00:865][572]LogStaticMesh: Display: Building static mesh SM_Sofa_B_2Seats (Required Memory Estimate: 25.780196 MB)...
+[2026.11.16-00.47.00:871][572]LogStaticMesh: Built static mesh [0.02s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_Cushion.SM_Sofa_Cushion
+[2026.11.16-00.47.00:873][572]LogStaticMesh: Display: Building static mesh SM_Sofa_B_3Seats (Required Memory Estimate: 31.292412 MB)...
+[2026.11.16-00.47.00:883][572]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.16-00.47.00:897][572]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.16-00.47.00:903][572]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.16-00.47.00:907][572]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.11.16-00.47.00:907][572]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.11.16-00.47.00:907][572]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.16-00.47.00:913][572]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.11.16-00.47.01:113][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A1_OcclusionRoughnessMetallic.T_Sofa_Fabric_A1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.01:218][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A1_BaseColor.T_Sofa_Fabric_A1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.01:220][572]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 072b7224d9f6ddf919855af0112d8608ae09801c), compiling. Is special engine material.
+[2026.11.16-00.47.01:300][572]LogStaticMesh: Built static mesh [0.44s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_1Seat.SM_Sofa_B_1Seat
+[2026.11.16-00.47.01:339][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A1_Normal.T_Sofa_Fabric_A1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.01:467][572]LogStaticMesh: Built static mesh [0.62s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_A_2Seats.SM_Sofa_A_2Seats
+[2026.11.16-00.47.01:562][572]LogStaticMesh: Built static mesh [0.70s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_2Seats.SM_Sofa_B_2Seats
+[2026.11.16-00.47.01:808][572]LogStaticMesh: Built static mesh [0.93s] /Game/LucapyAssets/OldLivingRoomSofa/StaticMeshes/SM_Sofa_B_3Seats.SM_Sofa_B_3Seats
+[2026.11.16-00.47.02:984][572]LogChaosDD: Creating Chaos Debug Draw Scene for world Showcase
+[2026.11.16-00.47.02:990][572]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LucapyAssets/OldLivingRoomSofa/Level/Showcase.Showcase
+[2026.11.16-00.47.02:991][572]Cmd: MAP LOAD FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LucapyAssets/OldLivingRoomSofa/Level/Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.16-00.47.03:022][572]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.47.03:022][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.47.03:039][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.16-00.47.03:041][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.11.16-00.47.03:135][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A2_OcclusionRoughnessMetallic.T_Sofa_Fabric_A2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.03:225][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A3_OcclusionRoughnessMetallic.T_Sofa_Fabric_A3_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.03:268][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A4_BaseColor.T_Sofa_Fabric_A4_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.03:465][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A2_Normal.T_Sofa_Fabric_A2_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.03:511][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A4_Normal.T_Sofa_Fabric_A4_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.03:539][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A3_BaseColor.T_Sofa_Fabric_A3_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.03:773][572]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A3_Normal.T_Sofa_Fabric_A3_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.03:835][572]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.47.03:836][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.47.03:865][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.11.16-00.47.03:884][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.11.16-00.47.04:032][572]LogAudio: Display: Audio Device (ID: 1) registered with world 'Showcase'.
+[2026.11.16-00.47.04:032][572]LogChaosDD: Creating Chaos Debug Draw Scene for world Showcase
+[2026.11.16-00.47.04:359][572]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.16-00.47.04:379][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.11.16-00.47.04:392][572]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.16-00.47.04:392][572]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2026.11.16-00.47.04:502][572]LogContentValidation: Display: Starting to validate 2 assets
+[2026.11.16-00.47.04:502][572]LogContentValidation: Enabled validators:
+[2026.11.16-00.47.04:502][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-00.47.04:502][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-00.47.04:502][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-00.47.04:502][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-00.47.04:502][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-00.47.04:502][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-00.47.04:502][572]AssetCheck: /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame Validating asset
+[2026.11.16-00.47.04:502][572]AssetCheck: /Game/LevelPrototyping/Meshes/SM_SM_ChamferCube Validating asset
+[2026.11.16-00.47.04:571][572]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.16-00.47.04:662][574]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.11.16-00.47.04:678][574]LogSlate: Took 0.007814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.11.16-00.47.04:696][574]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A4_OcclusionRoughnessMetallic.T_Sofa_Fabric_A4_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.04:768][574]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A1_BaseColor.T_Sofa_Leather_A1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.04:772][574]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A2_BaseColor.T_Sofa_Leather_A2_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.04:772][574]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A2_OcclusionRoughnessMetallic.T_Sofa_Leather_A2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.04:791][574]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A3_BaseColor.T_Sofa_Leather_A3_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.05:025][574]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A2_Normal.T_Sofa_Leather_A2_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.05:027][574]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A1_Normal.T_Sofa_Leather_A1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.05:675][574]LogSlate: External Image Picker: DecompressImage failed
+[2026.11.16-00.47.06:099][575]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A3_OcclusionRoughnessMetallic.T_Sofa_Leather_A3_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.06:129][575]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A1_OcclusionRoughnessMetallic.T_Sofa_Leather_A1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.06:256][578]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Fabric_A2_BaseColor.T_Sofa_Fabric_A2_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.06:398][594]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B1_OcclusionRoughnessMetallic.T_Sofa_Fabric_B1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.06:505][605]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B1_BaseColor.T_Sofa_Fabric_B1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.06:536][609]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_A/T_Sofa_Leather_A3_Normal.T_Sofa_Leather_A3_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.06:635][621]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B1_Normal.T_Sofa_Fabric_B1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.07:962][774]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B2_BaseColor.T_Sofa_Fabric_B2_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.07:965][774]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B2_OcclusionRoughnessMetallic.T_Sofa_Fabric_B2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.08:085][786]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B4_BaseColor.T_Sofa_Fabric_B4_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.08:089][786]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B3_OcclusionRoughnessMetallic.T_Sofa_Fabric_B3_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.08:099][787]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B3_BaseColor.T_Sofa_Fabric_B3_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.08:310][812]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B3_Normal.T_Sofa_Fabric_B3_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.08:356][817]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B2_Normal.T_Sofa_Fabric_B2_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.09:809][987]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B4_OcclusionRoughnessMetallic.T_Sofa_Fabric_B4_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.09:958][  4]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B0_OcclusionRoughnessMetallic.T_Sofa_Leather_B0_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.10:006][  5]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B1_BaseColor.T_Sofa_Leather_B1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.10:035][  6]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B0_BaseColor.T_Sofa_Leather_B0_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.10:304][ 36]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B1_Normal.T_Sofa_Leather_B1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.10:327][ 38]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B0_Normal.T_Sofa_Leather_B0_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.10:357][ 41]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Fabric_B4_Normal.T_Sofa_Fabric_B4_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.11:534][175]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/t_Sofa_Leather_B2_OcclusionRoughnessMetallic.T_Sofa_Leather_B2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.11:540][175]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B1_OcclusionRoughnessMetallic.T_Sofa_Leather_B1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.11:635][183]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B3_BaseColor.T_Sofa_Leather_B3_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.11:655][184]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B2_BaseColor.T_Sofa_Leather_B2_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.11:685][187]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B3_OcclusionRoughnessMetallic.T_Sofa_Leather_B3_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.11:825][204]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B2_Normal.T_Sofa_Leather_B2_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.47.11:986][221]LogTexture: Display: Building textures: /Game/LucapyAssets/OldLivingRoomSofa/Textures/Sofa_B/T_Sofa_Leather_B3_Normal.T_Sofa_Leather_B3_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.11.16-00.49.42:332][562]Cmd: EDIT COPY
+[2026.11.16-00.49.53:602][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.11.16-00.49.53:605][857]LogStreaming: Display: FlushAsyncLoading(462): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.49.53:608][857]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.49.53:609][857]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2026.11.16-00.49.53:609][857]Cmd: MAP LOAD FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.16-00.49.53:631][857]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.49.53:632][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.49.53:647][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.16-00.49.53:649][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-00.49.53:651][857]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.49.53:651][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.49.53:664][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.16-00.49.53:675][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.11.16-00.49.53:678][857]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2026.11.16-00.49.53:678][857]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.49.53:762][857]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.16-00.49.53:779][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-00.49.53:787][857]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.16-00.49.53:787][857]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.039ms to complete.
+[2026.11.16-00.49.53:858][858]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-00.49.54:541][894]LogSlate: External Image Picker: DecompressImage failed
+[2026.11.16-00.49.55:625][996]Cmd: EDIT PASTE
+[2026.11.16-00.50.04:867][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-00.50.04:953][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.11.16-00.50.04:973][981]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-00.50.04:974][981]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_13F77BE82422F91EA7F43D29714ECF051.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-00.50.04:983][981]LogFileHelpers: Saving map 'Level_1' took 0.066
+[2026.11.16-00.50.04:991][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.531 ms (total: 1.51 sec)
+[2026.11.16-00.50.05:050][981]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-00.50.05:050][981]LogContentValidation: Enabled validators:
+[2026.11.16-00.50.05:050][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-00.50.05:050][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-00.50.05:050][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-00.50.05:050][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-00.50.05:050][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-00.50.05:050][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-00.50.05:050][981]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-00.50.22:891][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.11.16-00.50.22:894][ 78]LogStreaming: Display: FlushAsyncLoading(464): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.50.22:981][ 78]LogChaosDD: Creating Chaos Debug Draw Scene for world Showcase
+[2026.11.16-00.50.23:042][ 78]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LucapyAssets/OldLivingRoomSofa/Level/Showcase.Showcase
+[2026.11.16-00.50.23:042][ 78]Cmd: MAP LOAD FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LucapyAssets/OldLivingRoomSofa/Level/Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.16-00.50.23:064][ 78]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.50.23:064][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.50.23:080][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.16-00.50.23:081][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.11.16-00.50.23:084][ 78]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.50.23:084][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.50.23:099][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.11.16-00.50.23:111][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-00.50.23:200][ 78]LogAudio: Display: Audio Device (ID: 1) registered with world 'Showcase'.
+[2026.11.16-00.50.23:200][ 78]LogChaosDD: Creating Chaos Debug Draw Scene for world Showcase
+[2026.11.16-00.50.23:396][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.16-00.50.23:413][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.16-00.50.23:421][ 78]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.16-00.50.23:421][ 78]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.04ms to complete.
+[2026.11.16-00.50.23:543][ 80]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.11.16-00.50.23:859][ 80]LogSlate: External Image Picker: DecompressImage failed
+[2026.11.16-00.50.27:530][466]Cmd: EDIT COPY
+[2026.11.16-00.50.35:486][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.11.16-00.50.35:489][365]LogStreaming: Display: FlushAsyncLoading(466): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.50.35:492][365]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.50.35:493][365]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2026.11.16-00.50.35:493][365]Cmd: MAP LOAD FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.16-00.50.35:515][365]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.50.35:515][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.50.35:529][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.16-00.50.35:531][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-00.50.35:533][365]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.50.35:533][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.50.35:547][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.11.16-00.50.35:559][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.11.16-00.50.35:562][365]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2026.11.16-00.50.35:562][365]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.50.35:647][365]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.16-00.50.35:664][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.16-00.50.35:674][365]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.16-00.50.35:674][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.048ms to complete.
+[2026.11.16-00.50.35:743][366]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-00.50.36:109][367]LogSlate: External Image Picker: DecompressImage failed
+[2026.11.16-00.50.42:986][157]Cmd: EDIT PASTE
+[2026.11.16-00.50.49:810][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-00.50.49:897][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.11.16-00.50.49:919][953]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-00.50.49:919][953]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1A79C6BAD44CF0265279B8E897C43BA0D.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-00.50.49:928][953]LogFileHelpers: Saving map 'Level_1' took 0.069
+[2026.11.16-00.50.49:935][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.549 ms (total: 1.64 sec)
+[2026.11.16-00.50.49:992][953]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-00.50.49:992][953]LogContentValidation: Enabled validators:
+[2026.11.16-00.50.49:992][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-00.50.49:993][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-00.50.49:993][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-00.50.49:993][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-00.50.49:993][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-00.50.49:993][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-00.50.49:993][953]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-00.50.59:603][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.11.16-00.50.59:605][ 48]LogStreaming: Display: FlushAsyncLoading(468): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.50.59:690][ 48]LogChaosDD: Creating Chaos Debug Draw Scene for world Showcase
+[2026.11.16-00.50.59:751][ 48]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LucapyAssets/OldLivingRoomSofa/Level/Showcase.Showcase
+[2026.11.16-00.50.59:751][ 48]Cmd: MAP LOAD FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LucapyAssets/OldLivingRoomSofa/Level/Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.16-00.50.59:806][ 48]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.50.59:806][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.50.59:820][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.16-00.50.59:822][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.11.16-00.50.59:825][ 48]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.50.59:825][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.50.59:840][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.11.16-00.50.59:853][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.11.16-00.50.59:947][ 48]LogAudio: Display: Audio Device (ID: 1) registered with world 'Showcase'.
+[2026.11.16-00.50.59:947][ 48]LogChaosDD: Creating Chaos Debug Draw Scene for world Showcase
+[2026.11.16-00.51.00:148][ 48]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.16-00.51.00:166][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.11.16-00.51.00:176][ 48]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.16-00.51.00:176][ 48]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2026.11.16-00.51.00:297][ 50]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.11.16-00.51.00:593][ 50]LogSlate: External Image Picker: DecompressImage failed
+[2026.11.16-00.51.15:999][817]Cmd: EDIT COPY
+[2026.11.16-00.51.31:082][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-00.51.32:845][561]LogSlate: Window 'Save Content' being destroyed
+[2026.11.16-00.51.32:856][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-00.51.32:950][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.16-00.51.32:988][561]LogSavePackage: Moving output files for package: /Game/LucapyAssets/OldLivingRoomSofa/Level/Showcase
+[2026.11.16-00.51.32:989][561]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Showcase0B3E26FC4A959ECC7342C9A3357C994D.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LucapyAssets/OldLivingRoomSofa/Level/Showcase.umap'
+[2026.11.16-00.51.32:999][561]LogFileHelpers: All files are already saved.
+[2026.11.16-00.51.32:999][561]LogFileHelpers: Saving map 'Showcase' took 0.085
+[2026.11.16-00.51.33:080][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.599 ms (total: 1.86 sec)
+[2026.11.16-00.51.33:080][561]LogStreaming: Display: FlushAsyncLoading(470): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.51.33:083][561]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.51.33:085][561]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2026.11.16-00.51.33:085][561]Cmd: MAP LOAD FILE="../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.11.16-00.51.33:108][561]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.51.33:108][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.51.33:123][561]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.16-00.51.33:126][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-00.51.33:128][561]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.51.33:128][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.51.33:141][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-00.51.33:151][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.11.16-00.51.33:155][561]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2026.11.16-00.51.33:155][561]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.51.33:176][561]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.11.16-00.51.33:193][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.16-00.51.33:202][561]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.11.16-00.51.33:202][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
+[2026.11.16-00.51.33:281][561]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-00.51.33:281][561]LogContentValidation: Enabled validators:
+[2026.11.16-00.51.33:281][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-00.51.33:281][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-00.51.33:281][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-00.51.33:281][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-00.51.33:281][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-00.51.33:281][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-00.51.33:323][561]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.16-00.51.33:365][563]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-00.51.33:666][563]LogSlate: External Image Picker: DecompressImage failed
+[2026.11.16-00.51.35:790][778]Cmd: EDIT PASTE
+[2026.11.16-00.51.41:207][407]Cmd: DELETE
+[2026.11.16-00.51.41:208][407]Cmd: ACTOR DELETE
+[2026.11.16-00.51.41:209][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-00.51.41:223][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.11.16-00.51.41:229][407]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.11.16-00.51.41:816][466]Cmd: DELETE
+[2026.11.16-00.51.41:816][466]Cmd: ACTOR DELETE
+[2026.11.16-00.51.41:818][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-00.51.41:832][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-00.51.41:836][466]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.11.16-00.51.42:378][520]Cmd: DELETE
+[2026.11.16-00.51.42:378][520]Cmd: ACTOR DELETE
+[2026.11.16-00.51.42:380][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-00.51.42:393][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-00.51.42:398][520]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.11.16-00.51.43:127][597]Cmd: DELETE
+[2026.11.16-00.51.43:127][597]Cmd: ACTOR DELETE
+[2026.11.16-00.51.43:129][597]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-00.51.43:143][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-00.51.43:147][597]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.11.16-00.51.54:465][923]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/Level_1.Level_1:PersistentLevel.SM_Sofa_A_Exd12_0.StaticMeshComponent0.
+[2026.11.16-00.51.54:832][967]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/Level_1.Level_1:PersistentLevel.SM_Sofa_A_Exd12_0.StaticMeshComponent0.
+[2026.11.16-00.52.05:640][251]Cmd: EDIT COPY
+[2026.11.16-00.52.05:881][280]Cmd: EDIT PASTE
+[2026.11.16-00.52.42:598][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5508.231934
+[2026.11.16-00.52.42:735][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-00.52.42:735][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5508.358887, Update Interval: 343.472412
+[2026.11.16-00.54.22:719][407]LogStreaming: Display: FlushAsyncLoading(472): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.54.22:849][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_B5_Up.SM_Cabinet_B5_Up
+[2026.11.16-00.54.22:849][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_B5_Up.SM_Cabinet_B5_Up
+[2026.11.16-00.54.22:849][408]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_B5_Up.SM_Cabinet_B5_Up as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_33
+[2026.11.16-00.54.23:814][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.11.16-00.54.23:821][517]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.11.16-00.54.23:825][517]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_B5_Up.SM_Cabinet_B5_Up
+[2026.11.16-00.54.23:825][517]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_B5_Up.SM_Cabinet_B5_Up
+[2026.11.16-00.54.23:826][517]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_B5_Up.SM_Cabinet_B5_Up as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_34
+[2026.11.16-00.54.28:355][ 17]Cmd: DELETE
+[2026.11.16-00.54.28:355][ 17]Cmd: ACTOR DELETE
+[2026.11.16-00.54.28:357][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-00.54.28:372][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.11.16-00.54.28:375][ 17]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.11.16-00.54.37:282][800]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.54.37:580][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A4.SM_Cabinet_A4
+[2026.11.16-00.54.37:580][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A4.SM_Cabinet_A4
+[2026.11.16-00.54.37:580][816]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A4.SM_Cabinet_A4 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_36
+[2026.11.16-00.54.38:044][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.11.16-00.54.38:050][869]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.11.16-00.54.38:054][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A4.SM_Cabinet_A4
+[2026.11.16-00.54.38:054][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A4.SM_Cabinet_A4
+[2026.11.16-00.54.38:055][869]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A4.SM_Cabinet_A4 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_39
+[2026.11.16-00.55.07:294][140]Cmd: EDIT COPY
+[2026.11.16-00.55.07:545][170]Cmd: EDIT PASTE
+[2026.11.16-00.55.28:092][592]Cmd: EDIT COPY
+[2026.11.16-00.55.28:306][614]Cmd: EDIT PASTE
+[2026.11.16-00.55.35:984][521]Cmd: EDIT COPY
+[2026.11.16-00.55.36:468][579]Cmd: EDIT PASTE
+[2026.11.16-00.55.51:766][400]Cmd: EDIT COPY
+[2026.11.16-00.55.52:033][432]Cmd: EDIT PASTE
+[2026.11.16-00.56.14:554][  8]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.56.14:966][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A0.SM_Cabinet_A0
+[2026.11.16-00.56.14:966][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A0.SM_Cabinet_A0
+[2026.11.16-00.56.14:966][ 39]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A0.SM_Cabinet_A0 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_46
+[2026.11.16-00.56.16:369][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.11.16-00.56.16:374][204]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.11.16-00.56.16:378][204]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A0.SM_Cabinet_A0
+[2026.11.16-00.56.16:378][204]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A0.SM_Cabinet_A0
+[2026.11.16-00.56.16:379][204]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A0.SM_Cabinet_A0 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_47
+[2026.11.16-00.56.42:658][214]Cmd: TRANSACTION UNDO
+[2026.11.16-00.56.42:658][214]LogEditorTransaction: Undo Scale Elements
+[2026.11.16-00.56.48:453][839]Cmd: EDIT COPY
+[2026.11.16-00.56.48:453][839]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.11.16-00.56.48:687][867]Cmd: EDIT PASTE
+[2026.11.16-00.57.59:028][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-00.57.59:034][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-00.57.59:054][ 10]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.57.59:059][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004190s)
+[2026.11.16-00.57.59:059][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.004238s)
+[2026.11.16-00.57.59:072][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-00.57.59:077][ 10]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-00.57.59:078][ 10]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2026.11.16-00.57.59:079][ 10]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.11.16-00.57.59:079][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-00.57.59:079][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-00.57.59:079][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-00.57.59:079][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-00.57.59:079][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-00.57.59:079][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-00.57.59:079][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-00.57.59:079][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-00.57.59:079][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-00.57.59:079][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-00.57.59:079][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-00.57.59:082][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-00.57.59:100][ 10]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-00.57.59:101][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-00.57.59:101][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-00.57.59:101][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-00.57.59:101][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.11.16-00.57.59:101][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.11.16-00.57.59:103][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.11.16-00.57.59:103][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.11.16-00.57.59:103][ 10]LogInit: FAudioDevice initialized with ID 9.
+[2026.11.16-00.57.59:103][ 10]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_1'.
+[2026.11.16-00.57.59:103][ 10]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.16-00.57.59:107][ 10]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-00.57.59:108][ 10]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-00.57.59
+[2026.11.16-00.57.59:108][ 10]LogWorld: Bringing up level for play took: 0.001284
+[2026.11.16-00.57.59:110][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.11.16-00.57.59:114][ 10]PIE: Server logged in
+[2026.11.16-00.57.59:116][ 10]PIE: Play in editor total start time 0.081 seconds.
+[2026.11.16-00.57.59:155][ 11]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-00.58.23:375][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.58.23:375][903]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-00.58.23:375][903]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-00.58.23:375][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.58.23:376][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-00.58.23:379][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-00.58.23:393][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-00.58.23:394][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.16-00.58.23:394][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.11.16-00.58.23:396][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.11.16-00.58.23:402][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.11.16-00.58.23:455][904]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.11.16-00.58.25:284][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-00.58.25:366][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.11.16-00.58.25:382][119]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-00.58.25:383][119]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1A4F178744E187981E57FC08BB5F60624.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-00.58.25:392][119]LogFileHelpers: Saving map 'Level_1' took 0.059
+[2026.11.16-00.58.25:398][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.286 ms (total: 1.98 sec)
+[2026.11.16-00.58.25:451][119]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-00.58.25:451][119]LogContentValidation: Enabled validators:
+[2026.11.16-00.58.25:451][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-00.58.25:451][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-00.58.25:451][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-00.58.25:451][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-00.58.25:451][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-00.58.25:451][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-00.58.25:451][119]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-00.58.36:219][147]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-00.58.36:413][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A3.SM_Cabinet_A3
+[2026.11.16-00.58.36:413][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A3.SM_Cabinet_A3
+[2026.11.16-00.58.36:413][152]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A3.SM_Cabinet_A3 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_49
+[2026.11.16-00.58.37:325][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.11.16-00.58.37:332][259]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.11.16-00.58.37:336][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A3.SM_Cabinet_A3
+[2026.11.16-00.58.37:336][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A3.SM_Cabinet_A3
+[2026.11.16-00.58.37:338][259]LogActorFactory: Actor Factory spawned StaticMesh /Game/LucapyAssets/OldLivingRoom/StaticMeshes/Cabinets/SM_Cabinet_A3.SM_Cabinet_A3 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_50
+[2026.11.16-00.59.02:922][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5888.550293
+[2026.11.16-00.59.03:064][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-00.59.03:064][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5888.684082, Update Interval: 308.983429
+[2026.11.16-00.59.06:847][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-00.59.06:920][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-00.59.06:938][665]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-00.59.06:939][665]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1979F3233489679C711D041BAAE924779.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-00.59.06:949][665]LogFileHelpers: Saving map 'Level_1' took 0.064
+[2026.11.16-00.59.06:956][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.116 ms (total: 2.08 sec)
+[2026.11.16-00.59.07:019][665]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-00.59.07:019][665]LogContentValidation: Enabled validators:
+[2026.11.16-00.59.07:019][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-00.59.07:019][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-00.59.07:019][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-00.59.07:019][665]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-00.59.07:019][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-00.59.07:019][665]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-00.59.07:019][665]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-00.59.11:030][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.16-00.59.11:030][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.16-00.59.11:031][ 94]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_51
+[2026.11.16-00.59.11:032][ 94]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_51
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Total job queries 4,086, among them cache hits 824 (20.17%), DDC hits 1,219 (29.83%), Duplicates 667 (16.32%)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Tracking 2,595 distinct input hashes that result in 1,329 distinct outputs (51.21%)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: RAM used: 14.02 MiB of 1.60 GiB budget. Usage: 0.86%
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Shaders Compiled: 1,376
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Jobs assigned 1,376, completed 1,376 (100%)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Average time worker was idle: 22.52 s
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Time job spent in pending queue: average 43.19 s, longest 104.72 s
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.75 s
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Job life time (pending + execution): average 43.83 s, max 105.03
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Shader code size: total 16.756 MiB, numShaders 1,400, average 12.256 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 120.96 s
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.21%
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Jobs were issued in 1,376 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Average processing rate: 11.38 jobs/sec
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Total thread time: 790.315 s
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Total thread preprocess time: 41.734 s
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Percentage time preprocessing: 5.28%
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Effective parallelization: 6.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.816718
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   25 times, average 0.64 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 67.57% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.60% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.20% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 2.01% of total time (compiled   25 times, average 0.64 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.69% of total time (compiled   41 times, average 0.33 sec, max 0.61 sec, min 0.19 sec)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Materials Translated:    237
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Material Translation Only: 0.05 s (49%)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.11.16-01.00.00:218][664]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.00.07:192][369]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Total job queries 4,102, among them cache hits 828 (20.19%), DDC hits 1,227 (29.91%), Duplicates 667 (16.26%)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Tracking 2,607 distinct input hashes that result in 1,337 distinct outputs (51.29%)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: RAM used: 14.07 MiB of 1.60 GiB budget. Usage: 0.86%
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Shaders Compiled: 1,380
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Jobs assigned 1,380, completed 1,380 (100%)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Average time worker was idle: 22.47 s
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Time job spent in pending queue: average 43.07 s, longest 104.72 s
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.75 s
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Job life time (pending + execution): average 43.71 s, max 105.03
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Shader code size: total 16.792 MiB, numShaders 1,405, average 12.238 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 122.34 s
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.20%
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Jobs were issued in 1,380 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Average processing rate: 11.28 jobs/sec
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Total thread time: 792.288 s
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Total thread preprocess time: 41.893 s
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Percentage time preprocessing: 5.29%
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Effective parallelization: 6.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.809515
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   26 times, average 0.64 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 67.40% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.59% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.19% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 2.09% of total time (compiled   26 times, average 0.64 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.77% of total time (compiled   43 times, average 0.33 sec, max 0.61 sec, min 0.19 sec)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Materials Translated:    238
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.11.16-01.03.00:220][249]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.04.52:061][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6237.621582
+[2026.11.16-01.04.52:219][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.04.52:219][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6237.771973, Update Interval: 301.838440
+[2026.11.16-01.04.52:924][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-01.04.53:026][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.11.16-01.04.53:045][897]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-01.04.53:046][897]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_126064E7B474818A332F3DE9DCC7558AF.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-01.04.53:055][897]LogFileHelpers: Saving map 'Level_1' took 0.067
+[2026.11.16-01.04.53:063][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.547 ms (total: 2.22 sec)
+[2026.11.16-01.04.53:138][897]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-01.04.53:138][897]LogContentValidation: Enabled validators:
+[2026.11.16-01.04.53:138][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-01.04.53:138][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-01.04.53:138][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-01.04.53:138][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-01.04.53:138][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-01.04.53:138][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-01.04.53:138][897]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-01.05.02:731][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.16-01.05.02:731][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.16-01.05.02:732][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_52
+[2026.11.16-01.05.02:732][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_52
+[2026.11.16-01.06.22:835][ 91]Cmd: EDIT COPY
+[2026.11.16-01.06.23:101][122]Cmd: EDIT PASTE
+[2026.11.16-01.06.35:496][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-01.06.35:579][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.16-01.06.35:599][522]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-01.06.35:600][522]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_14952029C496EC919BEDE45A7B35D8527.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-01.06.35:609][522]LogFileHelpers: Saving map 'Level_1' took 0.065
+[2026.11.16-01.06.35:617][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.407 ms (total: 2.34 sec)
+[2026.11.16-01.06.35:679][522]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-01.06.35:679][522]LogContentValidation: Enabled validators:
+[2026.11.16-01.06.35:679][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-01.06.35:679][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-01.06.35:679][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-01.06.35:679][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-01.06.35:679][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-01.06.35:679][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-01.06.35:680][522]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-01.06.51:034][341]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-01.06.51:040][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-01.06.51:064][341]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.06.51:068][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004097s)
+[2026.11.16-01.06.51:068][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.004128s)
+[2026.11.16-01.06.51:082][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-01.06.51:083][341]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-01.06.51:084][341]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2026.11.16-01.06.51:085][341]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.11.16-01.06.51:085][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-01.06.51:085][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-01.06.51:085][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-01.06.51:085][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-01.06.51:085][341]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-01.06.51:085][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-01.06.51:085][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-01.06.51:085][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-01.06.51:085][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-01.06.51:085][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-01.06.51:085][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-01.06.51:088][341]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-01.06.51:105][341]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-01.06.51:105][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-01.06.51:105][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-01.06.51:105][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-01.06.51:106][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.11.16-01.06.51:106][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.11.16-01.06.51:108][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.11.16-01.06.51:108][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.11.16-01.06.51:108][341]LogInit: FAudioDevice initialized with ID 10.
+[2026.11.16-01.06.51:108][341]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_1'.
+[2026.11.16-01.06.51:108][341]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.16-01.06.51:112][341]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-01.06.51:113][341]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-01.06.51
+[2026.11.16-01.06.51:113][341]LogWorld: Bringing up level for play took: 0.001656
+[2026.11.16-01.06.51:116][341]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.11.16-01.06.51:121][341]PIE: Server logged in
+[2026.11.16-01.06.51:122][341]PIE: Play in editor total start time 0.083 seconds.
+[2026.11.16-01.06.51:167][342]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-01.06.52:645][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.06.52:645][506]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.06.52:645][506]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-01.06.52:645][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.06.52:647][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-01.06.52:649][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.06.52:665][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.06.52:665][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.16-01.06.52:665][506]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.11.16-01.06.52:667][506]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.11.16-01.06.52:673][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.11.16-01.06.52:732][507]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.11.16-01.06.59:607][253]Cmd: TRANSACTION UNDO
+[2026.11.16-01.06.59:607][253]LogEditorTransaction: Undo Move Elements
+[2026.11.16-01.07.03:237][623]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.11.16-01.07.06:915][ 59]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-01.07.06:922][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-01.07.06:954][ 59]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.07.06:958][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004044s)
+[2026.11.16-01.07.06:958][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.004074s)
+[2026.11.16-01.07.06:973][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.11.16-01.07.06:976][ 59]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-01.07.06:977][ 59]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2026.11.16-01.07.06:978][ 59]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.11.16-01.07.06:978][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-01.07.06:978][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-01.07.06:978][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-01.07.06:978][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-01.07.06:978][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-01.07.06:978][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-01.07.06:978][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-01.07.06:978][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-01.07.06:978][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-01.07.06:978][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-01.07.06:978][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-01.07.06:980][ 59]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-01.07.06:997][ 59]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-01.07.06:998][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-01.07.06:998][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-01.07.06:998][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-01.07.06:998][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.11.16-01.07.06:998][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.11.16-01.07.07:000][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.11.16-01.07.07:000][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.11.16-01.07.07:000][ 59]LogInit: FAudioDevice initialized with ID 11.
+[2026.11.16-01.07.07:000][ 59]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_1'.
+[2026.11.16-01.07.07:001][ 59]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.11.16-01.07.07:005][ 59]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-01.07.07:006][ 59]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-01.07.07
+[2026.11.16-01.07.07:007][ 59]LogWorld: Bringing up level for play took: 0.001660
+[2026.11.16-01.07.07:008][ 59]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.11.16-01.07.07:013][ 59]PIE: Server logged in
+[2026.11.16-01.07.07:015][ 59]PIE: Play in editor total start time 0.093 seconds.
+[2026.11.16-01.07.07:059][ 60]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-01.07.10:305][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.07.10:305][435]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.07.10:305][435]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-01.07.10:305][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.07.10:307][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-01.07.10:310][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.07.10:324][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.07.10:324][435]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.11.16-01.07.10:324][435]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.11.16-01.07.10:326][435]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.11.16-01.07.10:332][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-01.07.10:375][436]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.11.16-01.08.52:982][264]Cmd: TRANSACTION UNDO
+[2026.11.16-01.08.52:982][264]LogEditorTransaction: Undo Move Elements
+[2026.11.16-01.10.49:778][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6595.364258
+[2026.11.16-01.10.49:922][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.10.49:922][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6595.499023, Update Interval: 312.392944
+[2026.11.16-01.11.21:635][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-01.11.21:726][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.11.16-01.11.21:746][810]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-01.11.21:746][810]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_127F63B734A602971D324AFB032EE5AC8.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-01.11.21:755][810]LogFileHelpers: Saving map 'Level_1' took 0.063
+[2026.11.16-01.11.21:762][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.579 ms (total: 2.47 sec)
+[2026.11.16-01.11.21:827][810]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-01.11.21:827][810]LogContentValidation: Enabled validators:
+[2026.11.16-01.11.21:827][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-01.11.21:827][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-01.11.21:827][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-01.11.21:827][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-01.11.21:827][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-01.11.21:827][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-01.11.21:827][810]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-01.12.59:482][472]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-01.12.59:488][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-01.12.59:534][472]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.12.59:538][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003923s)
+[2026.11.16-01.12.59:538][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.003961s)
+[2026.11.16-01.12.59:553][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.11.16-01.12.59:554][472]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-01.12.59:556][472]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2026.11.16-01.12.59:556][472]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.11.16-01.12.59:556][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-01.12.59:556][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-01.12.59:556][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-01.12.59:556][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-01.12.59:556][472]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-01.12.59:556][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-01.12.59:556][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-01.12.59:556][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-01.12.59:556][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-01.12.59:556][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-01.12.59:556][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-01.12.59:559][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-01.12.59:576][472]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-01.12.59:576][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-01.12.59:576][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-01.12.59:576][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-01.12.59:577][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.11.16-01.12.59:577][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.11.16-01.12.59:579][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.11.16-01.12.59:579][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.11.16-01.12.59:579][472]LogInit: FAudioDevice initialized with ID 12.
+[2026.11.16-01.12.59:579][472]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_1'.
+[2026.11.16-01.12.59:579][472]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.11.16-01.12.59:582][472]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-01.12.59:584][472]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-01.12.59
+[2026.11.16-01.12.59:585][472]LogWorld: Bringing up level for play took: 0.001555
+[2026.11.16-01.12.59:586][472]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.11.16-01.12.59:591][472]PIE: Server logged in
+[2026.11.16-01.12.59:593][472]PIE: Play in editor total start time 0.105 seconds.
+[2026.11.16-01.12.59:636][473]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-01.13.31:215][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.13.31:215][251]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.13.31:215][251]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-01.13.31:215][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.13.31:217][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-01.13.31:220][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.13.31:234][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.13.31:234][251]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.11.16-01.13.31:234][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.11.16-01.13.31:237][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.11.16-01.13.31:243][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-01.13.31:301][252]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.11.16-01.13.38:086][ 45]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-01.13.38:092][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-01.13.38:124][ 45]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.13.38:128][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004099s)
+[2026.11.16-01.13.38:128][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.004131s)
+[2026.11.16-01.13.38:142][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.16-01.13.38:145][ 45]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-01.13.38:146][ 45]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2026.11.16-01.13.38:147][ 45]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.11.16-01.13.38:147][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-01.13.38:147][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-01.13.38:147][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-01.13.38:147][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-01.13.38:147][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-01.13.38:147][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-01.13.38:147][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-01.13.38:147][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-01.13.38:147][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-01.13.38:147][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-01.13.38:147][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-01.13.38:149][ 45]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.16-01.13.38:166][ 45]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH720N)
+[2026.11.16-01.13.38:166][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-01.13.38:166][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-01.13.38:166][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-01.13.38:166][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.11.16-01.13.38:166][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.11.16-01.13.38:169][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.11.16-01.13.38:169][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.11.16-01.13.38:169][ 45]LogInit: FAudioDevice initialized with ID 13.
+[2026.11.16-01.13.38:169][ 45]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_1'.
+[2026.11.16-01.13.38:169][ 45]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.11.16-01.13.38:172][ 45]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-01.13.38:173][ 45]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-01.13.38
+[2026.11.16-01.13.38:173][ 45]LogWorld: Bringing up level for play took: 0.001481
+[2026.11.16-01.13.38:176][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.11.16-01.13.38:180][ 45]PIE: Server logged in
+[2026.11.16-01.13.38:182][ 45]PIE: Play in editor total start time 0.091 seconds.
+[2026.11.16-01.13.38:224][ 46]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-01.14.26:105][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.14.26:105][778]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-01.14.26:105][778]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-01.14.26:105][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.14.26:106][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-01.14.26:109][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-01.14.26:123][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-01.14.26:124][778]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.11.16-01.14.26:124][778]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.11.16-01.14.26:126][778]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.11.16-01.14.26:132][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.11.16-01.14.26:188][779]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.11.16-01.16.25:010][900]Cmd: TRANSACTION UNDO
+[2026.11.16-01.16.25:010][900]LogEditorTransaction: Undo Move Elements
+[2026.11.16-01.16.33:010][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6938.585938
+[2026.11.16-01.16.33:141][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.16.33:141][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6938.709473, Update Interval: 324.639435
+[2026.11.16-01.17.41:506][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-01.17.41:600][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.11.16-01.17.41:619][808]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-01.17.41:619][808]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_155570D8E4CFB883E8FF8F0818261F7C6.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-01.17.41:630][808]LogFileHelpers: Saving map 'Level_1' took 0.064
+[2026.11.16-01.17.41:637][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.709 ms (total: 2.60 sec)
+[2026.11.16-01.17.41:699][808]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-01.17.41:699][808]LogContentValidation: Enabled validators:
+[2026.11.16-01.17.41:699][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-01.17.41:699][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-01.17.41:699][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-01.17.41:699][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-01.17.41:699][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-01.17.41:699][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-01.17.41:699][808]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-01.19.01:575][268]Cmd: EDIT COPY
+[2026.11.16-01.19.01:792][294]LogWindows: Warning: OpenClipboard failed with error code 5
+[2026.11.16-01.19.01:792][294]Cmd: EDIT PASTE
+[2026.11.16-01.20.04:379][520]Cmd: EDIT COPY
+[2026.11.16-01.20.04:628][549]Cmd: EDIT PASTE
+[2026.11.16-01.21.19:961][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.16-01.21.19:961][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.11.16-01.21.19:962][429]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_62
+[2026.11.16-01.21.19:962][429]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_62
+[2026.11.16-01.22.44:899][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7310.500488
+[2026.11.16-01.22.45:047][220]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.22.45:047][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7310.641113, Update Interval: 325.750916
+[2026.11.16-01.22.50:992][900]LogDerivedDataCache: C:/Users/lewis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Total job queries 4,107, among them cache hits 830 (20.21%), DDC hits 1,228 (29.90%), Duplicates 667 (16.24%)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Tracking 2,610 distinct input hashes that result in 1,340 distinct outputs (51.34%)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: RAM used: 14.09 MiB of 1.60 GiB budget. Usage: 0.86%
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Shaders Compiled: 1,382
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Jobs assigned 1,382, completed 1,382 (100%)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Average time worker was idle: 24.34 s
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Time job spent in pending queue: average 43.00 s, longest 104.72 s
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.75 s
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Job life time (pending + execution): average 43.65 s, max 105.03
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Shader code size: total 16.811 MiB, numShaders 1,407, average 12.234 KiB, min 1.199 KiB, max 32.121 KiB
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 123.40 s
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.20%
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Jobs were issued in 1,382 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Average processing rate: 11.20 jobs/sec
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Total thread time: 793.509 s
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Total thread preprocess time: 41.947 s
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Percentage time preprocessing: 5.29%
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Effective parallelization: 6.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.803785
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 67.30% of total time (compiled  441 times, average 1.21 sec, max 2.71 sec, min 0.00 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.58% of total time (compiled  120 times, average 0.37 sec, max 0.47 sec, min 0.24 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.19% of total time (compiled   84 times, average 0.30 sec, max 0.41 sec, min 0.20 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 2.08% of total time (compiled   26 times, average 0.64 sec, max 0.96 sec, min 0.46 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.81% of total time (compiled   44 times, average 0.33 sec, max 0.61 sec, min 0.19 sec)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Materials Translated:    238
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.11.16-01.24.00:261][885]LogShaderCompilers: Display: ================================================
+[2026.11.16-01.24.58:192][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-01.24.58:288][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.11.16-01.24.58:312][633]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-01.24.58:312][633]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_12F00F1F64C307C493F740A854C5DF43F.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-01.24.58:321][633]LogFileHelpers: Saving map 'Level_1' took 0.070
+[2026.11.16-01.24.58:329][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.977 ms (total: 2.74 sec)
+[2026.11.16-01.24.58:402][633]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-01.24.58:402][633]LogContentValidation: Enabled validators:
+[2026.11.16-01.24.58:402][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-01.24.58:402][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-01.24.58:402][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-01.24.58:402][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-01.24.58:402][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-01.24.58:402][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-01.24.58:403][633]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-01.25.42:605][691]Cmd: DELETE
+[2026.11.16-01.25.42:605][691]Cmd: ACTOR DELETE
+[2026.11.16-01.25.42:607][691]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-01.25.42:622][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.11.16-01.25.42:626][691]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.11.16-01.25.43:749][817]Cmd: DELETE
+[2026.11.16-01.25.43:749][817]Cmd: ACTOR DELETE
+[2026.11.16-01.25.43:750][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-01.25.43:765][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.11.16-01.25.43:769][817]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.11.16-01.26.04:664][229]Cmd: EDIT COPY
+[2026.11.16-01.26.04:913][258]Cmd: EDIT PASTE
+[2026.11.16-01.26.37:676][ 87]Cmd: DELETE
+[2026.11.16-01.26.37:676][ 87]Cmd: ACTOR DELETE
+[2026.11.16-01.26.37:678][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-01.26.37:694][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.11.16-01.26.37:698][ 87]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.11.16-01.27.30:349][ 44]Cmd: EDIT COPY
+[2026.11.16-01.27.30:573][ 71]Cmd: EDIT PASTE
+[2026.11.16-01.28.21:586][924]Cmd: EDIT COPY
+[2026.11.16-01.28.21:828][953]Cmd: EDIT PASTE
+[2026.11.16-01.28.57:031][964]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7682.628418
+[2026.11.16-01.28.57:172][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.28.57:173][976]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7682.761230, Update Interval: 355.206146
+[2026.11.16-01.29.01:600][493]Cmd: TRANSACTION UNDO
+[2026.11.16-01.29.01:600][493]LogEditorTransaction: Undo Move Elements
+[2026.11.16-01.29.32:954][ 91]Cmd: TRANSACTION UNDO
+[2026.11.16-01.29.32:954][ 91]LogEditorTransaction: Undo Move Elements
+[2026.11.16-01.29.43:573][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-01.29.43:648][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.11.16-01.29.43:667][266]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-01.29.43:668][266]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_12BB1C5A54AC8A8F3B76E36A401367CDB.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-01.29.43:677][266]LogFileHelpers: Saving map 'Level_1' took 0.063
+[2026.11.16-01.29.43:684][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.496 ms (total: 2.85 sec)
+[2026.11.16-01.29.43:764][266]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.16-01.29.43:764][266]LogContentValidation: Enabled validators:
+[2026.11.16-01.29.43:764][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-01.29.43:764][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-01.29.43:764][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-01.29.43:764][266]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-01.29.43:764][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-01.29.43:764][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-01.29.43:765][266]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-01.35.44:728][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8090.321777
+[2026.11.16-01.35.45:728][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.35.45:729][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8090.988281, Update Interval: 330.478821
+[2026.11.16-01.39.44:146][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.11.16-01.39.44:168][421]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto4
+[2026.11.16-01.39.44:168][421]LogSavePackage: Moving '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1_Auto4B7BDDDF3489ABC5349E5D49FD7183C12.tmp' to '../../../../../../Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Levels/Level_1_Auto4.umap'
+[2026.11.16-01.39.44:170][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.039
+[2026.11.16-01.39.44:170][421]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2026.11.16-01.41.57:416][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8462.978516
+[2026.11.16-01.41.58:416][824]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.41.58:416][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8463.645508, Update Interval: 336.722931
+[2026.11.16-01.48.26:109][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8851.599609
+[2026.11.16-01.48.27:109][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-01.48.27:109][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8852.267578, Update Interval: 325.926697
