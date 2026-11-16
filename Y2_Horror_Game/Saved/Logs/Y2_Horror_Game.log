@@ -7114,3 +7114,713 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.16-12.13.04:936][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5905.400879
 [2026.11.16-12.13.05:090][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.16-12.13.05:090][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5905.543945, Update Interval: 344.845734
+[2026.11.16-12.17.05:417][414]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.11.16-12.17.05:426][414]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.11.16-12.17.05:442][415]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.11.16-12.17.13:948][222]LogContentBrowser: Attempting asset rename: NewMaterial -> Oven_Texture
+[2026.11.16-12.17.13:949][222]LogContentBrowser: End creating deferred item NewMaterial
+[2026.11.16-12.17.15:346][338]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Kitchen/source/oven/textures/Textures/Oven_Texture.Oven_Texture
+[2026.11.16-12.18.51:668][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.11.16-12.18.51:684][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level_1] ([1] browsable assets)...
+[2026.11.16-12.18.51:684][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level_1]
+[2026.11.16-12.18.51:706][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto7
+[2026.11.16-12.18.51:706][457]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1_Auto708E7F0D847F8B99082224B83E2472F1D.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Levels/Level_1_Auto7.umap'
+[2026.11.16-12.18.51:709][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.082
+[2026.11.16-12.18.51:709][457]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2026.11.16-12.18.51:709][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kitchen/source/oven/textures/Textures/Oven_Texture] ([1] browsable assets)...
+[2026.11.16-12.18.51:715][457]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Kitchen/source/oven/textures/Textures/Oven_Texture.Oven_Texture]
+[2026.11.16-12.18.51:715][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kitchen/source/oven/textures/Textures/Oven_Texture]
+[2026.11.16-12.18.51:723][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kitchen/source/oven/textures/Textures/Oven_Texture_Auto7
+[2026.11.16-12.18.51:723][457]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Oven_Texture_Auto79B51699D4546049ABEEEB4808D6973C6.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Kitchen/source/oven/textures/Textures/Oven_Texture_Auto7.uasset'
+[2026.11.16-12.18.51:725][457]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.11.16-12.19.13:660][999]LogMaterialEditor: Applying material Oven_Texture
+[2026.11.16-12.19.15:334][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.16-12.19.16:782][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.16-12.19.24:861][818]LogMaterialEditor: Saving and Compiling material Oven_Texture
+[2026.11.16-12.19.24:863][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-12.19.24:909][818]LogFileHelpers: Saving Package: /Game/Kitchen/source/oven/textures/Textures/Oven_Texture
+[2026.11.16-12.19.24:909][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kitchen/source/oven/textures/Textures/Oven_Texture] ([1] browsable assets)...
+[2026.11.16-12.19.24:917][818]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Kitchen/source/oven/textures/Textures/Oven_Texture.Oven_Texture]
+[2026.11.16-12.19.24:917][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kitchen/source/oven/textures/Textures/Oven_Texture]
+[2026.11.16-12.19.24:929][818]LogSavePackage: Moving output files for package: /Game/Kitchen/source/oven/textures/Textures/Oven_Texture
+[2026.11.16-12.19.24:929][818]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Oven_TextureC732B7A3462F87908312DB96C61C0498.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/Kitchen/source/oven/textures/Textures/Oven_Texture.uasset'
+[2026.11.16-12.19.24:937][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.180 ms (total: 3.15 sec)
+[2026.11.16-12.19.24:993][818]LogContentValidation: Enabled validators:
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-12.19.24:993][818]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-12.19.24:993][818]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-12.19.24:993][818]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-12.19.24:993][818]AssetCheck: /Game/Kitchen/source/oven/textures/Textures/Oven_Texture Validating asset
+[2026.11.16-12.19.24:993][818]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-12.19.24:993][818]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-12.19.25:011][818]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.16-12.19.30:646][300]LogMaterial: Display: Material /Game/Kitchen/source/oven/textures/Textures/Oven_Texture.Oven_Texture needed to set usage flag Nanite
+[2026.11.16-12.19.31:717][342]LogPSOHitching: Encountered 150 PSO creation hitches so far (69 graphics, 81 compute). 0 of them were precached.
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: ================================================
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Total job queries 1,952, among them cache hits 743 (38.06%), DDC hits 346 (17.73%), Duplicates 259 (13.27%)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Tracking 618 distinct input hashes that result in 406 distinct outputs (65.70%)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: RAM used: 5.43 MiB of 1.60 GiB budget. Usage: 0.33%
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Shaders Compiled: 877
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Jobs assigned 877, completed 877 (100%)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Average time worker was idle: 51.85 s
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.73 s
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 1.81 s
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 2.43
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Shader code size: total 8.146 MiB, numShaders 883, average 9.446 KiB, min 2.316 KiB, max 36.344 KiB
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 81.01 s
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Jobs were issued in 877 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Average processing rate: 10.83 jobs/sec
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Total thread time: 246.658 s
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Total thread preprocess time: 27.841 s
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Percentage time preprocessing: 11.29%
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Effective parallelization: 3.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.253728
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    5 times, average 1.36 sec, max 1.71 sec, min 1.11 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   32 times, average 0.66 sec, max 0.94 sec, min 0.43 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   16 times, average 0.65 sec, max 0.81 sec, min 0.50 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   17 times, average 0.62 sec, max 0.77 sec, min 0.48 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   26 times, average 0.59 sec, max 0.72 sec, min 0.42 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.62% of total time (compiled  109 times, average 0.56 sec, max 0.94 sec, min 0.35 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.32% of total time (compiled  232 times, average 0.21 sec, max 0.35 sec, min 0.14 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.64% of total time (compiled  192 times, average 0.15 sec, max 0.22 sec, min 0.10 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.58% of total time (compiled   32 times, average 0.66 sec, max 0.94 sec, min 0.43 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.18% of total time (compiled   26 times, average 0.59 sec, max 0.72 sec, min 0.42 sec)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Materials Translated:    538
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Material Total Translate Time: 0.30 s
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Material Translation Only: 0.17 s (57%)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: Material Cache Hits: 5 (1%)
+[2026.11.16-12.19.46:066][565]LogShaderCompilers: Display: ================================================
+[2026.11.16-12.19.48:241][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6308.702637
+[2026.11.16-12.19.48:372][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-12.19.48:372][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6308.822266, Update Interval: 357.311920
+[2026.11.16-12.20.13:229][915]Cmd: MODE GRID=0
+[2026.11.16-12.20.19:599][479]Cmd: MODE SCALEGRID=0
+[2026.11.16-12.20.39:918][304]Cmd: MODE SCALEGRID=1
+[2026.11.16-12.21.33:642][ 94]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-12.21.33:652][ 94]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.16-12.21.33:652][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-12.21.33:652][ 94]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-12.21.33:659][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007181s)
+[2026.11.16-12.21.33:659][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.007237s)
+[2026.11.16-12.21.33:679][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.11.16-12.21.33:684][ 94]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-12.21.33:687][ 94]LogPlayLevel: PIE: World Init took: (0.002149s)
+[2026.11.16-12.21.33:687][ 94]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-12.21.33:687][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-12.21.33:687][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-12.21.33:687][ 94]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-12.21.33:687][ 94]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-12.21.33:687][ 94]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-12.21.33:687][ 94]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.16-12.21.33:693][ 94]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Realtek Digital Output (Realtek(R) Audio)'
+[2026.11.16-12.21.33:694][ 94]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Realtek Digital Output (Realtek(R) Audio)'
+[2026.11.16-12.21.33:696][ 94]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='S34CG50 (NVIDIA High Definition Audio)'
+[2026.11.16-12.21.33:701][ 94]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.16-12.21.33:701][ 94]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.16-12.21.33:702][ 94]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.16-12.21.33:702][ 94]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.16-12.21.33:722][ 94]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.16-12.21.33:722][ 94]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.16-12.21.33:722][ 94]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.16-12.21.33:722][ 94]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2026.11.16-12.21.33:722][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-12.21.33:722][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-12.21.33:722][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-12.21.33:723][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.11.16-12.21.33:726][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.11.16-12.21.33:730][ 94]LogInit: FAudioDevice initialized with ID 13.
+[2026.11.16-12.21.33:730][ 94]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_1'.
+[2026.11.16-12.21.33:730][ 94]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.11.16-12.21.33:730][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-12.21.33:734][ 94]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-12.21.33:737][ 94]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-12.21.33
+[2026.11.16-12.21.33:738][ 94]LogWorld: Bringing up level for play took: 0.002777
+[2026.11.16-12.21.33:741][ 94]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.11.16-12.21.33:742][ 94]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.16-12.21.33:746][ 94]PIE: Server logged in
+[2026.11.16-12.21.33:749][ 94]PIE: Play in editor total start time 0.098 seconds.
+[2026.11.16-12.21.33:796][ 95]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-12.21.51:907][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-12.21.51:907][603]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-12.21.51:908][603]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-12.21.51:909][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-12.21.51:910][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-12.21.51:913][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-12.21.51:939][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-12.21.51:939][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.11.16-12.21.51:940][603]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=13, StreamState=4
+[2026.11.16-12.21.51:949][603]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.16-12.21.51:960][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.16-12.21.52:027][604]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.11.16-12.21.55:523][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-12.21.55:579][849]LogFileHelpers: Saving Map: /Game/Levels/Level_1
+[2026.11.16-12.21.55:580][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level_1] ([1] browsable assets)...
+[2026.11.16-12.21.55:580][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level_1]
+[2026.11.16-12.21.55:619][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.16-12.21.55:642][849]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-12.21.55:643][849]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1259167AB4D0A573B06569E9A8870F662.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-12.21.55:662][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.987 ms (total: 3.29 sec)
+[2026.11.16-12.21.55:713][849]LogContentValidation: Enabled validators:
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-12.21.55:713][849]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-12.21.55:713][849]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-12.21.55:713][849]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-12.21.55:713][849]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-12.21.55:713][849]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-12.21.55:713][849]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-12.24.37:756][844]Cmd: MODE GRID=1
+[2026.11.16-12.24.47:744][778]Cmd: MODE GRID=0
+[2026.11.16-12.26.21:560][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6702.007812
+[2026.11.16-12.26.22:562][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-12.26.22:562][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6702.675293, Update Interval: 313.583191
+[2026.11.16-12.26.55:011][792]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.16-12.26.55:021][792]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.16-12.26.55:035][793]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.16-12.26.58:861][171]LogContentBrowser: Attempting asset rename: NewFolder -> fridge
+[2026.11.16-12.26.58:861][171]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.16-12.27.09:035][631]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.09:036][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/FBX/Freezer_Door.fbx]
+[2026.11.16-12.27.09:046][631]LogInterchangeImport: Translation (FBXSDK) of Freezer_Door.fbx in [0 min 0.009 s]
+[2026.11.16-12.27.13:560][631]LogSlate: Window 'Import Content' being destroyed
+[2026.11.16-12.27.13:583][631]LogInterchangeEngine: [Pending] Importing
+[2026.11.16-12.27.13:621][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/GLB/Freezer_Door.glb]
+[2026.11.16-12.27.15:631][631]LogSlate: Window 'Import Content' being destroyed
+[2026.11.16-12.27.15:640][631]LogInterchangeEngine: [Pending] Importing - Importing (4)
+[2026.11.16-12.27.15:642][631]LogInterchangeEngine: [Pending] Importing - Importing (5)
+[2026.11.16-12.27.15:642][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/GLB/Fridge.glb]
+[2026.11.16-12.27.15:643][631]LogInterchangeEngine: [Pending] Importing - Importing (6)
+[2026.11.16-12.27.15:643][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door.glb]
+[2026.11.16-12.27.15:651][631]LogAssetTools: Warning: Failed to import 'C:\Users\2franl85\Downloads\psx_retrofridge/PSX_RetroFridge/SuggestedTextureSetting.txt'. Unknown extension 'txt'.
+[2026.11.16-12.27.15:652][631]LogInterchangeEngine: [Pending] Importing - Importing (7)
+[2026.11.16-12.27.15:652][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Fridge_Condenser.png]
+[2026.11.16-12.27.15:652][631]LogInterchangeEngine: [Pending] Importing - Importing (8)
+[2026.11.16-12.27.15:652][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Rail_01.png]
+[2026.11.16-12.27.15:653][631]LogInterchangeEngine: [Pending] Importing - Importing (9)
+[2026.11.16-12.27.15:653][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Rail_02.png]
+[2026.11.16-12.27.15:654][631]LogInterchangeEngine: [Pending] Importing - Importing (10)
+[2026.11.16-12.27.15:654][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/1024/T_Fridge.png]
+[2026.11.16-12.27.15:655][631]LogInterchangeEngine: [Pending] Importing - Importing (11)
+[2026.11.16-12.27.15:655][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/1024/T_Fridge_Door.png]
+[2026.11.16-12.27.15:656][631]LogInterchangeEngine: [Pending] Importing - Importing (12)
+[2026.11.16-12.27.15:656][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/512/T_Fridge.png]
+[2026.11.16-12.27.15:657][631]LogInterchangeEngine: [Pending] Importing - Importing (13)
+[2026.11.16-12.27.15:657][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/512/T_Fridge_Door.png]
+[2026.11.16-12.27.15:657][631]LogInterchangeEngine: [Pending] Importing - Importing (14)
+[2026.11.16-12.27.15:658][631]LogInterchangeEngine: [Pending] Importing - Importing (15)
+[2026.11.16-12.27.15:659][631]LogInterchangeEngine: [Pending] Importing - Importing (16)
+[2026.11.16-12.27.15:659][631]LogInterchangeEngine: [Pending] Importing - Importing (17)
+[2026.11.16-12.27.15:660][631]LogInterchangeEngine: [Pending] Importing - Importing (18)
+[2026.11.16-12.27.16:044][632]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.16:105][633]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.16:121][634]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.11.16-12.27.16:123][634]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.11.16-12.27.16:129][634]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.11.16-12.27.16:130][634]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.11.16-12.27.16:132][634]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.11.16-12.27.16:134][634]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.11.16-12.27.16:182][634]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.16:183][634]LogStaticMesh: Display: Building static mesh Freezer_Door (Required Memory Estimate: 0.239945 MB)...
+[2026.11.16-12.27.16:184][634]LogStaticMesh: Adjacency [0.00s], tris: 148, UVs 1
+[2026.11.16-12.27.16:184][634]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-12.27.16:184][634]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-12.27.16:185][634]LogStaticMesh: Reduce [0.00s]
+[2026.11.16-12.27.16:185][634]LogStaticMesh: Fallback [0.00s], num tris: 148
+[2026.11.16-12.27.16:185][634]LogStaticMesh: Fallback [0.00s], num tris: 148
+[2026.11.16-12.27.16:186][634]LogStaticMesh: ConstrainClusters:
+[2026.11.16-12.27.16:186][634]LogStaticMesh:   Input: 3 Clusters, 274 Triangles and 350 Vertices
+[2026.11.16-12.27.16:186][634]LogStaticMesh:   Output without splits: 3 Clusters, 274 Triangles and 350 Vertices
+[2026.11.16-12.27.16:186][634]LogStaticMesh:   Output with splits: 3 Clusters, 274 Triangles and 350 Vertices
+[2026.11.16-12.27.16:186][634]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-12.27.16:186][634]LogStaticMesh: WritePages: 1
+[2026.11.16-12.27.16:186][634]LogStaticMesh:   Root: GPU size: 4096 bytes. 1 Pages. 4096.000 bytes per page (12.500% utilization).
+[2026.11.16-12.27.16:186][634]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-12.27.16:186][634]LogStaticMesh:   Page data disk size: 3720 bytes. Fixup data size: 88 bytes.
+[2026.11.16-12.27.16:186][634]LogStaticMesh:   Total GPU size: 4096 bytes, Total disk size: 3808 bytes.
+[2026.11.16-12.27.16:186][634]LogStaticMesh: Encode [0.00s]
+[2026.11.16-12.27.16:186][634]LogStaticMesh: NaniteBuild [0.00s]
+[2026.11.16-12.27.16:190][634]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Fridge_Condenser.Fridge_Condenser (TFO_AutoDXT, 1024x1536 x1x1x1) (Required Memory Estimate: 192.750 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:190][634]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Rail_01.Rail_01 (TFO_AutoDXT, 1536x1024 x1x1x1) (Required Memory Estimate: 192.750 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:193][634]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Rail_02.Rail_02 (TFO_AutoDXT, 1536x1024 x1x1x1) (Required Memory Estimate: 192.750 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:193][634]LogStaticMesh: Built static mesh [0.01s] /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/FBX/Freezer_Door.Freezer_Door
+[2026.11.16-12.27.16:194][634]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/1024/T_Fridge.T_Fridge (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:194][634]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/512/T_Fridge.T_Fridge (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:199][635]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/1024/T_Fridge_Door.T_Fridge_Door (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:216][635]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_01/512/T_Fridge_Door.T_Fridge_Door (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:259][635]LogInterchangeImport: Imported (FBXSDK) of Freezer_Door.fbx in [0 min 7.222 s]
+[2026.11.16-12.27.16:259][635]LogInterchangeImport: MeshPayload (FBXSDK) of Freezer_Door.fbx, [1 148 76], in [0 min 0.001 s]
+[2026.11.16-12.27.16:261][635]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do.../PSX_RetroFridge/FBX/Freezer_Door.fbx]
+[2026.11.16-12.27.16:261][635]LogInterchangeEngine: [Pending] Importing - Importing (17)
+[2026.11.16-12.27.16:261][635]LogInterchangeEngine: [Pending] Importing - Importing (17)
+[2026.11.16-12.27.16:261][635]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/1024/T_Fridge_02.png]
+[2026.11.16-12.27.16:261][635]LogStreaming: Display: FlushAsyncLoading(718): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.16:294][636]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Freezer_Door/Textures/T_Fridge_Emmisive.T_Fridge_Emmisive (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:294][636]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Freezer_Door/Textures/T_Fridge.T_Fridge (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:357][637]LogStaticMesh: Display: Building static mesh Freezer_Door (Required Memory Estimate: 0.232222 MB)...
+[2026.11.16-12.27.16:358][637]LogStaticMesh: Adjacency [0.00s], tris: 148, UVs 1
+[2026.11.16-12.27.16:358][637]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-12.27.16:358][637]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-12.27.16:359][637]LogStaticMesh: Reduce [0.00s]
+[2026.11.16-12.27.16:360][637]LogStaticMesh: Fallback [0.00s], num tris: 148
+[2026.11.16-12.27.16:360][637]LogStaticMesh: Fallback [0.00s], num tris: 148
+[2026.11.16-12.27.16:360][637]LogStaticMesh: ConstrainClusters:
+[2026.11.16-12.27.16:360][637]LogStaticMesh:   Input: 3 Clusters, 274 Triangles and 350 Vertices
+[2026.11.16-12.27.16:360][637]LogStaticMesh:   Output without splits: 3 Clusters, 274 Triangles and 350 Vertices
+[2026.11.16-12.27.16:360][637]LogStaticMesh:   Output with splits: 3 Clusters, 274 Triangles and 350 Vertices
+[2026.11.16-12.27.16:360][637]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-12.27.16:360][637]LogStaticMesh: WritePages: 1
+[2026.11.16-12.27.16:360][637]LogStaticMesh:   Root: GPU size: 4104 bytes. 1 Pages. 4104.000 bytes per page (12.524% utilization).
+[2026.11.16-12.27.16:360][637]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-12.27.16:360][637]LogStaticMesh:   Page data disk size: 3696 bytes. Fixup data size: 88 bytes.
+[2026.11.16-12.27.16:360][637]LogStaticMesh:   Total GPU size: 4104 bytes, Total disk size: 3784 bytes.
+[2026.11.16-12.27.16:360][637]LogStaticMesh: Encode [0.00s]
+[2026.11.16-12.27.16:360][637]LogStaticMesh: NaniteBuild [0.00s]
+[2026.11.16-12.27.16:367][637]LogStaticMesh: Built static mesh [0.01s] /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Freezer_Door/StaticMeshes/Freezer_Door.Freezer_Door
+[2026.11.16-12.27.16:378][637]LogStreaming: Display: FlushAsyncLoading(719): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do..._RetroFridge/Texture/Fridge_Condenser.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (16)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (16)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/1024/T_Fridge_Door_02.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do..._RetroFridge/Texture/Rail_01.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (15)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (15)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/512/T_Fridge_02.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do..._RetroFridge/Texture/Rail_02.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (14)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (14)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/512/T_Fridge_Door_02.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...ture/Texture_01/1024/T_Fridge.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (13)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (13)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/Texture/T_Fridge_Emmisive.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...ture/Texture_01/1024/T_Fridge_Door.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (12)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (12)
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/FBX/Fridge.fbx]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...xture/Texture_01/512/T_Fridge.png]
+[2026.11.16-12.27.16:380][637]LogInterchangeEngine: [Pending] Importing - Importing (11)
+[2026.11.16-12.27.16:382][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...xture/Texture_01/512/T_Fridge_Door.png]
+[2026.11.16-12.27.16:382][637]LogInterchangeEngine: [Pending] Importing - Importing (10)
+[2026.11.16-12.27.16:398][638]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do.../PSX_RetroFridge/GLB/Freezer_Door.glb]
+[2026.11.16-12.27.16:398][638]LogInterchangeEngine: [Pending] Importing - Importing (9)
+[2026.11.16-12.27.16:427][638]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/Textures/Fridge_Condenser.Fridge_Condenser (TFO_AutoDXT, 1024x1536 x1x1x1) (Required Memory Estimate: 192.750 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:428][638]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/Textures/Rail_01.Rail_01 (TFO_AutoDXT, 1536x1024 x1x1x1) (Required Memory Estimate: 192.750 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:428][638]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/Textures/Rail_02.Rail_02 (TFO_AutoDXT, 1536x1024 x1x1x1) (Required Memory Estimate: 192.750 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:493][639]LogStaticMesh: Display: Building static mesh Fridge (Required Memory Estimate: 2.679808 MB)...
+[2026.11.16-12.27.16:499][639]LogStaticMesh: Adjacency [0.00s], tris: 1760, UVs 1
+[2026.11.16-12.27.16:501][639]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.11.16-12.27.16:502][639]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-12.27.16:523][639]LogInterchangeImport: Translation (FBXSDK) of Fridge.fbx in [0 min 0.030 s]
+[2026.11.16-12.27.16:526][639]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/Textures/T_Fridge_Door.T_Fridge_Door (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:532][639]LogStaticMesh: Display: Building static mesh Fridge_Door (Required Memory Estimate: 0.994829 MB)...
+[2026.11.16-12.27.16:535][639]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.16:535][639]LogStaticMesh: Adjacency [0.00s], tris: 646, UVs 1
+[2026.11.16-12.27.16:536][639]LogStaticMesh: Clustering [0.00s]. Ratio: 1.666667
+[2026.11.16-12.27.16:536][639]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-12.27.16:553][640]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.16:560][641]LogStaticMesh: Reduce [0.02s]
+[2026.11.16-12.27.16:575][641]LogStaticMesh: Fallback [0.02s], num tris: 298
+[2026.11.16-12.27.16:578][641]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/512/T_Fridge_02.T_Fridge_02 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:578][641]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/1024/T_Fridge_02.T_Fridge_02 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:583][641]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/512/T_Fridge_Door_02.T_Fridge_Door_02 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:584][641]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.11.16-12.27.16:585][641]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/T_Fridge_Emmisive.T_Fridge_Emmisive (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.16:585][641]LogStaticMesh: ConstrainClusters:
+[2026.11.16-12.27.16:585][641]LogStaticMesh:   Input: 16 Clusters, 1402 Triangles and 2089 Vertices
+[2026.11.16-12.27.16:585][641]LogStaticMesh:   Output without splits: 16 Clusters, 1402 Triangles and 2089 Vertices
+[2026.11.16-12.27.16:585][641]LogStaticMesh:   Output with splits: 16 Clusters, 1402 Triangles and 2089 Vertices
+[2026.11.16-12.27.16:586][641]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-12.27.16:586][641]LogStaticMesh: WritePages: 1
+[2026.11.16-12.27.16:587][641]LogStaticMesh:   Root: GPU size: 24600 bytes. 1 Pages. 24600.000 bytes per page (75.073% utilization).
+[2026.11.16-12.27.16:587][641]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-12.27.16:587][641]LogStaticMesh:   Page data disk size: 21232 bytes. Fixup data size: 152 bytes.
+[2026.11.16-12.27.16:587][641]LogStaticMesh:   Total GPU size: 24600 bytes, Total disk size: 21384 bytes.
+[2026.11.16-12.27.16:587][641]LogStaticMesh: Encode [0.00s]
+[2026.11.16-12.27.16:587][641]LogStaticMesh: NaniteBuild [0.05s]
+[2026.11.16-12.27.16:611][641]LogStaticMesh: Built static mesh [0.08s] /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/StaticMeshes/Fridge_Door.Fridge_Door
+[2026.11.16-12.27.16:613][641]LogStaticMesh: Reduce [0.11s]
+[2026.11.16-12.27.16:652][641]LogStaticMesh: Fallback [0.04s], num tris: 958
+[2026.11.16-12.27.16:702][641]LogStaticMesh: Fallback [0.05s], num tris: 735
+[2026.11.16-12.27.16:703][641]LogStaticMesh: ConstrainClusters:
+[2026.11.16-12.27.16:703][641]LogStaticMesh:   Input: 28 Clusters, 3521 Triangles and 5054 Vertices
+[2026.11.16-12.27.16:703][641]LogStaticMesh:   Output without splits: 28 Clusters, 3521 Triangles and 5054 Vertices
+[2026.11.16-12.27.16:703][641]LogStaticMesh:   Output with splits: 28 Clusters, 3521 Triangles and 5054 Vertices
+[2026.11.16-12.27.16:704][641]LogStaticMesh: Material Stats - Unique Materials: 4, Fast Path Clusters: 25, Slow Path Clusters: 3, 1 Material: 20, 2 Materials: 4, 3 Materials: 1, At Least 4 Materials: 3
+[2026.11.16-12.27.16:704][641]LogStaticMesh: WritePages: 2
+[2026.11.16-12.27.16:704][641]LogStaticMesh:   Root: GPU size: 32240 bytes. 1 Pages. 32240.000 bytes per page (98.389% utilization).
+[2026.11.16-12.27.16:704][641]LogStaticMesh:   Streaming: GPU size: 28876 bytes. 1 Pages (1 with relative encoding). 28876.000 bytes per page (22.031% utilization).
+[2026.11.16-12.27.16:704][641]LogStaticMesh:   Page data disk size: 52724 bytes. Fixup data size: 225 bytes.
+[2026.11.16-12.27.16:704][641]LogStaticMesh:   Total GPU size: 61116 bytes, Total disk size: 52949 bytes.
+[2026.11.16-12.27.16:704][641]LogStaticMesh: Encode [0.00s]
+[2026.11.16-12.27.16:704][641]LogStaticMesh: NaniteBuild [0.21s]
+[2026.11.16-12.27.16:756][641]LogStaticMesh: Built static mesh [0.26s] /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/StaticMeshes/Fridge.Fridge
+[2026.11.16-12.27.23:318][641]LogSlate: Window 'Message' being destroyed
+[2026.11.16-12.27.23:362][641]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'MaterialInstanceConstant /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/FBX/Fridge.Fridge'?
+[2026.11.16-12.27.23:401][642]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do.../PSX_RetroFridge/GLB/Fridge.glb]
+[2026.11.16-12.27.23:402][642]LogInterchangeEngine: [Pending] Importing - Importing (8)
+[2026.11.16-12.27.23:403][642]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do.../PSX_RetroFridge/GLB/Fridge_Door.glb]
+[2026.11.16-12.27.23:403][642]LogInterchangeEngine: [Pending] Importing - Importing (7)
+[2026.11.16-12.27.23:403][642]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...ture/Texture_02/1024/T_Fridge_02.png]
+[2026.11.16-12.27.23:403][642]LogInterchangeEngine: [Pending] Importing - Importing (6)
+[2026.11.16-12.27.23:404][642]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...xture/Texture_02/512/T_Fridge_02.png]
+[2026.11.16-12.27.23:404][642]LogInterchangeEngine: [Pending] Importing - Importing (5)
+[2026.11.16-12.27.23:404][642]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...xture/Texture_02/512/T_Fridge_Door_02.png]
+[2026.11.16-12.27.23:404][642]LogInterchangeEngine: [Pending] Importing - Importing (4)
+[2026.11.16-12.27.23:404][642]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do..._RetroFridge/Texture/T_Fridge_Emmisive.png]
+[2026.11.16-12.27.23:404][642]LogInterchangeEngine: [Pending] Importing - Importing (3)
+[2026.11.16-12.27.23:406][642]LogTexture: Display: Building texture TwoD: /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/Texture/Texture_02/1024/T_Fridge_Door_02.T_Fridge_Door_02 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.11.16-12.27.23:413][642]LogInterchangeImport: Imported (FBXSDK) of Fridge.fbx in [0 min 6.920 s]
+[2026.11.16-12.27.23:413][642]LogInterchangeImport: MeshPayload (FBXSDK) of Fridge.fbx, [1 1760 848], in [0 min 0.009 s]
+[2026.11.16-12.27.23:416][642]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do.../PSX_RetroFridge/FBX/Fridge.fbx]
+[2026.11.16-12.27.23:416][642]LogInterchangeEngine: Error: [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/FBX/Fridge.fbx : '', StaticMesh] You cannot create an asset of class 'StaticMesh' named 'Fridge' in '/Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/FBX' because there is already an asset of class 'MaterialInstanceConstant' with the same name in that folder.
+[2026.11.16-12.27.23:416][642]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.11.16-12.27.23:416][642]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.11.16-12.27.23:416][642]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/FBX/Fridge_Door.fbx]
+[2026.11.16-12.27.23:435][643]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do...ture/Texture_02/1024/T_Fridge_Door_02.png]
+[2026.11.16-12.27.23:435][643]LogInterchangeEngine: [Pending] Importing - Importing (1)
+[2026.11.16-12.27.23:459][644]LogInterchangeImport: Translation (FBXSDK) of Fridge_Door.fbx in [0 min 0.017 s]
+[2026.11.16-12.27.23:484][645]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.23:596][646]LogStreaming: Display: FlushAsyncLoading(730): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.23:619][648]LogStaticMesh: Display: Building static mesh Fridge_Door1 (Required Memory Estimate: 1.023134 MB)...
+[2026.11.16-12.27.23:622][648]LogStaticMesh: Adjacency [0.00s], tris: 646, UVs 1
+[2026.11.16-12.27.23:623][648]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.11.16-12.27.23:623][648]LogStaticMesh: Leaves [0.00s]
+[2026.11.16-12.27.23:645][650]LogStaticMesh: Reduce [0.02s]
+[2026.11.16-12.27.23:654][651]LogStaticMesh: Fallback [0.01s], num tris: 426
+[2026.11.16-12.27.23:667][652]LogStaticMesh: Fallback [0.01s], num tris: 312
+[2026.11.16-12.27.23:667][652]LogStaticMesh: ConstrainClusters:
+[2026.11.16-12.27.23:667][652]LogStaticMesh:   Input: 15 Clusters, 1402 Triangles and 1995 Vertices
+[2026.11.16-12.27.23:667][652]LogStaticMesh:   Output without splits: 15 Clusters, 1402 Triangles and 1995 Vertices
+[2026.11.16-12.27.23:667][652]LogStaticMesh:   Output with splits: 15 Clusters, 1402 Triangles and 1995 Vertices
+[2026.11.16-12.27.23:667][652]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 15, Slow Path Clusters: 0, 1 Material: 15, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.16-12.27.23:668][652]LogStaticMesh: WritePages: 1
+[2026.11.16-12.27.23:668][652]LogStaticMesh:   Root: GPU size: 23664 bytes. 1 Pages. 23664.000 bytes per page (72.217% utilization).
+[2026.11.16-12.27.23:668][652]LogStaticMesh:   Streaming: 0 bytes.
+[2026.11.16-12.27.23:668][652]LogStaticMesh:   Page data disk size: 19720 bytes. Fixup data size: 152 bytes.
+[2026.11.16-12.27.23:668][652]LogStaticMesh:   Total GPU size: 23664 bytes, Total disk size: 19872 bytes.
+[2026.11.16-12.27.23:668][652]LogStaticMesh: Encode [0.00s]
+[2026.11.16-12.27.23:668][652]LogStaticMesh: NaniteBuild [0.05s]
+[2026.11.16-12.27.23:687][654]LogStaticMesh: Built static mesh [0.07s] /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/FBX/Fridge_Door1.Fridge_Door1
+[2026.11.16-12.27.23:690][654]LogStaticMesh: Warning: Fridge_Door1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.11.16-12.27.23:690][654]LogStaticMesh: Warning: Fridge_Door1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.11.16-12.27.23:710][655]LogInterchangeImport: Imported (FBXSDK) of Fridge_Door.fbx in [0 min 0.268 s]
+[2026.11.16-12.27.23:710][655]LogInterchangeImport: MeshPayload (FBXSDK) of Fridge_Door.fbx, [1 646 323], in [0 min 0.002 s]
+[2026.11.16-12.27.23:713][655]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Do.../PSX_RetroFridge/FBX/Fridge_Door.fbx]
+[2026.11.16-12.27.23:713][655]LogInterchangeEngine: Warning: [C:/Users/2franl85/Downloads/psx_retrofridge/PSX_RetroFridge/FBX/Fridge_Door.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/FBX/Fridge_Door] NewName:[/Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/FBX/Fridge_Door1]
+[2026.11.16-12.27.23:713][655]LogInterchangeEngine: Display: Import Done in 10.091543 seconds.
+[2026.11.16-12.27.23:713][655]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.11.16-12.27.23:713][655]LogInterchangeEngine: [Success] Import Done
+[2026.11.16-12.27.32:454][106]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.32:495][106]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/source/Freezer_Door.fbx]
+[2026.11.16-12.27.32:504][106]LogInterchangeImport: Translation (FBXSDK) of Freezer_Door.fbx in [0 min 0.009 s]
+[2026.11.16-12.27.34:094][106]LogSlate: Window 'Import Content' being destroyed
+[2026.11.16-12.27.34:110][106]LogInterchangeEngine: [Pending] Importing
+[2026.11.16-12.27.34:249][107]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.34:295][108]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.34:397][110]LogInterchangeImport: Imported (FBXSDK) of Freezer_Door.fbx in [0 min 1.902 s]
+[2026.11.16-12.27.34:397][110]LogInterchangeImport: MeshPayload (FBXSDK) of Freezer_Door.fbx, [1 148 76], in [0 min 0.001 s]
+[2026.11.16-12.27.34:400][110]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Downloads/source/Freezer_Door.fbx]
+[2026.11.16-12.27.34:400][110]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.11.16-12.27.34:400][110]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.11.16-12.27.34:400][110]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/source/Fridge.fbx]
+[2026.11.16-12.27.34:479][112]LogInterchangeImport: Translation (FBXSDK) of Fridge.fbx in [0 min 0.030 s]
+[2026.11.16-12.27.34:546][113]LogStreaming: Display: FlushAsyncLoading(736): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.36:531][114]LogSlate: Window 'Message' being destroyed
+[2026.11.16-12.27.36:565][114]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'MaterialInstanceConstant /Game/Kitchen/fridge/source/Fridge.Fridge'?
+[2026.11.16-12.27.36:579][115]LogInterchangeImport: Imported (FBXSDK) of Fridge.fbx in [0 min 2.132 s]
+[2026.11.16-12.27.36:579][115]LogInterchangeImport: MeshPayload (FBXSDK) of Fridge.fbx, [1 1760 848], in [0 min 0.005 s]
+[2026.11.16-12.27.36:582][115]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Downloads/source/Fridge.fbx]
+[2026.11.16-12.27.36:582][115]LogInterchangeEngine: Error: [C:/Users/2franl85/Downloads/source/Fridge.fbx : '', StaticMesh] You cannot create an asset of class 'StaticMesh' named 'Fridge' in '/Game/Kitchen/fridge/source' because there is already an asset of class 'MaterialInstanceConstant' with the same name in that folder.
+[2026.11.16-12.27.36:582][115]LogInterchangeEngine: [Pending] Importing - Importing (1)
+[2026.11.16-12.27.36:582][115]LogInterchangeEngine: [Pending] Importing - Importing (1)
+[2026.11.16-12.27.36:582][115]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2franl85/Downloads/source/Fridge_Door.fbx]
+[2026.11.16-12.27.36:614][118]LogInterchangeImport: Translation (FBXSDK) of Fridge_Door.fbx in [0 min 0.020 s]
+[2026.11.16-12.27.36:688][119]LogStreaming: Display: FlushAsyncLoading(739): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.36:734][120]LogStreaming: Display: FlushAsyncLoading(740): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.16-12.27.36:795][122]LogStaticMesh: Warning: Fridge_Door1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.11.16-12.27.36:795][122]LogStaticMesh: Warning: Fridge_Door1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.11.16-12.27.36:804][122]LogInterchangeImport: Imported (FBXSDK) of Fridge_Door.fbx in [0 min 0.211 s]
+[2026.11.16-12.27.36:804][122]LogInterchangeImport: MeshPayload (FBXSDK) of Fridge_Door.fbx, [1 646 323], in [0 min 0.002 s]
+[2026.11.16-12.27.36:807][122]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2franl85/Downloads/source/Fridge_Door.fbx]
+[2026.11.16-12.27.36:823][122]LogInterchangeEngine: Warning: [C:/Users/2franl85/Downloads/source/Fridge_Door.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Kitchen/fridge/source/Fridge_Door] NewName:[/Game/Kitchen/fridge/source/Fridge_Door1]
+[2026.11.16-12.27.36:823][122]LogInterchangeEngine: Display: Import Done in 2.711088 seconds.
+[2026.11.16-12.27.36:823][122]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.11.16-12.27.36:823][122]LogInterchangeEngine: [Success] Import Done
+[2026.11.16-12.27.58:257][830]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Kitchen/fridge/source/Rail_1.Rail_1
+[2026.11.16-12.28.38:504][  2]LogMaterial: Display: Material /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Freezer_Door/Materials/Fridge.Fridge needed to set usage flag Nanite
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: ================================================
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Total job queries 1,987, among them cache hits 755 (38.00%), DDC hits 346 (17.41%), Duplicates 259 (13.03%)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Tracking 641 distinct input hashes that result in 420 distinct outputs (65.52%)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: RAM used: 5.62 MiB of 1.60 GiB budget. Usage: 0.34%
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Shaders Compiled: 900
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Jobs assigned 900, completed 900 (100%)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Average time worker was idle: 61.72 s
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.73 s
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 1.86 s
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 2.43
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Shader code size: total 8.438 MiB, numShaders 910, average 9.495 KiB, min 2.316 KiB, max 36.344 KiB
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 84.06 s
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Jobs were issued in 900 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Average processing rate: 10.71 jobs/sec
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Total thread time: 257.393 s
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Total thread preprocess time: 28.332 s
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Percentage time preprocessing: 11.01%
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Effective parallelization: 3.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.255160
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    5 times, average 1.36 sec, max 1.71 sec, min 1.11 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   32 times, average 0.66 sec, max 0.94 sec, min 0.43 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   17 times, average 0.65 sec, max 0.81 sec, min 0.50 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   18 times, average 0.62 sec, max 0.77 sec, min 0.48 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.22% of total time (compiled  111 times, average 0.56 sec, max 0.94 sec, min 0.35 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.06% of total time (compiled  235 times, average 0.21 sec, max 0.67 sec, min 0.14 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.48% of total time (compiled  195 times, average 0.15 sec, max 0.37 sec, min 0.10 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.22% of total time (compiled   32 times, average 0.66 sec, max 0.94 sec, min 0.43 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.02% of total time (compiled   95 times, average 0.16 sec, max 0.31 sec, min 0.10 sec)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Materials Translated:    542
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Material Total Translate Time: 0.30 s
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Material Translation Only: 0.17 s (57%)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: Material Cache Hits: 5 (1%)
+[2026.11.16-12.28.46:080][797]LogShaderCompilers: Display: ================================================
+[2026.11.16-12.28.56:707][925]LogMaterial: Display: Material /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/Materials/Fridge.Fridge needed to set usage flag Nanite
+[2026.11.16-12.28.56:764][925]LogMaterial: Display: Material /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/Materials/Fridge_Condensor.Fridge_Condensor needed to set usage flag Nanite
+[2026.11.16-12.28.56:827][925]LogStaticMesh: Warning: Invalid material [Fridge_Condensor] used on Nanite static mesh [Fridge]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.16-12.28.56:827][925]LogMaterial: Display: Material /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/Materials/Rail_1.Rail_1 needed to set usage flag Nanite
+[2026.11.16-12.28.56:882][925]LogStaticMesh: Warning: Invalid material [Rail_1] used on Nanite static mesh [Fridge]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.16-12.28.56:882][925]LogMaterial: Display: Material /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/Materials/Rail_2.Rail_2 needed to set usage flag Nanite
+[2026.11.16-12.28.56:937][925]LogStaticMesh: Warning: Invalid material [Rail_2] used on Nanite static mesh [Fridge]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.16-12.29.11:987][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/StaticMeshes/Fridge.Fridge
+[2026.11.16-12.29.11:987][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/StaticMeshes/Fridge.Fridge
+[2026.11.16-12.29.11:987][209]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/StaticMeshes/Fridge.Fridge as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_130
+[2026.11.16-12.29.12:704][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.11.16-12.29.12:748][261]LogEditorActor: Deleted 0 Actors (0.080 secs)
+[2026.11.16-12.29.12:754][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/StaticMeshes/Fridge.Fridge
+[2026.11.16-12.29.12:756][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/StaticMeshes/Fridge.Fridge
+[2026.11.16-12.29.12:757][261]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge/StaticMeshes/Fridge.Fridge as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_131
+[2026.11.16-12.29.58:735][ 69]LogMaterial: Display: Material /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/Materials/Fridge_Door.Fridge_Door needed to set usage flag Nanite
+[2026.11.16-12.30.00:081][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/StaticMeshes/Fridge_Door.Fridge_Door
+[2026.11.16-12.30.00:081][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/StaticMeshes/Fridge_Door.Fridge_Door
+[2026.11.16-12.30.00:081][134]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/StaticMeshes/Fridge_Door.Fridge_Door as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_132
+[2026.11.16-12.30.01:474][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.11.16-12.30.01:480][233]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.11.16-12.30.01:487][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/StaticMeshes/Fridge_Door.Fridge_Door
+[2026.11.16-12.30.01:487][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/StaticMeshes/Fridge_Door.Fridge_Door
+[2026.11.16-12.30.01:488][233]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/psx_retrofridge/PSX_RetroFridge/GLB/Fridge_Door/StaticMeshes/Fridge_Door.Fridge_Door as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_133
+[2026.11.16-12.31.26:242][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Freezer_Door.Freezer_Door
+[2026.11.16-12.31.26:242][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Freezer_Door.Freezer_Door
+[2026.11.16-12.31.26:242][379]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/source/Freezer_Door.Freezer_Door as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_134
+[2026.11.16-12.31.27:694][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.11.16-12.31.27:703][493]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.11.16-12.31.27:712][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Freezer_Door.Freezer_Door
+[2026.11.16-12.31.27:712][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Freezer_Door.Freezer_Door
+[2026.11.16-12.31.27:713][493]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/source/Freezer_Door.Freezer_Door as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_135
+[2026.11.16-12.31.45:712][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Fridge_Door1.Fridge_Door1
+[2026.11.16-12.31.45:712][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Fridge_Door1.Fridge_Door1
+[2026.11.16-12.31.45:713][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/source/Fridge_Door1.Fridge_Door1 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_136
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: ================================================
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Total job queries 2,007, among them cache hits 769 (38.32%), DDC hits 346 (17.24%), Duplicates 259 (12.90%)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Tracking 647 distinct input hashes that result in 424 distinct outputs (65.53%)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: RAM used: 5.68 MiB of 1.60 GiB budget. Usage: 0.35%
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Shaders Compiled: 906
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Jobs assigned 906, completed 906 (100%)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Average time worker was idle: 61.48 s
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.73 s
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 1.86 s
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 2.43
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Shader code size: total 8.528 MiB, numShaders 916, average 9.534 KiB, min 2.316 KiB, max 36.344 KiB
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 85.61 s
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Jobs were issued in 906 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Average processing rate: 10.58 jobs/sec
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Total thread time: 259.252 s
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Total thread preprocess time: 28.612 s
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Percentage time preprocessing: 11.04%
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Effective parallelization: 3.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.252348
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    5 times, average 1.36 sec, max 1.71 sec, min 1.11 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   32 times, average 0.66 sec, max 0.94 sec, min 0.43 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   18 times, average 0.65 sec, max 0.81 sec, min 0.50 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   19 times, average 0.62 sec, max 0.77 sec, min 0.48 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.05% of total time (compiled  111 times, average 0.56 sec, max 0.94 sec, min 0.35 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.92% of total time (compiled  235 times, average 0.21 sec, max 0.67 sec, min 0.14 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.39% of total time (compiled  195 times, average 0.15 sec, max 0.37 sec, min 0.10 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.16% of total time (compiled   32 times, average 0.66 sec, max 0.94 sec, min 0.43 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.98% of total time (compiled   95 times, average 0.16 sec, max 0.31 sec, min 0.10 sec)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Materials Translated:    544
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Material Total Translate Time: 0.30 s
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Material Translation Only: 0.17 s (57%)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: Material Cache Hits: 5 (1%)
+[2026.11.16-12.31.46:082][914]LogShaderCompilers: Display: ================================================
+[2026.11.16-12.31.48:460][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.11.16-12.31.48:468][ 97]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.11.16-12.31.48:475][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Fridge_Door1.Fridge_Door1
+[2026.11.16-12.31.48:475][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Kitchen/fridge/source/Fridge_Door1.Fridge_Door1
+[2026.11.16-12.31.48:476][ 97]LogActorFactory: Actor Factory spawned StaticMesh /Game/Kitchen/fridge/source/Fridge_Door1.Fridge_Door1 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_137
+[2026.11.16-12.31.49:679][199]Cmd: DELETE
+[2026.11.16-12.31.49:679][199]Cmd: ACTOR DELETE
+[2026.11.16-12.31.49:703][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-12.31.49:723][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.11.16-12.31.49:727][199]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2026.11.16-12.31.53:991][578]Cmd: DELETE
+[2026.11.16-12.31.53:991][578]Cmd: ACTOR DELETE
+[2026.11.16-12.31.53:994][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.11.16-12.31.54:018][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.11.16-12.31.54:022][578]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.11.16-12.31.57:469][903]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-12.31.57:480][903]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.16-12.31.57:480][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-12.31.57:480][903]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-12.31.57:487][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007263s)
+[2026.11.16-12.31.57:487][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.007325s)
+[2026.11.16-12.31.57:507][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.11.16-12.31.57:510][903]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-12.31.57:512][903]LogPlayLevel: PIE: World Init took: (0.002005s)
+[2026.11.16-12.31.57:512][903]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-12.31.57:513][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-12.31.57:513][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-12.31.57:513][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-12.31.57:513][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-12.31.57:513][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-12.31.57:513][903]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.16-12.31.57:518][903]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Realtek Digital Output (Realtek(R) Audio)'
+[2026.11.16-12.31.57:519][903]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Realtek Digital Output (Realtek(R) Audio)'
+[2026.11.16-12.31.57:521][903]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='S34CG50 (NVIDIA High Definition Audio)'
+[2026.11.16-12.31.57:527][903]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.16-12.31.57:527][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.16-12.31.57:527][903]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.16-12.31.57:528][903]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.16-12.31.57:548][903]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.16-12.31.57:548][903]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.16-12.31.57:548][903]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.16-12.31.57:548][903]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2026.11.16-12.31.57:549][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-12.31.57:549][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-12.31.57:549][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-12.31.57:550][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.11.16-12.31.57:552][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.11.16-12.31.57:555][903]LogInit: FAudioDevice initialized with ID 14.
+[2026.11.16-12.31.57:555][903]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_1'.
+[2026.11.16-12.31.57:555][903]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.11.16-12.31.57:556][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-12.31.57:560][903]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-12.31.57:562][903]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-12.31.57
+[2026.11.16-12.31.57:562][903]LogWorld: Bringing up level for play took: 0.002517
+[2026.11.16-12.31.57:566][903]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.11.16-12.31.57:566][903]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.16-12.31.57:570][903]PIE: Server logged in
+[2026.11.16-12.31.57:572][903]PIE: Play in editor total start time 0.093 seconds.
+[2026.11.16-12.31.57:614][904]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-12.32.06:993][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-12.32.06:993][556]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-12.32.06:993][556]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-12.32.06:994][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-12.32.06:995][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-12.32.06:998][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-12.32.07:022][556]LogAudio: Display: Audio Device unregistered from world 'Level_1'.
+[2026.11.16-12.32.07:022][556]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.11.16-12.32.07:022][556]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=14, StreamState=4
+[2026.11.16-12.32.07:034][556]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.16-12.32.07:042][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-12.32.07:044][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.11.16-12.32.07:076][557]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.11.16-12.32.27:893][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7068.304688
+[2026.11.16-12.32.28:062][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-12.32.28:062][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7068.463867, Update Interval: 319.470215
+[2026.11.16-12.32.29:977][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-12.32.30:033][449]LogFileHelpers: Saving Map: /Game/Levels/Level_1
+[2026.11.16-12.32.30:033][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level_1] ([1] browsable assets)...
+[2026.11.16-12.32.30:033][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level_1]
+[2026.11.16-12.32.30:070][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.16-12.32.30:096][449]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-12.32.30:096][449]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1260A360F43AEE92416681FB6857837F4.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-12.32.30:117][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.821 ms (total: 3.42 sec)
+[2026.11.16-12.32.30:167][449]LogContentValidation: Enabled validators:
+[2026.11.16-12.32.30:167][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-12.32.30:168][449]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-12.32.30:168][449]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-12.32.30:168][449]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-12.32.30:168][449]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-12.32.30:168][449]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-12.32.30:168][449]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
