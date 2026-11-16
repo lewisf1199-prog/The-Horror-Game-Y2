@@ -7,7 +7,35 @@
 			"files": [
 				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap",
 				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset",
-				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/MSPresets/MS_DefaultMaterial/Wood_Floor.uasset"
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/MSPresets/MS_DefaultMaterial/Wood_Floor.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Materials/Wood_Planks_throbglfw_4K.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Materials/wood_floor_2.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_BaseColor.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Materials/MI_throbglfw.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_B.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_H.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_N.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Surfaces/Wood_Planks_throbglfw/High/throbglfw_tier_1/Textures/T_throbglfw_4K_ORM.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_AO.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Bump.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Additional_Textures/Wood_Planks_throbglfw_4K_Cavity.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Displacement.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Gloss_Mat.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Normal.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Roughness.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Textures/Wood_Planks_throbglfw_4K_Specular.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/Fab/Megascans/Wood_Planks/High/Additional_Textures/thumbnail.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"C:/Uni Stuff/Year 2/UIUX/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset"
 			]
 		}
 	]
