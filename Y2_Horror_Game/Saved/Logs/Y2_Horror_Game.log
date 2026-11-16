@@ -9221,3 +9221,474 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.16-13.09.30:292][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kitchen/fridge/source/Fridge_Door1_Auto0
 [2026.11.16-13.09.30:292][270]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Fridge_Door1_Auto002B959C64FF8D9BDD7730CA29E96C93A.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Autosaves/Game/Kitchen/fridge/source/Fridge_Door1_Auto0.uasset'
 [2026.11.16-13.09.30:292][270]LogFileHelpers: Auto-saving content packages took 2.173
+[2026.11.16-13.10.39:110][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.10.39:170][487]LogFileHelpers: Saving Map: /Game/Levels/Level_1
+[2026.11.16-13.10.39:170][487]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level_1] ([1] browsable assets)...
+[2026.11.16-13.10.39:170][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level_1]
+[2026.11.16-13.10.39:206][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.11.16-13.10.39:229][487]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2026.11.16-13.10.39:230][487]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Level_1350654BC41C0C623B84A948B7F7F2AE5.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/Levels/Level_1.umap'
+[2026.11.16-13.10.39:246][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.207 ms (total: 3.70 sec)
+[2026.11.16-13.10.39:301][487]LogContentValidation: Enabled validators:
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.10.39:301][487]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.10.39:301][487]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.10.39:302][487]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.10.39:302][487]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2026.11.16-13.10.39:302][487]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.10.39:302][487]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.10.46:071][ 68]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.16-13.10.46:081][ 68]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.16-13.10.46:081][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.16-13.10.46:081][ 68]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-13.10.46:088][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007021s)
+[2026.11.16-13.10.46:088][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.007065s)
+[2026.11.16-13.10.46:108][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.11.16-13.10.46:110][ 68]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2026.11.16-13.10.46:111][ 68]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2026.11.16-13.10.46:111][ 68]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.16-13.10.46:111][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.16-13.10.46:111][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.16-13.10.46:111][ 68]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.16-13.10.46:111][ 68]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.16-13.10.46:111][ 68]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.16-13.10.46:111][ 68]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.16-13.10.46:116][ 68]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Realtek Digital Output (Realtek(R) Audio)'
+[2026.11.16-13.10.46:117][ 68]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Realtek Digital Output (Realtek(R) Audio)'
+[2026.11.16-13.10.46:118][ 68]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='S34CG50 (NVIDIA High Definition Audio)'
+[2026.11.16-13.10.46:125][ 68]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.16-13.10.46:125][ 68]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.16-13.10.46:125][ 68]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.16-13.10.46:125][ 68]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.16-13.10.46:139][ 68]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.16-13.10.46:139][ 68]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.16-13.10.46:139][ 68]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.16-13.10.46:139][ 68]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2026.11.16-13.10.46:139][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.16-13.10.46:139][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.16-13.10.46:139][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.16-13.10.46:141][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.11.16-13.10.46:144][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.11.16-13.10.46:147][ 68]LogInit: FAudioDevice initialized with ID 16.
+[2026.11.16-13.10.46:147][ 68]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_1'.
+[2026.11.16-13.10.46:148][ 68]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.11.16-13.10.46:148][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-13.10.46:152][ 68]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.11.16-13.10.46:154][ 68]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2026.11.16-13.10.46
+[2026.11.16-13.10.46:154][ 68]LogWorld: Bringing up level for play took: 0.002509
+[2026.11.16-13.10.46:157][ 68]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.11.16-13.10.46:157][ 68]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.16-13.10.46:162][ 68]PIE: Server logged in
+[2026.11.16-13.10.46:164][ 68]PIE: Play in editor total start time 0.084 seconds.
+[2026.11.16-13.10.46:204][ 69]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.16-13.10.49:537][290]Cmd: DebugManager.CycleToPreviousColumn
+[2026.11.16-13.10.56:865][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-13.10.56:865][813]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2026.11.16-13.10.56:866][813]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.16-13.10.56:867][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-13.10.56:869][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.16-13.10.56:871][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.16-13.10.56:892][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.16-13.10.56:894][813]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.11.16-13.10.56:894][813]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=16, StreamState=4
+[2026.11.16-13.10.56:906][813]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.16-13.10.56:915][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.11.16-13.10.56:961][814]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.11.16-13.11.01:826][153]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall
+[2026.11.16-13.13.09:579][ 76]LogMaterialEditor: Applying material Plaster_wall
+[2026.11.16-13.13.11:305][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.16-13.13.12:052][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.11.16-13.13.13:549][240]LogMaterialEditor: Saving and Compiling material Plaster_wall
+[2026.11.16-13.13.13:551][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.13.13:604][240]LogFileHelpers: Saving Package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.13.13:605][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MurdocMaterials/PlasterWall/Plaster_wall] ([1] browsable assets)...
+[2026.11.16-13.13.13:612][240]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall]
+[2026.11.16-13.13.13:612][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/MurdocMaterials/PlasterWall/Plaster_wall]
+[2026.11.16-13.13.13:621][240]LogSavePackage: Moving output files for package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.13.13:622][240]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Plaster_wall4149E2CE4AFA214D6AE8E68F204B9D4C.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset'
+[2026.11.16-13.13.13:629][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.993 ms (total: 3.78 sec)
+[2026.11.16-13.13.13:688][240]LogContentValidation: Enabled validators:
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.13.13:688][240]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.13.13:688][240]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.13.13:688][240]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.13.13:688][240]AssetCheck: /Game/MurdocMaterials/PlasterWall/Plaster_wall Validating asset
+[2026.11.16-13.13.13:688][240]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.13.13:688][240]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.13.13:688][240]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.13.13:688][240]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.13.13:688][240]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.13.13:689][240]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.13.13:689][240]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.13.13:689][240]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.13.13:689][240]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.13.13:689][240]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.13.13:707][240]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.16-13.13.25:699][420]LogMaterialEditor: Applying material Plaster_wall
+[2026.11.16-13.13.25:787][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.11.16-13.13.26:517][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.11.16-13.13.27:218][497]LogMaterialEditor: Saving and Compiling material Plaster_wall
+[2026.11.16-13.13.27:220][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.13.27:276][497]LogFileHelpers: Saving Package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.13.27:276][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MurdocMaterials/PlasterWall/Plaster_wall] ([1] browsable assets)...
+[2026.11.16-13.13.27:284][497]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall]
+[2026.11.16-13.13.27:284][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/MurdocMaterials/PlasterWall/Plaster_wall]
+[2026.11.16-13.13.27:292][497]LogSavePackage: Moving output files for package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.13.27:293][497]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Plaster_wall3B9AE99B4803D96E9B0D75AF64C33D18.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset'
+[2026.11.16-13.13.27:301][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.352 ms (total: 3.86 sec)
+[2026.11.16-13.13.27:345][497]LogContentValidation: Enabled validators:
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.13.27:345][497]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.13.27:345][497]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.13.27:345][497]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.13.27:345][497]AssetCheck: /Game/MurdocMaterials/PlasterWall/Plaster_wall Validating asset
+[2026.11.16-13.13.27:345][497]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.13.27:345][497]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: ================================================
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Total job queries 2,117, among them cache hits 820 (38.73%), DDC hits 348 (16.44%), Duplicates 270 (12.75%)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Tracking 678 distinct input hashes that result in 441 distinct outputs (65.04%)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: RAM used: 5.89 MiB of 1.60 GiB budget. Usage: 0.36%
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Shaders Compiled: 993
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Jobs assigned 993, completed 993 (100%)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Average time worker was idle: 84.22 s
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.73 s
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 1.86 s
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 2.43
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Shader code size: total 9.346 MiB, numShaders 1,005, average 9.522 KiB, min 2.316 KiB, max 36.344 KiB
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 94.52 s
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Jobs were issued in 993 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Average processing rate: 10.51 jobs/sec
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Total thread time: 282.806 s
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Total thread preprocess time: 30.2 s
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Percentage time preprocessing: 10.68%
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Effective parallelization: 2.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.249338
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    5 times, average 1.36 sec, max 1.71 sec, min 1.11 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   36 times, average 0.66 sec, max 1.05 sec, min 0.42 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   18 times, average 0.65 sec, max 0.81 sec, min 0.50 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   19 times, average 0.62 sec, max 0.77 sec, min 0.48 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.02% of total time (compiled  121 times, average 0.56 sec, max 0.94 sec, min 0.35 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.02% of total time (compiled  258 times, average 0.21 sec, max 0.67 sec, min 0.14 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.51% of total time (compiled  216 times, average 0.15 sec, max 0.37 sec, min 0.10 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.42% of total time (compiled   36 times, average 0.66 sec, max 1.05 sec, min 0.42 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.30% of total time (compiled   30 times, average 0.59 sec, max 0.89 sec, min 0.40 sec)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Materials Translated:    567
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Material Translation Only: 0.18 s (57%)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: Material Cache Hits: 5 (1%)
+[2026.11.16-13.13.47:208][351]LogShaderCompilers: Display: ================================================
+[2026.11.16-13.14.40:109][230]LogMaterialEditor: Saving and Compiling material Plaster_wall
+[2026.11.16-13.14.40:196][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.11.16-13.14.41:223][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.11.16-13.14.41:234][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.14.41:277][230]LogFileHelpers: Saving Package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.14.41:277][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MurdocMaterials/PlasterWall/Plaster_wall] ([1] browsable assets)...
+[2026.11.16-13.14.41:289][230]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall]
+[2026.11.16-13.14.41:289][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/MurdocMaterials/PlasterWall/Plaster_wall]
+[2026.11.16-13.14.41:297][230]LogSavePackage: Moving output files for package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.14.41:298][230]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Plaster_wallBEEEEB0D43859FBD30A6A88ABB775024.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset'
+[2026.11.16-13.14.41:305][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.480 ms (total: 3.94 sec)
+[2026.11.16-13.14.41:363][230]LogContentValidation: Enabled validators:
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.14.41:363][230]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.14.41:363][230]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.14.41:363][230]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.14.41:363][230]AssetCheck: /Game/MurdocMaterials/PlasterWall/Plaster_wall Validating asset
+[2026.11.16-13.14.41:363][230]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.14.41:363][230]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.15.17:715][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9637.964844
+[2026.11.16-13.15.17:866][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-13.15.17:866][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9638.107422, Update Interval: 338.154846
+[2026.11.16-13.16.30:344][746]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MurdocMaterials/PlasterWall/Textures/PlasterWall_occlusionmetallicroughness.PlasterWall_occlusionmetallicroughness
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: ================================================
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Total job queries 2,171, among them cache hits 860 (39.61%), DDC hits 348 (16.03%), Duplicates 270 (12.44%)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Tracking 686 distinct input hashes that result in 443 distinct outputs (64.58%)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: RAM used: 5.91 MiB of 1.60 GiB budget. Usage: 0.36%
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Shaders Compiled: 1,034
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Jobs assigned 1,034, completed 1,034 (100%)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Average time worker was idle: 82.24 s
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.73 s
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 1.86 s
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 2.43
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Shader code size: total 9.68 MiB, numShaders 1,046, average 9.477 KiB, min 2.316 KiB, max 36.344 KiB
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 98.44 s
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Jobs were issued in 1,034 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Average processing rate: 10.50 jobs/sec
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Total thread time: 291.961 s
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Total thread preprocess time: 30.885 s
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Percentage time preprocessing: 10.58%
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Effective parallelization: 2.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.247166
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    5 times, average 1.36 sec, max 1.71 sec, min 1.11 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   37 times, average 0.66 sec, max 1.05 sec, min 0.42 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   18 times, average 0.65 sec, max 0.81 sec, min 0.50 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   19 times, average 0.62 sec, max 0.77 sec, min 0.48 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.13% of total time (compiled  126 times, average 0.56 sec, max 0.94 sec, min 0.35 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.26% of total time (compiled  270 times, average 0.21 sec, max 0.67 sec, min 0.14 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.77% of total time (compiled  228 times, average 0.15 sec, max 0.37 sec, min 0.10 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.31% of total time (compiled   37 times, average 0.66 sec, max 1.05 sec, min 0.42 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.25% of total time (compiled   31 times, average 0.59 sec, max 0.89 sec, min 0.40 sec)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Materials Translated:    578
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Material Translation Only: 0.18 s (57%)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: Material Cache Hits: 5 (1%)
+[2026.11.16-13.16.47:214][434]LogShaderCompilers: Display: ================================================
+[2026.11.16-13.17.14:265][364]LogMaterialEditor: Applying material Plaster_wall
+[2026.11.16-13.17.14:368][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.11.16-13.17.15:308][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.11.16-13.17.16:725][529]LogMaterialEditor: Saving and Compiling material Plaster_wall
+[2026.11.16-13.17.16:727][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.17.16:783][529]LogFileHelpers: Saving Package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.17.16:783][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MurdocMaterials/PlasterWall/Plaster_wall] ([1] browsable assets)...
+[2026.11.16-13.17.16:792][529]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall]
+[2026.11.16-13.17.16:792][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/MurdocMaterials/PlasterWall/Plaster_wall]
+[2026.11.16-13.17.16:801][529]LogSavePackage: Moving output files for package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.17.16:801][529]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Plaster_wall66239C13435EB3F2C1BBE8AD5954D268.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset'
+[2026.11.16-13.17.16:809][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.639 ms (total: 4.02 sec)
+[2026.11.16-13.17.16:870][529]LogContentValidation: Enabled validators:
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.17.16:870][529]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.17.16:870][529]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.17.16:870][529]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.17.16:870][529]AssetCheck: /Game/MurdocMaterials/PlasterWall/Plaster_wall Validating asset
+[2026.11.16-13.17.16:870][529]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.17.16:870][529]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.17.16:870][529]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.17.16:871][529]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.17.16:871][529]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.17.16:871][529]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.17.16:871][529]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.17.16:871][529]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.17.16:871][529]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.17.16:871][529]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.18.12:394][400]LogMaterialEditor: Applying material Plaster_wall
+[2026.11.16-13.18.12:483][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.11.16-13.18.12:674][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.11.16-13.18.13:168][445]LogMaterialEditor: Saving and Compiling material Plaster_wall
+[2026.11.16-13.18.13:170][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.18.13:211][445]LogFileHelpers: Saving Package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.18.13:211][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MurdocMaterials/PlasterWall/Plaster_wall] ([1] browsable assets)...
+[2026.11.16-13.18.13:218][445]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall]
+[2026.11.16-13.18.13:218][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/MurdocMaterials/PlasterWall/Plaster_wall]
+[2026.11.16-13.18.13:228][445]LogSavePackage: Moving output files for package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.18.13:229][445]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Plaster_wall0D67845A4B966A1E0E660A92EAB51F5D.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset'
+[2026.11.16-13.18.13:236][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.687 ms (total: 4.08 sec)
+[2026.11.16-13.18.13:296][445]LogContentValidation: Enabled validators:
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.18.13:296][445]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.18.13:296][445]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.18.13:296][445]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.18.13:296][445]AssetCheck: /Game/MurdocMaterials/PlasterWall/Plaster_wall Validating asset
+[2026.11.16-13.18.13:296][445]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.18.13:296][445]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.18.57:630][131]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MurdocMaterials/PlasterWall/Textures/PlasterWall_normal.PlasterWall_normal
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: ================================================
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Total job queries 2,228, among them cache hits 893 (40.08%), DDC hits 348 (15.62%), Duplicates 276 (12.39%)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Tracking 695 distinct input hashes that result in 448 distinct outputs (64.46%)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: RAM used: 5.96 MiB of 1.60 GiB budget. Usage: 0.36%
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Shaders Compiled: 1,070
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Jobs assigned 1,070, completed 1,070 (100%)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Average time worker was idle: 80.87 s
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.73 s
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 1.86 s
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 2.43
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Shader code size: total 9.976 MiB, numShaders 1,082, average 9.441 KiB, min 2.316 KiB, max 36.344 KiB
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 102.24 s
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Jobs were issued in 1,070 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Average processing rate: 10.47 jobs/sec
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Total thread time: 299.384 s
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Total thread preprocess time: 31.578 s
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Percentage time preprocessing: 10.55%
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Effective parallelization: 2.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.244030
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    5 times, average 1.36 sec, max 1.71 sec, min 1.11 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   18 times, average 0.65 sec, max 0.81 sec, min 0.50 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   38 times, average 0.65 sec, max 1.05 sec, min 0.42 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   19 times, average 0.62 sec, max 0.77 sec, min 0.48 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.30% of total time (compiled  131 times, average 0.56 sec, max 0.94 sec, min 0.35 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.34% of total time (compiled  279 times, average 0.21 sec, max 0.67 sec, min 0.14 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.83% of total time (compiled  236 times, average 0.15 sec, max 0.37 sec, min 0.10 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.25% of total time (compiled   38 times, average 0.65 sec, max 1.05 sec, min 0.42 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.23% of total time (compiled   32 times, average 0.58 sec, max 0.89 sec, min 0.40 sec)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: === Material stats ===
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Materials Translated:    587
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Material Translation Only: 0.18 s (57%)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: Material Cache Hits: 5 (1%)
+[2026.11.16-13.19.47:225][ 12]LogShaderCompilers: Display: ================================================
+[2026.11.16-13.21.03:172][649]LogMaterialEditor: Applying material Plaster_wall
+[2026.11.16-13.21.03:276][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.11.16-13.21.03:491][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.11.16-13.21.04:029][704]LogMaterialEditor: Saving and Compiling material Plaster_wall
+[2026.11.16-13.21.04:031][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.21.04:076][704]LogFileHelpers: Saving Package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.21.04:077][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MurdocMaterials/PlasterWall/Plaster_wall] ([1] browsable assets)...
+[2026.11.16-13.21.04:087][704]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall]
+[2026.11.16-13.21.04:087][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/MurdocMaterials/PlasterWall/Plaster_wall]
+[2026.11.16-13.21.04:096][704]LogSavePackage: Moving output files for package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.21.04:097][704]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Plaster_wallBEAE029F4E4A3C32E5617487E8520797.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset'
+[2026.11.16-13.21.04:105][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.252 ms (total: 4.16 sec)
+[2026.11.16-13.21.04:163][704]LogContentValidation: Enabled validators:
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.21.04:163][704]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.21.04:163][704]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.21.04:163][704]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.21.04:163][704]AssetCheck: /Game/MurdocMaterials/PlasterWall/Plaster_wall Validating asset
+[2026.11.16-13.21.04:163][704]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.21.04:163][704]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.21.45:213][248]LogMaterialEditor: Applying material Plaster_wall
+[2026.11.16-13.21.46:859][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.11.16-13.21.47:653][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.11.16-13.21.48:502][333]LogMaterialEditor: Saving and Compiling material Plaster_wall
+[2026.11.16-13.21.48:504][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.16-13.21.48:546][333]LogFileHelpers: Saving Package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.21.48:546][333]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MurdocMaterials/PlasterWall/Plaster_wall] ([1] browsable assets)...
+[2026.11.16-13.21.48:552][333]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MurdocMaterials/PlasterWall/Plaster_wall.Plaster_wall]
+[2026.11.16-13.21.48:552][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/MurdocMaterials/PlasterWall/Plaster_wall]
+[2026.11.16-13.21.48:563][333]LogSavePackage: Moving output files for package: /Game/MurdocMaterials/PlasterWall/Plaster_wall
+[2026.11.16-13.21.48:563][333]LogSavePackage: Moving '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Saved/Plaster_wall2928AD4540E29CA470D267A0823C6926.tmp' to '../../../../../../Users/2franl85/Documents/GitHub/The-Horror-Game-Y2/Y2_Horror_Game/Content/MurdocMaterials/PlasterWall/Plaster_wall.uasset'
+[2026.11.16-13.21.48:570][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.488 ms (total: 4.22 sec)
+[2026.11.16-13.21.48:628][333]LogContentValidation: Enabled validators:
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.16-13.21.48:628][333]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.16-13.21.48:628][333]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.16-13.21.48:628][333]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.16-13.21.48:628][333]AssetCheck: /Game/MurdocMaterials/PlasterWall/Plaster_wall Validating asset
+[2026.11.16-13.21.48:628][333]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.16-13.21.48:628][333]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.16-13.21.54:320][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10034.747070
+[2026.11.16-13.21.54:496][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.16-13.21.54:497][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10034.911133, Update Interval: 346.651215
